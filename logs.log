@@ -1,0 +1,1353 @@
+2020-04-18 21:03:17,708 INFO cases.OtusRunTest [main] Драйвер поднят
+2020-04-18 21:03:20,166 INFO cases.OtusRunTest [main] OTUS Открыт
+2020-04-18 21:04:28,750 INFO cases.OtusRunTest [main] Драйвер поднят
+2020-04-18 21:04:31,380 INFO cases.OtusRunTest [main] OTUS Открыт
+2020-04-18 21:09:51,615 INFO cases.OtusRunTest [main] Драйвер поднят
+2020-04-18 21:09:53,798 INFO cases.OtusRunTest [main] OTUS Открыт
+2020-04-21 01:50:41,981 INFO cases.OtusRunTest [main] Драйвер поднят
+2020-04-21 01:50:45,950 INFO cases.OtusRunTest [main] OTUS Открыт
+2020-04-21 21:00:12,599 INFO cases.OtusRunTest [main] Драйвер поднят
+2020-04-21 21:00:19,295 INFO cases.OtusRunTest [main] OTUS Открыт
+2020-04-21 21:01:28,991 INFO cases.OtusRunTest [main] Драйвер поднят
+2020-04-21 21:01:31,685 INFO cases.OtusRunTest [main] OTUS Открыт
+2020-04-21 21:02:30,958 INFO cases.OtusRunTest [main] Драйвер поднят
+2020-04-21 21:02:33,412 INFO cases.OtusRunTest [main] OTUS Открыт
+2020-04-21 21:02:43,179 INFO cases.OtusRunTest [main] Драйвер поднят
+2020-04-21 21:02:45,816 INFO cases.OtusRunTest [main] OTUS Открыт
+2020-04-21 21:05:44,831 INFO cases.OtusRunTest [main] Драйвер поднят
+2020-04-21 21:05:47,287 INFO cases.OtusRunTest [main] OTUS Открыт
+2020-04-21 21:06:45,291 INFO cases.OtusRunTest [main] Драйвер поднят
+2020-04-21 21:14:03,729 INFO cases.OtusRunTest [main] Драйвер поднят
+2020-04-21 21:14:30,108 INFO cases.OtusRunTest [main] Драйвер поднят
+2020-04-21 21:14:45,739 INFO cases.OtusRunTest [main] Драйвер поднят
+2020-04-21 21:15:29,432 INFO cases.OtusRunTest [main] Драйвер поднят
+2020-04-21 21:16:23,871 INFO cases.OtusRunTest [main] Драйвер поднят
+2020-04-21 21:17:52,355 INFO cases.OtusRunTest [main] Драйвер поднят
+2020-04-21 21:18:24,929 INFO cases.OtusRunTest [main] Драйвер поднят
+2020-04-28 00:14:07,572 INFO cases.OtusRunTest [main] Драйвер поднят
+2020-04-28 00:14:32,691 INFO cases.OtusRunTest [main] Драйвер поднят
+2020-04-28 01:09:34,810 INFO cases.OtusRunTest [main] Драйвер up
+2020-04-28 01:09:36,889 INFO cases.OtusRunTest [main] Драйвер off
+2020-04-28 01:09:48,615 INFO cases.OtusRunTest [main] Драйвер up
+2020-04-28 01:10:00,217 INFO cases.OtusRunTest [main] Драйвер off
+2020-04-28 01:13:14,733 INFO cases.OtusRunTest [main] Драйвер up
+2020-04-28 01:13:27,625 INFO cases.OtusRunTest [main] Драйвер off
+2020-04-28 01:13:37,169 INFO cases.OtusRunTest [main] Драйвер up
+2020-04-28 01:13:39,748 INFO cases.OtusRunTest [main] Драйвер off
+2020-04-28 01:24:48,117 INFO cases.OtusRunTest [main] Драйвер up
+2020-04-28 01:24:50,879 INFO cases.OtusRunTest [main] Драйвер off
+2020-04-28 01:25:21,275 INFO cases.OtusRunTest [main] Драйвер up
+2020-04-28 01:25:23,287 INFO cases.OtusRunTest [main] Драйвер off
+2020-04-28 01:25:32,648 INFO cases.OtusRunTest [main] Драйвер up
+2020-04-28 01:25:35,698 INFO cases.OtusRunTest [main] Драйвер off
+2020-04-28 01:26:40,390 INFO cases.OtusRunTest [main] Драйвер up
+2020-04-28 01:26:43,784 INFO cases.OtusRunTest [main] Драйвер off
+2020-04-28 01:26:57,724 INFO cases.OtusRunTest [main] Драйвер up
+2020-04-28 01:27:08,896 INFO cases.OtusRunTest [main] Драйвер off
+2020-05-19 00:50:32,386 INFO cases.OtusRunTest [main] Драйвер up
+2020-05-19 00:50:42,958 INFO cases.OtusRunTest [main] Драйвер off
+2020-05-19 00:53:04,303 INFO cases.OtusRunTest [main] Драйвер up
+2020-05-19 00:53:20,814 INFO cases.OtusRunTest [main] Драйвер off
+2020-05-19 00:53:33,824 INFO cases.OtusRunTest [main] Драйвер up
+2020-05-19 00:53:37,794 INFO cases.OtusRunTest [main] Драйвер off
+2020-05-19 00:53:59,379 INFO cases.OtusRunTest [main] Драйвер up
+2020-05-19 00:54:01,530 INFO cases.OtusRunTest [main] Драйвер off
+2020-05-19 00:54:11,980 INFO cases.OtusRunTest [main] Драйвер up
+2020-05-19 00:54:24,744 INFO cases.OtusRunTest [main] Драйвер off
+2020-05-19 00:55:12,834 INFO cases.OtusRunTest [main] Драйвер up
+2020-05-19 00:56:39,866 INFO cases.OtusRunTest [main] Драйвер up
+2020-05-19 00:56:53,209 INFO cases.OtusRunTest [main] Драйвер off
+2020-05-19 01:30:26,990 INFO cases.OtusRunTest [main] Драйвер up
+2020-05-19 01:30:37,114 INFO cases.OtusRunTest [main] Драйвер off
+2020-05-24 16:23:34,183 INFO cases.OtusRunTest [main] Драйвер up
+2020-05-24 16:23:46,841 INFO cases.OtusRunTest [main] Драйвер off
+2020-05-24 16:24:00,844 INFO cases.OtusRunTest [main] Драйвер up
+2020-05-24 16:24:03,652 INFO cases.OtusRunTest [main] Драйвер off
+2020-05-24 20:19:03,682 INFO cases.OtusRunTest [main] Драйвер up
+2020-05-24 20:19:08,763 INFO cases.OtusRunTest [main] Драйвер off
+2020-05-24 20:19:10,308 INFO OtusTest [main] Драйвер поднят
+2020-05-24 20:19:15,844 INFO OtusTest [main] OTUS Открыт
+2020-05-24 20:49:48,601 INFO cases.OtusRunTest [main] Драйвер up
+2020-05-24 20:49:54,783 INFO cases.OtusRunTest [main] Драйвер off
+2020-05-24 20:54:16,021 INFO cases.OtusRunTest [main] Драйвер up
+2020-05-24 20:54:21,497 INFO cases.OtusRunTest [main] Драйвер off
+2020-05-24 21:01:11,175 INFO cases.OtusRunTest [main] Драйвер up
+2020-05-24 21:01:16,715 INFO cases.OtusRunTest [main] Драйвер off
+2020-05-24 21:07:49,713 INFO cases.OtusRunTest [main] Драйвер up
+2020-05-24 21:07:56,495 INFO cases.OtusRunTest [main] Драйвер off
+2020-05-24 21:07:58,299 INFO cases.OtusRunTest [main] Драйвер up
+2020-05-24 21:08:04,718 INFO cases.OtusRunTest [main] Драйвер off
+2020-05-24 21:14:20,239 INFO cases.OtusRunTest [main] Драйвер up
+2020-05-24 21:14:26,105 INFO cases.OtusRunTest [main] Драйвер off
+2020-05-24 21:14:28,399 INFO cases.OtusRunTest [main] Драйвер up
+2020-05-24 21:14:37,967 INFO cases.OtusRunTest [main] Драйвер off
+2020-05-24 21:19:23,140 INFO cases.OtusRunTest [main] Драйвер up
+2020-05-24 21:19:28,692 INFO cases.OtusRunTest [main] Драйвер off
+2020-05-24 21:19:30,522 INFO cases.OtusRunTest [main] Драйвер up
+2020-05-24 21:19:39,175 INFO cases.OtusRunTest [main] Драйвер off
+2020-05-24 21:20:25,570 INFO cases.OtusRunTest [main] Драйвер up
+2020-05-24 21:20:31,411 INFO cases.OtusRunTest [main] Драйвер off
+2020-05-24 21:20:33,351 INFO cases.OtusRunTest [main] Драйвер up
+2020-05-24 21:20:42,376 INFO cases.OtusRunTest [main] Драйвер off
+2020-05-24 21:25:13,332 INFO cases.OtusRunTest [main] Драйвер up
+2020-05-24 21:25:19,425 INFO cases.OtusRunTest [main] Драйвер off
+2020-05-24 21:25:21,521 INFO cases.OtusRunTest [main] Драйвер up
+2020-05-24 21:25:30,418 INFO cases.OtusRunTest [main] Драйвер off
+2020-05-24 22:56:24,470 INFO cases.OtusRunTest [main] Драйвер up
+2020-05-24 22:56:29,747 INFO cases.OtusRunTest [main] Драйвер off
+2020-05-24 22:56:31,576 INFO cases.OtusRunTest [main] Драйвер up
+2020-05-24 22:56:36,324 INFO cases.OtusRunTest [main] Драйвер off
+2020-05-24 22:57:01,978 INFO cases.OtusRunTest [main] Драйвер up
+2020-05-24 22:57:06,860 INFO cases.OtusRunTest [main] Драйвер off
+2020-05-24 22:57:08,715 INFO cases.OtusRunTest [main] Драйвер up
+2020-05-24 22:57:15,905 INFO cases.OtusRunTest [main] Драйвер off
+2020-05-24 23:00:34,385 INFO cases.OtusRunTest [main] Драйвер up
+2020-05-24 23:00:39,253 INFO cases.OtusRunTest [main] Драйвер off
+2020-05-24 23:00:41,013 INFO cases.OtusRunTest [main] Драйвер up
+2020-05-24 23:00:48,312 INFO cases.OtusRunTest [main] Драйвер off
+2020-05-24 23:04:34,671 INFO cases.OtusRunTest [main] Драйвер up
+2020-05-24 23:04:40,985 INFO cases.OtusRunTest [main] Драйвер off
+2020-05-24 23:04:43,070 INFO cases.OtusRunTest [main] Драйвер up
+2020-05-24 23:04:51,870 INFO cases.OtusRunTest [main] Драйвер off
+2020-05-24 23:06:32,808 INFO cases.OtusRunTest [main] Драйвер up
+2020-05-24 23:06:38,645 INFO cases.OtusRunTest [main] Драйвер off
+2020-05-24 23:06:40,599 INFO cases.OtusRunTest [main] Драйвер up
+2020-05-24 23:06:48,734 INFO cases.OtusRunTest [main] Драйвер off
+2020-05-24 23:07:15,252 INFO cases.OtusRunTest [main] Драйвер up
+2020-05-24 23:07:29,436 INFO cases.OtusRunTest [main] Драйвер off
+2020-05-24 23:07:31,553 INFO cases.OtusRunTest [main] Драйвер up
+2020-05-24 23:07:39,919 INFO cases.OtusRunTest [main] Драйвер off
+2020-05-24 23:08:11,177 INFO cases.OtusRunTest [main] Драйвер up
+2020-05-24 23:08:16,863 INFO cases.OtusRunTest [main] Драйвер off
+2020-05-24 23:08:18,782 INFO cases.OtusRunTest [main] Драйвер up
+2020-05-24 23:08:27,305 INFO cases.OtusRunTest [main] Драйвер off
+2020-05-24 23:37:47,029 INFO cases.OtusRunTest [main] Драйвер up
+2020-05-24 23:37:52,133 INFO cases.OtusRunTest [main] Драйвер off
+2020-05-24 23:37:54,135 INFO cases.OtusRunTest [main] Драйвер up
+2020-05-24 23:37:54,286 INFO cases.OtusRunTest [main] Драйвер off
+2020-05-24 23:39:24,101 INFO cases.OtusRunTest [main] Драйвер up
+2020-05-24 23:39:29,051 INFO cases.OtusRunTest [main] Драйвер off
+2020-05-24 23:39:30,717 INFO cases.OtusRunTest [main] Драйвер up
+2020-05-24 23:39:30,964 INFO cases.OtusRunTest [main] Драйвер off
+2020-06-12 23:40:55,478 INFO cases.OtusRunTest [main] Драйвер up
+2020-06-12 23:40:57,943 INFO cases.OtusRunTest [main] Драйвер off
+2020-06-12 23:41:17,516 INFO cases.OtusRunTest [main] Драйвер up
+2020-06-12 23:41:29,533 INFO cases.OtusRunTest [main] Драйвер off
+2020-06-12 23:43:20,550 INFO cases.OtusRunTest [main] Драйвер up
+2020-06-12 23:43:34,648 INFO cases.OtusRunTest [main] Драйвер off
+2020-06-12 23:45:35,930 INFO cases.OtusRunTest [main] Драйвер up
+2020-06-12 23:45:37,749 INFO cases.OtusRunTest [main] Драйвер off
+2020-06-12 23:47:42,365 INFO cases.OtusRunTest [main] Драйвер up
+2020-06-12 23:47:45,306 INFO cases.OtusRunTest [main] Драйвер off
+2020-06-12 23:48:18,689 INFO cases.OtusRunTest [main] Драйвер up
+2020-06-12 23:48:21,631 INFO cases.OtusRunTest [main] Драйвер off
+2020-06-12 23:49:09,580 INFO cases.OtusRunTest [main] Драйвер up
+2020-06-12 23:49:12,458 INFO cases.OtusRunTest [main] Драйвер off
+2020-06-12 23:49:35,152 INFO cases.OtusRunTest [main] Драйвер up
+2020-06-12 23:49:38,181 INFO cases.OtusRunTest [main] Драйвер off
+2020-06-12 23:51:16,426 INFO cases.OtusRunTest [main] Драйвер up
+2020-06-12 23:51:18,933 INFO cases.OtusRunTest [main] Драйвер off
+2020-06-12 23:52:15,829 INFO cases.OtusRunTest [main] Драйвер up
+2020-06-12 23:52:19,137 INFO cases.OtusRunTest [main] Драйвер off
+2020-06-12 23:52:35,679 INFO cases.OtusRunTest [main] Драйвер up
+2020-06-12 23:52:54,840 INFO cases.OtusRunTest [main] Драйвер off
+2020-06-13 00:04:33,529 INFO cases.OtusRunTest [main] Драйвер up
+2020-06-13 00:04:45,745 INFO cases.OtusRunTest [main] Драйвер off
+2020-06-13 00:04:57,602 INFO cases.OtusRunTest [main] Драйвер up
+2020-06-13 00:04:59,800 INFO cases.OtusRunTest [main] Драйвер off
+2020-07-05 22:17:47,237 INFO cases.OtusRunTest [main] Драйвер up
+2020-07-05 22:17:47,377 INFO cases.OtusRunTest [main] Драйвер off
+2020-07-05 22:20:58,933 INFO cases.OtusRunTest [main] Драйвер up
+2020-07-05 22:21:03,754 INFO cases.OtusRunTest [main] Драйвер off
+2020-07-05 22:21:42,930 INFO cases.OtusRunTest [main] Драйвер up
+2020-07-05 22:21:43,058 INFO cases.OtusRunTest [main] Драйвер off
+2020-07-05 22:29:25,739 INFO cases.OtusRunTest [main] Драйвер up
+2020-07-05 22:29:25,811 INFO cases.OtusRunTest [main] Драйвер off
+2020-07-05 22:32:09,311 INFO cases.OtusRunTest [main] Драйвер up
+2020-07-05 22:32:09,440 INFO cases.OtusRunTest [main] Драйвер off
+2020-07-05 22:36:30,996 INFO cases.OtusRunTest [main] Драйвер up
+2020-07-05 22:36:31,075 INFO cases.OtusRunTest [main] Драйвер off
+2020-07-05 22:37:55,340 INFO cases.OtusRunTest [main] Драйвер up
+2020-07-05 22:37:58,521 INFO cases.OtusRunTest [main] Драйвер off
+2020-07-05 22:44:21,007 INFO cases.YandexTest [main] Подготовка
+2020-07-05 22:47:33,460 INFO cases.YandexTest [main] Подготовка
+2020-07-05 22:49:21,528 INFO cases.OtusRunTest [main] Драйвер up
+2020-07-05 22:49:23,963 INFO cases.OtusRunTest [main] Драйвер off
+2020-07-05 22:50:49,232 INFO cases.YandexTest [main] Подготовка
+2020-07-05 22:52:14,286 INFO cases.YandexTest [main] Подготовка
+2020-07-05 22:53:03,057 INFO cases.YandexTest [main] Подготовка
+2020-07-05 23:03:23,112 INFO cases.OtusRunTest [main] Драйвер up
+2020-07-05 23:03:23,113 INFO cases.YandexTest [main] Подготовка
+2020-07-05 23:03:23,239 INFO cases.OtusRunTest [main] Драйвер off
+2020-07-05 23:06:35,802 INFO cases.OtusRunTest [main] Драйвер up
+2020-07-05 23:06:35,804 INFO cases.YandexTest [main] Подготовка
+2020-07-05 23:06:35,924 INFO cases.OtusRunTest [main] Драйвер off
+2020-07-05 23:06:52,741 INFO cases.OtusRunTest [main] Драйвер up
+2020-07-05 23:06:52,742 INFO cases.YandexTest [main] Подготовка
+2020-07-05 23:06:52,863 INFO cases.OtusRunTest [main] Драйвер off
+2020-07-05 23:09:45,383 INFO cases.OtusRunTest [main] Драйвер up
+2020-07-05 23:09:45,385 INFO cases.YandexTest [main] Подготовка
+2020-07-05 23:09:45,459 INFO cases.OtusRunTest [main] Драйвер off
+2020-07-05 23:20:07,435 INFO cases.OtusRunTest [main] Драйвер up
+2020-07-05 23:20:07,437 INFO cases.OtusRunTest [main] Подготовка
+2020-07-05 23:20:09,102 INFO cases.OtusRunTest [main] Драйвер off
+2020-07-05 23:20:28,600 INFO cases.OtusRunTest [main] Драйвер up
+2020-07-05 23:20:28,601 INFO cases.OtusRunTest [main] Подготовка
+2020-07-05 23:20:29 770 INFO cases.OtusRunTest [main]
+2020-07-11 02:13:38,699 INFO cases.OtusRunTest [main] Драйвер off
+2020-07-11 02:25:59,512 INFO cases.OtusRunTest [main] Драйвер up
+2020-07-11 02:26:00,392 INFO cases.OtusRunTest [main] Сайт YA открыт
+2020-07-11 02:26:01,274 INFO cases.OtusRunTest [main] Открыт раздел Электроника
+2020-07-11 02:26:02,497 INFO cases.OtusRunTest [main] Открыт раздел Мобильные телефоны
+2020-07-11 02:26:04,205 INFO cases.OtusRunTest [main] Раскрыть список 'Показать все'
+2020-07-11 02:26:04,707 INFO cases.OtusRunTest [main] Ввод первого производителя
+2020-07-11 02:26:05,502 INFO cases.OtusRunTest [main] Выбран производитель Xiaomi
+2020-07-11 02:26:05,572 INFO cases.OtusRunTest [main] Очищение инпута
+2020-07-11 02:26:05,763 INFO cases.OtusRunTest [main] Ввод второго производителя
+2020-07-11 02:26:06,585 INFO cases.OtusRunTest [main] Выбран производитель realme
+2020-07-11 02:26:06,786 INFO cases.OtusRunTest [main] Выполнение сортировки по цене
+2020-07-11 02:26:08,198 INFO cases.OtusRunTest [main] Первый смартфон realme найден и добавлен в сравнение
+2020-07-11 02:26:08,352 INFO cases.OtusRunTest [main] Товар realme добавлен к сравнению
+2020-07-11 02:26:08,485 INFO cases.OtusRunTest [main] Первый смартфон Xiaomi найден и добавлен в сравнение
+2020-07-11 02:26:08,908 INFO cases.OtusRunTest [main] Товар Xiaomi добавлен к сравнению
+2020-07-11 02:26:09,578 INFO cases.OtusRunTest [main] Открыта вкладка со сравнением
+2020-07-11 02:26:14,707 INFO cases.OtusRunTest [main] Драйвер off
+2020-07-11 02:27:26,420 INFO cases.OtusRunTest [main] Драйвер up
+2020-07-11 02:27:27,854 INFO cases.OtusRunTest [main] Сайт YA открыт
+2020-07-11 02:27:28,158 INFO cases.OtusRunTest [main] Открыт раздел Электроника
+2020-07-11 02:27:29,575 INFO cases.OtusRunTest [main] Открыт раздел Мобильные телефоны
+2020-07-11 02:27:31,366 INFO cases.OtusRunTest [main] Раскрыть список 'Показать все'
+2020-07-11 02:27:31,825 INFO cases.OtusRunTest [main] Ввод первого производителя
+2020-07-11 02:27:32,604 INFO cases.OtusRunTest [main] Выбран производитель Xiaomi
+2020-07-11 02:27:32,671 INFO cases.OtusRunTest [main] Очищение инпута
+2020-07-11 02:27:32,841 INFO cases.OtusRunTest [main] Ввод второго производителя
+2020-07-11 02:27:33,731 INFO cases.OtusRunTest [main] Выбран производитель realme
+2020-07-11 02:27:33,994 INFO cases.OtusRunTest [main] Выполнение сортировки по цене
+2020-07-11 02:27:35,250 INFO cases.OtusRunTest [main] Первый смартфон realme найден и добавлен в сравнение
+2020-07-11 02:27:35,732 INFO cases.OtusRunTest [main] Товар realme добавлен к сравнению
+2020-07-11 02:27:36,944 INFO cases.OtusRunTest [main] Драйвер off
+2020-07-11 02:35:42,131 INFO cases.OtusRunTest [main] Драйвер up
+2020-07-11 02:35:43,702 INFO cases.OtusRunTest [main] Сайт YA открыт
+2020-07-11 02:35:44,033 INFO cases.OtusRunTest [main] Открыт раздел Электроника
+2020-07-11 02:35:45,554 INFO cases.OtusRunTest [main] Открыт раздел Мобильные телефоны
+2020-07-11 02:35:47,161 INFO cases.OtusRunTest [main] Раскрыть список 'Показать все'
+2020-07-11 02:35:47,641 INFO cases.OtusRunTest [main] Ввод первого производителя
+2020-07-11 02:35:48,422 INFO cases.OtusRunTest [main] Выбран производитель Xiaomi
+2020-07-11 02:35:48,493 INFO cases.OtusRunTest [main] Очищение инпута
+2020-07-11 02:35:48,662 INFO cases.OtusRunTest [main] Ввод второго производителя
+2020-07-11 02:35:49,549 INFO cases.OtusRunTest [main] Выбран производитель realme
+2020-07-11 02:35:49,764 INFO cases.OtusRunTest [main] Выполнение сортировки по цене
+2020-07-11 02:35:51,077 INFO cases.OtusRunTest [main] Первый смартфон realme найден и добавлен в сравнение
+2020-07-11 02:35:51,174 INFO cases.OtusRunTest [main] Товар realme добавлен к сравнению
+2020-07-11 02:35:51,313 INFO cases.OtusRunTest [main] Первый смартфон Xiaomi найден и добавлен в сравнение
+2020-07-11 02:35:51,401 INFO cases.OtusRunTest [main] Товар Xiaomi добавлен к сравнению
+2020-07-11 02:35:53,031 INFO cases.OtusRunTest [main] Драйвер off
+2020-07-11 02:39:47,085 INFO cases.OtusRunTest [main] Драйвер up
+2020-07-11 02:39:47,994 INFO cases.OtusRunTest [main] Сайт YA открыт
+2020-07-11 02:39:50,112 INFO cases.OtusRunTest [main] Открыт раздел Электроника
+2020-07-11 02:39:52,887 INFO cases.OtusRunTest [main] Открыт раздел Мобильные телефоны
+2020-07-11 02:39:53,041 INFO cases.OtusRunTest [main] Раскрыть список 'Показать все'
+2020-07-11 02:39:53,497 INFO cases.OtusRunTest [main] Ввод первого производителя
+2020-07-11 02:39:54,290 INFO cases.OtusRunTest [main] Выбран производитель Xiaomi
+2020-07-11 02:39:54,352 INFO cases.OtusRunTest [main] Очищение инпута
+2020-07-11 02:39:54,522 INFO cases.OtusRunTest [main] Ввод второго производителя
+2020-07-11 02:39:55,344 INFO cases.OtusRunTest [main] Выбран производитель realme
+2020-07-11 02:39:55,546 INFO cases.OtusRunTest [main] Выполнение сортировки по цене
+2020-07-11 02:39:57,119 INFO cases.OtusRunTest [main] Первый смартфон realme найден и добавлен в сравнение
+2020-07-11 02:39:57,517 INFO cases.OtusRunTest [main] Товар realme добавлен к сравнению
+2020-07-11 02:39:57,640 INFO cases.OtusRunTest [main] Первый смартфон Xiaomi найден и добавлен в сравнение
+2020-07-11 02:39:57,773 INFO cases.OtusRunTest [main] Товар Xiaomi добавлен к сравнению
+2020-07-11 02:39:58,540 INFO cases.OtusRunTest [main] Открыта вкладка со сравнением
+2020-07-11 02:39:58,673 INFO cases.OtusRunTest [main] Драйвер off
+2020-07-11 02:41:29,425 INFO cases.OtusRunTest [main] Драйвер up
+2020-07-11 02:41:30,360 INFO cases.OtusRunTest [main] Сайт YA открыт
+2020-07-11 02:41:32,529 INFO cases.OtusRunTest [main] Открыт раздел Электроника
+2020-07-11 02:41:34,443 INFO cases.OtusRunTest [main] Открыт раздел Мобильные телефоны
+2020-07-11 02:41:35,590 INFO cases.OtusRunTest [main] Раскрыть список 'Показать все'
+2020-07-11 02:41:36,087 INFO cases.OtusRunTest [main] Ввод первого производителя
+2020-07-11 02:41:36,870 INFO cases.OtusRunTest [main] Выбран производитель Xiaomi
+2020-07-11 02:41:36,924 INFO cases.OtusRunTest [main] Очищение инпута
+2020-07-11 02:41:37,109 INFO cases.OtusRunTest [main] Ввод второго производителя
+2020-07-11 02:41:37,931 INFO cases.OtusRunTest [main] Выбран производитель realme
+2020-07-11 02:41:38,131 INFO cases.OtusRunTest [main] Выполнение сортировки по цене
+2020-07-11 02:41:39,358 INFO cases.OtusRunTest [main] Первый смартфон realme найден и добавлен в сравнение
+2020-07-11 02:41:39,769 INFO cases.OtusRunTest [main] Товар realme добавлен к сравнению
+2020-07-11 02:41:39,891 INFO cases.OtusRunTest [main] Первый смартфон Xiaomi найден и добавлен в сравнение
+2020-07-11 02:41:40,045 INFO cases.OtusRunTest [main] Товар Xiaomi добавлен к сравнению
+2020-07-11 02:41:40,776 INFO cases.OtusRunTest [main] Открыта вкладка со сравнением
+2020-07-11 02:41:41,032 INFO cases.OtusRunTest [main] Драйвер off
+2020-07-11 02:42:15,106 INFO cases.OtusRunTest [main] Драйвер up
+2020-07-11 02:42:16,670 INFO cases.OtusRunTest [main] Сайт YA открыт
+2020-07-11 02:42:16,925 INFO cases.OtusRunTest [main] Открыт раздел Электроника
+2020-07-11 02:42:18,337 INFO cases.OtusRunTest [main] Открыт раздел Мобильные телефоны
+2020-07-11 02:42:19,941 INFO cases.OtusRunTest [main] Раскрыть список 'Показать все'
+2020-07-11 02:42:20,425 INFO cases.OtusRunTest [main] Ввод первого производителя
+2020-07-11 02:42:21,238 INFO cases.OtusRunTest [main] Выбран производитель Xiaomi
+2020-07-11 02:42:21,312 INFO cases.OtusRunTest [main] Очищение инпута
+2020-07-11 02:42:21,504 INFO cases.OtusRunTest [main] Ввод второго производителя
+2020-07-11 02:42:22,342 INFO cases.OtusRunTest [main] Выбран производитель realme
+2020-07-11 02:42:22,545 INFO cases.OtusRunTest [main] Выполнение сортировки по цене
+2020-07-11 02:42:23,926 INFO cases.OtusRunTest [main] Первый смартфон realme найден и добавлен в сравнение
+2020-07-11 02:42:24,361 INFO cases.OtusRunTest [main] Товар realme добавлен к сравнению
+2020-07-11 02:42:24,489 INFO cases.OtusRunTest [main] Первый смартфон Xiaomi найден и добавлен в сравнение
+2020-07-11 02:42:24,638 INFO cases.OtusRunTest [main] Товар Xiaomi добавлен к сравнению
+2020-07-11 02:42:25,378 INFO cases.OtusRunTest [main] Открыта вкладка со сравнением
+2020-07-11 02:42:30,532 INFO cases.OtusRunTest [main] Драйвер off
+2020-07-11 02:43:47,993 INFO cases.OtusRunTest [main] Драйвер up
+2020-07-11 02:43:48,996 INFO cases.OtusRunTest [main] Сайт YA открыт
+2020-07-11 02:43:51,102 INFO cases.OtusRunTest [main] Открыт раздел Электроника
+2020-07-11 02:43:54,124 INFO cases.OtusRunTest [main] Открыт раздел Мобильные телефоны
+2020-07-11 02:43:54,325 INFO cases.OtusRunTest [main] Раскрыть список 'Показать все'
+2020-07-11 02:43:54,838 INFO cases.OtusRunTest [main] Ввод первого производителя
+2020-07-11 02:43:55,636 INFO cases.OtusRunTest [main] Выбран производитель Xiaomi
+2020-07-11 02:43:55,700 INFO cases.OtusRunTest [main] Очищение инпута
+2020-07-11 02:43:55,891 INFO cases.OtusRunTest [main] Ввод второго производителя
+2020-07-11 02:43:56,721 INFO cases.OtusRunTest [main] Выбран производитель realme
+2020-07-11 02:43:56,951 INFO cases.OtusRunTest [main] Выполнение сортировки по цене
+2020-07-11 02:43:58,463 INFO cases.OtusRunTest [main] Первый смартфон realme найден и добавлен в сравнение
+2020-07-11 02:43:58,613 INFO cases.OtusRunTest [main] Товар realme добавлен к сравнению
+2020-07-11 02:43:58,760 INFO cases.OtusRunTest [main] Первый смартфон Xiaomi найден и добавлен в сравнение
+2020-07-11 02:43:59,205 INFO cases.OtusRunTest [main] Товар Xiaomi добавлен к сравнению
+2020-07-11 02:43:59,915 INFO cases.OtusRunTest [main] Открыта вкладка со сравнением
+2020-07-11 02:44:05,044 INFO cases.OtusRunTest [main] Драйвер off
+2020-07-11 02:44:36,925 INFO cases.OtusRunTest [main] Драйвер up
+2020-07-11 02:44:38,509 INFO cases.OtusRunTest [main] Сайт YA открыт
+2020-07-11 02:44:38,829 INFO cases.OtusRunTest [main] Открыт раздел Электроника
+2020-07-11 02:44:40,200 INFO cases.OtusRunTest [main] Открыт раздел Мобильные телефоны
+2020-07-11 02:44:41,824 INFO cases.OtusRunTest [main] Раскрыть список 'Показать все'
+2020-07-11 02:44:42,303 INFO cases.OtusRunTest [main] Ввод первого производителя
+2020-07-11 02:44:43,136 INFO cases.OtusRunTest [main] Выбран производитель Xiaomi
+2020-07-11 02:44:43,206 INFO cases.OtusRunTest [main] Очищение инпута
+2020-07-11 02:44:43,375 INFO cases.OtusRunTest [main] Ввод второго производителя
+2020-07-11 02:44:44,239 INFO cases.OtusRunTest [main] Выбран производитель realme
+2020-07-11 02:44:44,440 INFO cases.OtusRunTest [main] Выполнение сортировки по цене
+2020-07-11 02:44:45,811 INFO cases.OtusRunTest [main] Первый смартфон realme найден и добавлен в сравнение
+2020-07-11 02:44:46,233 INFO cases.OtusRunTest [main] Товар realme добавлен к сравнению
+2020-07-11 02:44:46,350 INFO cases.OtusRunTest [main] Первый смартфон Xiaomi найден и добавлен в сравнение
+2020-07-11 02:44:46,496 INFO cases.OtusRunTest [main] Товар Xiaomi добавлен к сравнению
+2020-07-11 02:44:47,143 INFO cases.OtusRunTest [main] Открыта вкладка со сравнением
+2020-07-11 02:44:47,373 INFO cases.OtusRunTest [main] Драйвер off
+2020-07-11 02:47:28,329 INFO cases.OtusRunTest [main] Драйвер up
+2020-07-11 02:47:29,260 INFO cases.OtusRunTest [main] Сайт YA открыт
+2020-07-11 02:47:30,068 INFO cases.OtusRunTest [main] Открыт раздел Электроника
+2020-07-11 02:47:31,494 INFO cases.OtusRunTest [main] Открыт раздел Мобильные телефоны
+2020-07-11 02:47:33,143 INFO cases.OtusRunTest [main] Раскрыть список 'Показать все'
+2020-07-11 02:47:33,604 INFO cases.OtusRunTest [main] Ввод первого производителя
+2020-07-11 02:47:34,395 INFO cases.OtusRunTest [main] Выбран производитель Xiaomi
+2020-07-11 02:47:34,450 INFO cases.OtusRunTest [main] Очищение инпута
+2020-07-11 02:47:34,668 INFO cases.OtusRunTest [main] Ввод второго производителя
+2020-07-11 02:47:35,460 INFO cases.OtusRunTest [main] Выбран производитель realme
+2020-07-11 02:47:35,687 INFO cases.OtusRunTest [main] Выполнение сортировки по цене
+2020-07-11 02:47:36,852 INFO cases.OtusRunTest [main] Первый смартфон realme найден и добавлен в сравнение
+2020-07-11 02:47:37,014 INFO cases.OtusRunTest [main] Товар realme добавлен к сравнению
+2020-07-11 02:47:38,601 INFO cases.OtusRunTest [main] Драйвер off
+2020-07-11 02:47:55,364 INFO cases.OtusRunTest [main] Драйвер up
+2020-07-11 02:47:56,832 INFO cases.OtusRunTest [main] Сайт YA открыт
+2020-07-11 02:47:58,148 INFO cases.OtusRunTest [main] Открыт раздел Электроника
+2020-07-11 02:48:00,889 INFO cases.OtusRunTest [main] Открыт раздел Мобильные телефоны
+2020-07-11 02:48:01,064 INFO cases.OtusRunTest [main] Раскрыть список 'Показать все'
+2020-07-11 02:48:01,516 INFO cases.OtusRunTest [main] Ввод первого производителя
+2020-07-11 02:48:02,294 INFO cases.OtusRunTest [main] Выбран производитель Xiaomi
+2020-07-11 02:48:02,352 INFO cases.OtusRunTest [main] Очищение инпута
+2020-07-11 02:48:02,534 INFO cases.OtusRunTest [main] Ввод второго производителя
+2020-07-11 02:48:03,374 INFO cases.OtusRunTest [main] Выбран производитель realme
+2020-07-11 02:48:03,581 INFO cases.OtusRunTest [main] Выполнение сортировки по цене
+2020-07-11 02:48:04,829 INFO cases.OtusRunTest [main] Первый смартфон realme найден и добавлен в сравнение
+2020-07-11 02:48:05,272 INFO cases.OtusRunTest [main] Товар realme добавлен к сравнению
+2020-07-11 02:48:05,391 INFO cases.OtusRunTest [main] Первый смартфон Xiaomi найден и добавлен в сравнение
+2020-07-11 02:48:05,531 INFO cases.OtusRunTest [main] Товар Xiaomi добавлен к сравнению
+2020-07-11 02:48:06,717 INFO cases.OtusRunTest [main] Открыта вкладка со сравнением
+2020-07-11 02:48:06,927 INFO cases.OtusRunTest [main] Драйвер off
+2020-07-11 02:51:17,107 INFO cases.OtusRunTest [main] Драйвер up
+2020-07-11 02:51:18,452 INFO cases.OtusRunTest [main] Сайт YA открыт
+2020-07-11 02:51:18,669 INFO cases.OtusRunTest [main] Открыт раздел Электроника
+2020-07-11 02:51:20,047 INFO cases.OtusRunTest [main] Открыт раздел Мобильные телефоны
+2020-07-11 02:51:21,990 INFO cases.OtusRunTest [main] Раскрыть список 'Показать все'
+2020-07-11 02:51:22,449 INFO cases.OtusRunTest [main] Ввод первого производителя
+2020-07-11 02:51:23,248 INFO cases.OtusRunTest [main] Выбран производитель Xiaomi
+2020-07-11 02:51:23,311 INFO cases.OtusRunTest [main] Очищение инпута
+2020-07-11 02:51:23,480 INFO cases.OtusRunTest [main] Ввод второго производителя
+2020-07-11 02:51:24,359 INFO cases.OtusRunTest [main] Выбран производитель realme
+2020-07-11 02:51:24,554 INFO cases.OtusRunTest [main] Выполнение сортировки по цене
+2020-07-11 02:51:25,751 INFO cases.OtusRunTest [main] Первый смартфон realme найден и добавлен в сравнение
+2020-07-11 02:51:26,166 INFO cases.OtusRunTest [main] Товар realme добавлен к сравнению
+2020-07-11 02:51:26,283 INFO cases.OtusRunTest [main] Первый смартфон Xiaomi найден и добавлен в сравнение
+2020-07-11 02:51:26,413 INFO cases.OtusRunTest [main] Товар Xiaomi добавлен к сравнению
+2020-07-11 02:51:27,144 INFO cases.OtusRunTest [main] Открыта вкладка со сравнением
+2020-07-11 02:51:27,265 INFO cases.OtusRunTest [main] Драйвер off
+2020-07-11 02:53:03,634 INFO cases.OtusRunTest [main] Драйвер up
+2020-07-11 02:53:05,080 INFO cases.OtusRunTest [main] Сайт YA открыт
+2020-07-11 02:53:05,590 INFO cases.OtusRunTest [main] Открыт раздел Электроника
+2020-07-11 02:53:07,098 INFO cases.OtusRunTest [main] Открыт раздел Мобильные телефоны
+2020-07-11 02:53:08,871 INFO cases.OtusRunTest [main] Раскрыть список 'Показать все'
+2020-07-11 02:53:09,316 INFO cases.OtusRunTest [main] Ввод первого производителя
+2020-07-11 02:53:10,083 INFO cases.OtusRunTest [main] Выбран производитель Xiaomi
+2020-07-11 02:53:10,129 INFO cases.OtusRunTest [main] Очищение инпута
+2020-07-11 02:53:10,327 INFO cases.OtusRunTest [main] Ввод второго производителя
+2020-07-11 02:53:11,217 INFO cases.OtusRunTest [main] Выбран производитель realme
+2020-07-11 02:53:11,438 INFO cases.OtusRunTest [main] Выполнение сортировки по цене
+2020-07-11 02:53:12,609 INFO cases.OtusRunTest [main] Первый смартфон realme найден и добавлен в сравнение
+2020-07-11 02:53:12,718 INFO cases.OtusRunTest [main] Товар realme добавлен к сравнению
+2020-07-11 02:53:13,273 INFO cases.OtusRunTest [main] Драйвер off
+2020-07-11 02:53:35,009 INFO cases.OtusRunTest [main] Драйвер up
+2020-07-11 02:53:36,452 INFO cases.OtusRunTest [main] Сайт YA открыт
+2020-07-11 02:53:36,911 INFO cases.OtusRunTest [main] Открыт раздел Электроника
+2020-07-11 02:53:38,710 INFO cases.OtusRunTest [main] Открыт раздел Мобильные телефоны
+2020-07-11 02:53:40,712 INFO cases.OtusRunTest [main] Раскрыть список 'Показать все'
+2020-07-11 02:53:41,265 INFO cases.OtusRunTest [main] Ввод первого производителя
+2020-07-11 02:53:42,151 INFO cases.OtusRunTest [main] Выбран производитель Xiaomi
+2020-07-11 02:53:42,221 INFO cases.OtusRunTest [main] Очищение инпута
+2020-07-11 02:53:42,449 INFO cases.OtusRunTest [main] Ввод второго производителя
+2020-07-11 02:53:43,212 INFO cases.OtusRunTest [main] Выбран производитель realme
+2020-07-11 02:53:43,482 INFO cases.OtusRunTest [main] Выполнение сортировки по цене
+2020-07-11 02:53:45,522 INFO cases.OtusRunTest [main] Драйвер off
+2020-07-11 02:53:58,547 INFO cases.OtusRunTest [main] Драйвер up
+2020-07-11 02:54:00,411 INFO cases.OtusRunTest [main] Сайт YA открыт
+2020-07-11 02:54:00,771 INFO cases.OtusRunTest [main] Открыт раздел Электроника
+2020-07-11 02:54:02,306 INFO cases.OtusRunTest [main] Открыт раздел Мобильные телефоны
+2020-07-11 02:54:04,281 INFO cases.OtusRunTest [main] Раскрыть список 'Показать все'
+2020-07-11 02:54:04,851 INFO cases.OtusRunTest [main] Ввод первого производителя
+2020-07-11 02:54:05,647 INFO cases.OtusRunTest [main] Выбран производитель Xiaomi
+2020-07-11 02:54:05,716 INFO cases.OtusRunTest [main] Очищение инпута
+2020-07-11 02:54:05,933 INFO cases.OtusRunTest [main] Ввод второго производителя
+2020-07-11 02:54:06,764 INFO cases.OtusRunTest [main] Выбран производитель realme
+2020-07-11 02:54:07,019 INFO cases.OtusRunTest [main] Выполнение сортировки по цене
+2020-07-11 02:54:08,319 INFO cases.OtusRunTest [main] Первый смартфон realme найден и добавлен в сравнение
+2020-07-11 02:54:08,415 INFO cases.OtusRunTest [main] Товар realme добавлен к сравнению
+2020-07-11 02:54:08,572 INFO cases.OtusRunTest [main] Первый смартфон Xiaomi найден и добавлен в сравнение
+2020-07-11 02:54:08,661 INFO cases.OtusRunTest [main] Товар Xiaomi добавлен к сравнению
+2020-07-11 02:54:09,513 INFO cases.OtusRunTest [main] Открыта вкладка со сравнением
+2020-07-11 02:54:09,566 INFO cases.OtusRunTest [main] Количество позицицй равно 2
+2020-07-11 02:56:14,097 INFO cases.OtusRunTest [main] Драйвер up
+2020-07-11 02:56:15,160 INFO cases.OtusRunTest [main] Сайт YA открыт
+2020-07-11 02:56:17,341 INFO cases.OtusRunTest [main] Открыт раздел Электроника
+2020-07-11 02:56:20,183 INFO cases.OtusRunTest [main] Открыт раздел Мобильные телефоны
+2020-07-11 02:56:20,354 INFO cases.OtusRunTest [main] Раскрыть список 'Показать все'
+2020-07-11 02:56:20,917 INFO cases.OtusRunTest [main] Ввод первого производителя
+2020-07-11 02:56:21,726 INFO cases.OtusRunTest [main] Выбран производитель Xiaomi
+2020-07-11 02:56:21,785 INFO cases.OtusRunTest [main] Очищение инпута
+2020-07-11 02:56:21,992 INFO cases.OtusRunTest [main] Ввод второго производителя
+2020-07-11 02:56:22,818 INFO cases.OtusRunTest [main] Выбран производитель realme
+2020-07-11 02:56:23,074 INFO cases.OtusRunTest [main] Выполнение сортировки по цене
+2020-07-11 02:56:25,181 INFO cases.OtusRunTest [main] Драйвер off
+2020-07-11 02:56:41,148 INFO cases.OtusRunTest [main] Драйвер up
+2020-07-11 02:56:42,959 INFO cases.OtusRunTest [main] Сайт YA открыт
+2020-07-11 02:56:43,397 INFO cases.OtusRunTest [main] Открыт раздел Электроника
+2020-07-11 02:56:44,907 INFO cases.OtusRunTest [main] Открыт раздел Мобильные телефоны
+2020-07-11 02:56:46,809 INFO cases.OtusRunTest [main] Раскрыть список 'Показать все'
+2020-07-11 02:56:47,426 INFO cases.OtusRunTest [main] Ввод первого производителя
+2020-07-11 02:56:48,326 INFO cases.OtusRunTest [main] Выбран производитель Xiaomi
+2020-07-11 02:56:48,461 INFO cases.OtusRunTest [main] Очищение инпута
+2020-07-11 02:56:48,749 INFO cases.OtusRunTest [main] Ввод второго производителя
+2020-07-11 02:56:49,586 INFO cases.OtusRunTest [main] Выбран производитель realme
+2020-07-11 02:56:49,898 INFO cases.OtusRunTest [main] Выполнение сортировки по цене
+2020-07-11 02:56:52,055 INFO cases.OtusRunTest [main] Первый смартфон realme найден и добавлен в сравнение
+2020-07-11 02:56:52,177 INFO cases.OtusRunTest [main] Товар realme добавлен к сравнению
+2020-07-11 02:56:52,300 INFO cases.OtusRunTest [main] Первый смартфон Xiaomi найден и добавлен в сравнение
+2020-07-11 02:56:52,395 INFO cases.OtusRunTest [main] Товар Xiaomi добавлен к сравнению
+2020-07-11 02:56:53,156 INFO cases.OtusRunTest [main] Открыта вкладка со сравнением
+2020-07-11 02:56:53,245 INFO cases.OtusRunTest [main] Количество позицицй равно 2
+2020-07-11 02:57:28,950 INFO cases.OtusRunTest [main] Драйвер up
+2020-07-11 02:57:29,760 INFO cases.OtusRunTest [main] Сайт YA открыт
+2020-07-11 02:57:32,004 INFO cases.OtusRunTest [main] Открыт раздел Электроника
+2020-07-11 02:57:34,882 INFO cases.OtusRunTest [main] Открыт раздел Мобильные телефоны
+2020-07-11 02:57:35,062 INFO cases.OtusRunTest [main] Раскрыть список 'Показать все'
+2020-07-11 02:57:35,696 INFO cases.OtusRunTest [main] Ввод первого производителя
+2020-07-11 02:57:36,748 INFO cases.OtusRunTest [main] Выбран производитель Xiaomi
+2020-07-11 02:57:36,829 INFO cases.OtusRunTest [main] Очищение инпута
+2020-07-11 02:57:37,057 INFO cases.OtusRunTest [main] Ввод второго производителя
+2020-07-11 02:57:37,832 INFO cases.OtusRunTest [main] Выбран производитель realme
+2020-07-11 02:57:38,084 INFO cases.OtusRunTest [main] Выполнение сортировки по цене
+2020-07-11 02:57:39,611 INFO cases.OtusRunTest [main] Первый смартфон realme найден и добавлен в сравнение
+2020-07-11 02:57:39,728 INFO cases.OtusRunTest [main] Товар realme добавлен к сравнению
+2020-07-11 02:57:41,401 INFO cases.OtusRunTest [main] Драйвер off
+2020-07-11 02:57:56,086 INFO cases.OtusRunTest [main] Драйвер up
+2020-07-11 02:57:57,685 INFO cases.OtusRunTest [main] Сайт YA открыт
+2020-07-11 02:57:57,921 INFO cases.OtusRunTest [main] Открыт раздел Электроника
+2020-07-11 02:57:59,190 INFO cases.OtusRunTest [main] Открыт раздел Мобильные телефоны
+2020-07-11 02:58:00,978 INFO cases.OtusRunTest [main] Раскрыть список 'Показать все'
+2020-07-11 02:58:01,612 INFO cases.OtusRunTest [main] Ввод первого производителя
+2020-07-11 02:58:02,429 INFO cases.OtusRunTest [main] Выбран производитель Xiaomi
+2020-07-11 02:58:02,516 INFO cases.OtusRunTest [main] Очищение инпута
+2020-07-11 02:58:02,727 INFO cases.OtusRunTest [main] Ввод второго производителя
+2020-07-11 02:58:03,546 INFO cases.OtusRunTest [main] Выбран производитель realme
+2020-07-11 02:58:03,781 INFO cases.OtusRunTest [main] Выполнение сортировки по цене
+2020-07-11 02:58:05,072 INFO cases.OtusRunTest [main] Первый смартфон realme найден и добавлен в сравнение
+2020-07-11 02:58:05,222 INFO cases.OtusRunTest [main] Товар realme добавлен к сравнению
+2020-07-11 02:58:05,401 INFO cases.OtusRunTest [main] Первый смартфон Xiaomi найден и добавлен в сравнение
+2020-07-11 02:58:05,547 INFO cases.OtusRunTest [main] Товар Xiaomi добавлен к сравнению
+2020-07-11 02:58:07,266 INFO cases.OtusRunTest [main] Драйвер off
+2020-07-11 02:58:15,492 INFO cases.OtusRunTest [main] Драйвер up
+2020-07-11 02:58:17,061 INFO cases.OtusRunTest [main] Сайт YA открыт
+2020-07-11 02:58:17,362 INFO cases.OtusRunTest [main] Открыт раздел Электроника
+2020-07-11 02:58:19,016 INFO cases.OtusRunTest [main] Открыт раздел Мобильные телефоны
+2020-07-11 02:58:20,840 INFO cases.OtusRunTest [main] Раскрыть список 'Показать все'
+2020-07-11 02:58:21,428 INFO cases.OtusRunTest [main] Ввод первого производителя
+2020-07-11 02:58:22,217 INFO cases.OtusRunTest [main] Выбран производитель Xiaomi
+2020-07-11 02:58:22,299 INFO cases.OtusRunTest [main] Очищение инпута
+2020-07-11 02:58:22,514 INFO cases.OtusRunTest [main] Ввод второго производителя
+2020-07-11 02:58:23,375 INFO cases.OtusRunTest [main] Выбран производитель realme
+2020-07-11 02:58:23,645 INFO cases.OtusRunTest [main] Выполнение сортировки по цене
+2020-07-11 02:58:24,963 INFO cases.OtusRunTest [main] Первый смартфон realme найден и добавлен в сравнение
+2020-07-11 02:58:25,430 INFO cases.OtusRunTest [main] Товар realme добавлен к сравнению
+2020-07-11 02:58:25,581 INFO cases.OtusRunTest [main] Первый смартфон Xiaomi найден и добавлен в сравнение
+2020-07-11 02:58:25,698 INFO cases.OtusRunTest [main] Товар Xiaomi добавлен к сравнению
+2020-07-11 02:58:26,472 INFO cases.OtusRunTest [main] Открыта вкладка со сравнением
+2020-07-11 02:58:31,746 INFO cases.OtusRunTest [main] Драйвер off
+2020-07-11 03:04:21,721 INFO cases.OtusRunTest [main] Драйвер up
+2020-07-11 03:04:23,322 INFO cases.OtusRunTest [main] Сайт YA открыт
+2020-07-11 03:04:23,617 INFO cases.OtusRunTest [main] Открыт раздел Электроника
+2020-07-11 03:04:25,042 INFO cases.OtusRunTest [main] Открыт раздел Мобильные телефоны
+2020-07-11 03:04:26,655 INFO cases.OtusRunTest [main] Раскрыть список 'Показать все'
+2020-07-11 03:04:27,128 INFO cases.OtusRunTest [main] Ввод первого производителя
+2020-07-11 03:04:27,910 INFO cases.OtusRunTest [main] Выбран производитель Xiaomi
+2020-07-11 03:04:27,980 INFO cases.OtusRunTest [main] Очищение инпута
+2020-07-11 03:04:28,161 INFO cases.OtusRunTest [main] Ввод второго производителя
+2020-07-11 03:04:28,996 INFO cases.OtusRunTest [main] Выбран производитель realme
+2020-07-11 03:04:29,200 INFO cases.OtusRunTest [main] Выполнение сортировки по цене
+2020-07-11 03:04:30,594 INFO cases.OtusRunTest [main] Первый смартфон realme найден и добавлен в сравнение
+2020-07-11 03:04:30,806 INFO cases.OtusRunTest [main] Товар realme добавлен к сравнению
+2020-07-11 03:04:31,410 INFO cases.OtusRunTest [main] Драйвер off
+2020-07-11 03:05:37,180 INFO cases.OtusRunTest [main] Драйвер up
+2020-07-11 03:05:38,111 INFO cases.OtusRunTest [main] Сайт YA открыт
+2020-07-11 03:05:38,330 INFO cases.OtusRunTest [main] Открыт раздел Электроника
+2020-07-11 03:05:39,763 INFO cases.OtusRunTest [main] Открыт раздел Мобильные телефоны
+2020-07-11 03:05:42,210 INFO cases.OtusRunTest [main] Раскрыть список 'Показать все'
+2020-07-11 03:05:42,779 INFO cases.OtusRunTest [main] Ввод первого производителя
+2020-07-11 03:05:43,729 INFO cases.OtusRunTest [main] Выбран производитель Xiaomi
+2020-07-11 03:05:43,849 INFO cases.OtusRunTest [main] Очищение инпута
+2020-07-11 03:05:44,038 INFO cases.OtusRunTest [main] Ввод второго производителя
+2020-07-11 03:05:44,805 INFO cases.OtusRunTest [main] Выбран производитель realme
+2020-07-11 03:05:45,054 INFO cases.OtusRunTest [main] Выполнение сортировки по цене
+2020-07-11 03:05:46,680 INFO cases.OtusRunTest [main] Первый смартфон realme найден и добавлен в сравнение
+2020-07-11 03:05:47,251 INFO cases.OtusRunTest [main] Товар realme добавлен к сравнению
+2020-07-11 03:05:47,402 INFO cases.OtusRunTest [main] Первый смартфон Xiaomi найден и добавлен в сравнение
+2020-07-11 03:05:47,563 INFO cases.OtusRunTest [main] Товар Xiaomi добавлен к сравнению
+2020-07-11 03:05:48,517 INFO cases.OtusRunTest [main] Открыта вкладка со сравнением
+2020-07-11 03:05:48,600 INFO cases.OtusRunTest [main] Количество позицицй равно 2
+2020-07-11 03:05:48,716 INFO cases.OtusRunTest [main] Кнопка Все характеристики
+2020-07-11 03:05:48,731 INFO cases.OtusRunTest [main] Поле с ОС найденно
+2020-07-11 03:05:48,799 INFO cases.OtusRunTest [main] Кнопка Различающиеся характеристики
+2020-07-11 03:05:48,808 INFO cases.OtusRunTest [main] Поле с ОС НЕ найденно
+2020-07-11 03:07:32,438 INFO cases.OtusRunTest [main] Драйвер up
+2020-07-11 03:07:33,964 INFO cases.OtusRunTest [main] Сайт YA открыт
+2020-07-11 03:07:34,434 INFO cases.OtusRunTest [main] Открыт раздел Электроника
+2020-07-11 03:07:35,785 INFO cases.OtusRunTest [main] Открыт раздел Мобильные телефоны
+2020-07-11 03:07:37,791 INFO cases.OtusRunTest [main] Раскрыть список 'Показать все'
+2020-07-11 03:07:38,476 INFO cases.OtusRunTest [main] Ввод первого производителя
+2020-07-11 03:07:39,388 INFO cases.OtusRunTest [main] Выбран производитель Xiaomi
+2020-07-11 03:07:39,479 INFO cases.OtusRunTest [main] Очищение инпута
+2020-07-11 03:07:39,708 INFO cases.OtusRunTest [main] Ввод второго производителя
+2020-07-11 03:07:40,500 INFO cases.OtusRunTest [main] Выбран производитель realme
+2020-07-11 03:07:40,775 INFO cases.OtusRunTest [main] Выполнение сортировки по цене
+2020-07-11 03:07:42,434 INFO cases.OtusRunTest [main] Первый смартфон realme найден и добавлен в сравнение
+2020-07-11 03:07:42,996 INFO cases.OtusRunTest [main] Товар realme добавлен к сравнению
+2020-07-11 03:07:43,147 INFO cases.OtusRunTest [main] Первый смартфон Xiaomi найден и добавлен в сравнение
+2020-07-11 03:07:43,244 INFO cases.OtusRunTest [main] Товар Xiaomi добавлен к сравнению
+2020-07-11 03:07:44,115 INFO cases.OtusRunTest [main] Открыта вкладка со сравнением
+2020-07-11 03:07:44,155 INFO cases.OtusRunTest [main] Количество позицицй равно 2
+2020-07-11 03:07:44,332 INFO cases.OtusRunTest [main] Кнопка Все характеристики CLICK
+2020-07-11 03:07:44,354 INFO cases.OtusRunTest [main] Поле с ОС найденно
+2020-07-11 03:07:44,421 INFO cases.OtusRunTest [main] Кнопка Различающиеся характеристики CLICK
+2020-07-11 03:07:44,433 INFO cases.OtusRunTest [main] Поле с ОС НЕ найденно
+2020-07-11 03:07:44,644 INFO cases.OtusRunTest [main] Драйвер off
+2020-07-11 21:40:38,184 INFO c.OtusRunTest [main] Драйвер up
+2020-07-11 21:40:40,098 INFO c.OtusRunTest [main] Драйвер off
+2020-07-11 21:54:28,839 INFO c.OtusRunTest [main] Драйвер up
+2020-07-11 21:54:28,964 INFO c.OtusRunTest [main] Драйвер off
+2020-07-11 22:59:38,521 INFO c.OtusRunTest [main] Драйвер up
+2020-07-11 22:59:38,696 INFO c.OtusRunTest [main] Драйвер off
+2020-07-11 23:00:01,261 INFO c.OtusRunTest [main] Драйвер up
+2020-07-11 23:00:01,336 INFO c.OtusRunTest [main] Драйвер off
+2020-07-11 23:18:50,892 INFO c.OtusRunTest [main] Драйвер up
+2020-07-11 23:18:51,020 INFO c.OtusRunTest [main] Драйвер off
+2020-07-11 23:21:06,657 INFO c.OtusRunTest [main] Драйвер up
+2020-07-11 23:21:06,778 INFO c.OtusRunTest [main] Драйвер off
+2020-07-11 23:21:40,091 INFO c.OtusRunTest [main] Драйвер up
+2020-07-11 23:21:40,225 INFO c.OtusRunTest [main] Драйвер off
+2020-07-11 23:22:08,571 INFO c.OtusRunTest [main] Драйвер up
+2020-07-11 23:22:08,640 INFO c.OtusRunTest [main] Драйвер off
+2020-07-11 23:24:25,887 INFO c.OtusRunTest [main] Драйвер up
+2020-07-11 23:24:26,009 INFO c.OtusRunTest [main] Драйвер off
+2020-07-11 23:27:47,258 INFO c.OtusRunTest [main] Драйвер up
+2020-07-11 23:27:47,415 INFO c.OtusRunTest [main] Драйвер off
+2020-07-11 23:28:16,420 INFO c.OtusRunTest [main] Драйвер up
+2020-07-11 23:28:16,557 INFO c.OtusRunTest [main] Драйвер off
+2020-07-11 23:28:37,152 INFO c.OtusRunTest [main] Драйвер up
+2020-07-11 23:28:40,052 INFO c.OtusRunTest [main] Драйвер off
+2020-07-11 23:33:07,515 INFO c.OtusRunTest [main] Драйвер up
+2020-07-11 23:33:10,421 INFO c.OtusRunTest [main] Драйвер off
+2020-07-11 23:34:47,651 INFO c.OtusRunTest [main] Драйвер up
+2020-07-11 23:34:50,130 INFO c.OtusRunTest [main] Драйвер off
+2020-07-11 23:35:20,084 INFO c.OtusRunTest [main] Драйвер up
+2020-07-11 23:35:23,793 INFO c.OtusRunTest [main] Драйвер off
+2020-07-11 23:40:05,307 INFO c.OtusRunTest [main] Драйвер up
+2020-07-11 23:40:05,439 INFO c.OtusRunTest [main] Драйвер off
+2020-07-11 23:40:32,713 INFO c.OtusRunTest [main] Драйвер up
+2020-07-11 23:40:32,847 INFO c.OtusRunTest [main] Драйвер off
+2020-07-11 23:41:23,526 INFO c.OtusRunTest [main] Драйвер up
+2020-07-11 23:41:24,925 INFO c.OtusRunTest [main] Сайт YA открыт
+2020-07-11 23:41:25,143 INFO c.OtusRunTest [main] Открыт раздел Электроника
+2020-07-11 23:41:26,445 INFO c.OtusRunTest [main] Открыт раздел Мобильные телефоны
+2020-07-11 23:41:28,227 INFO c.OtusRunTest [main] Раскрыть список 'Показать все'
+2020-07-11 23:41:28,864 INFO c.OtusRunTest [main] Ввод первого производителя
+2020-07-11 23:41:29,658 INFO c.OtusRunTest [main] Выбран производитель Xiaomi
+2020-07-11 23:41:29,729 INFO c.OtusRunTest [main] Очищение инпута
+2020-07-11 23:41:29,933 INFO c.OtusRunTest [main] Ввод второго производителя
+2020-07-11 23:41:30,778 INFO c.OtusRunTest [main] Выбран производитель realme
+2020-07-11 23:41:31,041 INFO c.OtusRunTest [main] Выполнение сортировки по цене
+2020-07-11 23:41:32,609 INFO c.OtusRunTest [main] Первый смартфон realme найден и добавлен в сравнение
+2020-07-11 23:41:32,780 INFO c.OtusRunTest [main] Товар realme добавлен к сравнению
+2020-07-11 23:41:33,387 INFO c.OtusRunTest [main] Драйвер off
+2020-07-11 23:42:13,897 INFO c.OtusRunTest [main] Драйвер up
+2020-07-11 23:42:14,085 INFO c.OtusRunTest [main] Драйвер off
+2020-07-11 23:47:31,164 INFO c.OtusRunTest [main] Драйвер up
+2020-07-11 23:47:31,354 INFO c.OtusRunTest [main] Драйвер off
+2020-07-11 23:49:43,318 INFO c.OtusRunTest [main] Драйвер up
+2020-07-11 23:49:43,450 INFO c.OtusRunTest [main] Драйвер off
+2020-07-11 23:50:41,967 INFO c.OtusRunTest [main] Драйвер up
+2020-07-11 23:50:42,047 INFO c.OtusRunTest [main] Драйвер off
+2020-07-11 23:53:12,049 INFO c.OtusRunTest [main] Драйвер up
+2020-07-11 23:53:13,929 INFO c.OtusRunTest [main] Драйвер off
+2020-07-11 23:54:08,665 INFO c.OtusRunTest [main] Драйвер up
+2020-07-11 23:54:11,547 INFO c.OtusRunTest [main] Драйвер off
+2020-07-12 00:01:43,711 INFO c.OtusRunTest [main] Драйвер up
+2020-07-12 00:05:34,623 INFO c.OtusRunTest [main] Драйвер up
+2020-07-12 00:05:34,757 INFO c.OtusRunTest [main] Драйвер off
+2020-07-12 00:07:36,517 INFO c.OtusRunTest [main] Драйвер up
+2020-07-12 00:07:36,649 INFO c.OtusRunTest [main] Драйвер off
+2020-07-12 00:09:47,021 INFO c.OtusRunTest [main] Драйвер up
+2020-07-12 00:09:47,145 INFO c.OtusRunTest [main] Драйвер off
+2020-07-28 22:14:33,717 INFO c.OtusRunTest [main] Драйвер up
+2020-07-28 22:14:34,672 INFO c.OtusRunTest [main] Сайт YA открыт
+2020-07-28 22:14:35,043 INFO c.OtusRunTest [main] Открыт раздел Электроника
+2020-07-28 22:14:36,472 INFO c.OtusRunTest [main] Открыт раздел Мобильные телефоны
+2020-07-28 22:14:38,223 INFO c.OtusRunTest [main] Раскрыть список 'Показать все'
+2020-07-28 22:14:38,768 INFO c.OtusRunTest [main] Ввод первого производителя
+2020-07-28 22:14:39,535 INFO c.OtusRunTest [main] Выбран производитель Xiaomi
+2020-07-28 22:14:39,605 INFO c.OtusRunTest [main] Очищение инпута
+2020-07-28 22:14:39,704 INFO c.OtusRunTest [main] Ввод второго производителя
+2020-07-28 22:14:40,603 INFO c.OtusRunTest [main] Выбран производитель realme
+2020-07-28 22:14:40,835 INFO c.OtusRunTest [main] Выполнение сортировки по цене
+2020-07-28 22:14:42,158 INFO c.OtusRunTest [main] Первый смартфон realme найден и добавлен в сравнение
+2020-07-28 22:14:47,382 INFO c.OtusRunTest [main] Драйвер off
+2020-07-28 22:15:01,997 INFO c.OtusRunTest [main] Драйвер up
+2020-07-28 22:15:03,200 INFO c.OtusRunTest [main] Сайт YA открыт
+2020-07-28 22:15:05,060 INFO c.OtusRunTest [main] Открыт раздел Электроника
+2020-07-28 22:15:08,137 INFO c.OtusRunTest [main] Открыт раздел Мобильные телефоны
+2020-07-28 22:15:08,347 INFO c.OtusRunTest [main] Раскрыть список 'Показать все'
+2020-07-28 22:15:08,802 INFO c.OtusRunTest [main] Ввод первого производителя
+2020-07-28 22:15:09,621 INFO c.OtusRunTest [main] Выбран производитель Xiaomi
+2020-07-28 22:15:09,699 INFO c.OtusRunTest [main] Очищение инпута
+2020-07-28 22:15:09,821 INFO c.OtusRunTest [main] Ввод второго производителя
+2020-07-28 22:15:10,668 INFO c.OtusRunTest [main] Выбран производитель realme
+2020-07-28 22:15:10,899 INFO c.OtusRunTest [main] Выполнение сортировки по цене
+2020-07-28 22:15:12,269 INFO c.OtusRunTest [main] Первый смартфон realme найден и добавлен в сравнение
+2020-07-28 22:15:17,402 INFO c.OtusRunTest [main] Драйвер off
+2020-07-28 22:21:32,016 INFO c.OtusRunTest [main] Драйвер up
+2020-07-28 22:21:32,832 INFO c.OtusRunTest [main] Сайт YA открыт
+2020-07-28 22:21:34,799 INFO c.OtusRunTest [main] Открыт раздел Электроника
+2020-07-28 22:21:37,918 INFO c.OtusRunTest [main] Открыт раздел Мобильные телефоны
+2020-07-28 22:21:38,084 INFO c.OtusRunTest [main] Раскрыть список 'Показать все'
+2020-07-28 22:21:38,509 INFO c.OtusRunTest [main] Ввод первого производителя
+2020-07-28 22:21:39,334 INFO c.OtusRunTest [main] Выбран производитель Xiaomi
+2020-07-28 22:21:39,413 INFO c.OtusRunTest [main] Очищение инпута
+2020-07-28 22:21:39,520 INFO c.OtusRunTest [main] Ввод второго производителя
+2020-07-28 22:21:40,398 INFO c.OtusRunTest [main] Выбран производитель realme
+2020-07-28 22:21:40,614 INFO c.OtusRunTest [main] Выполнение сортировки по цене
+2020-07-28 22:21:41,873 INFO c.OtusRunTest [main] Первый смартфон realme найден и добавлен в сравнение
+2020-07-28 22:21:47,079 INFO c.OtusRunTest [main] Драйвер off
+2020-07-28 22:22:57,743 INFO c.OtusRunTest [main] Драйвер up
+2020-07-28 22:22:58,712 INFO c.OtusRunTest [main] Сайт YA открыт
+2020-07-28 22:23:00,340 INFO c.OtusRunTest [main] Открыт раздел Электроника
+2020-07-28 22:23:03,372 INFO c.OtusRunTest [main] Открыт раздел Мобильные телефоны
+2020-07-28 22:23:03,506 INFO c.OtusRunTest [main] Раскрыть список 'Показать все'
+2020-07-28 22:23:03,914 INFO c.OtusRunTest [main] Ввод первого производителя
+2020-07-28 22:23:04,702 INFO c.OtusRunTest [main] Выбран производитель Xiaomi
+2020-07-28 22:23:04,777 INFO c.OtusRunTest [main] Очищение инпута
+2020-07-28 22:23:04,888 INFO c.OtusRunTest [main] Ввод второго производителя
+2020-07-28 22:23:05,724 INFO c.OtusRunTest [main] Выбран производитель realme
+2020-07-28 22:23:05,861 INFO c.OtusRunTest [main] Выполнение сортировки по цене
+2020-07-28 22:23:11,045 INFO c.OtusRunTest [main] Драйвер off
+2020-07-28 22:24:26,600 INFO c.OtusRunTest [main] Драйвер up
+2020-07-28 22:24:27,955 INFO c.OtusRunTest [main] Сайт YA открыт
+2020-07-28 22:24:28,436 INFO c.OtusRunTest [main] Открыт раздел Электроника
+2020-07-28 22:24:29,927 INFO c.OtusRunTest [main] Открыт раздел Мобильные телефоны
+2020-07-28 22:24:31,667 INFO c.OtusRunTest [main] Раскрыть список 'Показать все'
+2020-07-28 22:24:32,151 INFO c.OtusRunTest [main] Ввод первого производителя
+2020-07-28 22:24:33,102 INFO c.OtusRunTest [main] Выбран производитель Xiaomi
+2020-07-28 22:24:33,177 INFO c.OtusRunTest [main] Очищение инпута
+2020-07-28 22:24:33,287 INFO c.OtusRunTest [main] Ввод второго производителя
+2020-07-28 22:24:33,527 INFO c.OtusRunTest [main] Выполнение сортировки по цене
+2020-07-28 22:24:34,126 INFO c.OtusRunTest [main] Выбран производитель realme
+2020-07-28 22:24:36,033 INFO c.OtusRunTest [main] Первый смартфон realme найден и добавлен в сравнение
+2020-07-28 22:24:41,244 INFO c.OtusRunTest [main] Драйвер off
+2020-07-28 22:25:34,405 INFO c.OtusRunTest [main] Драйвер up
+2020-07-28 22:25:36,012 INFO c.OtusRunTest [main] Сайт YA открыт
+2020-07-28 22:25:37,115 INFO c.OtusRunTest [main] Открыт раздел Электроника
+2020-07-28 22:25:40,262 INFO c.OtusRunTest [main] Открыт раздел Мобильные телефоны
+2020-07-28 22:25:40,412 INFO c.OtusRunTest [main] Раскрыть список 'Показать все'
+2020-07-28 22:25:40,904 INFO c.OtusRunTest [main] Ввод первого производителя
+2020-07-28 22:25:41,698 INFO c.OtusRunTest [main] Выбран производитель Xiaomi
+2020-07-28 22:25:41,774 INFO c.OtusRunTest [main] Очищение инпута
+2020-07-28 22:25:41,883 INFO c.OtusRunTest [main] Ввод второго производителя
+2020-07-28 22:25:42,127 INFO c.OtusRunTest [main] Выполнение сортировки по цене
+2020-07-28 22:25:47,395 INFO c.OtusRunTest [main] Драйвер off
+2020-07-28 22:41:52,759 INFO c.OtusRunTest [main] Драйвер up
+2020-07-28 22:41:54,188 INFO c.OtusRunTest [main] Сайт YA открыт
+2020-07-28 22:41:54,508 INFO c.OtusRunTest [main] Открыт раздел Электроника
+2020-07-28 22:41:55,937 INFO c.OtusRunTest [main] Открыт раздел Мобильные телефоны
+2020-07-28 22:41:57,761 INFO c.OtusRunTest [main] Раскрыть список 'Показать все'
+2020-07-28 22:41:58,296 INFO c.OtusRunTest [main] Ввод первого производителя
+2020-07-28 22:41:59,111 INFO c.OtusRunTest [main] Выбран производитель Xiaomi
+2020-07-28 22:41:59,187 INFO c.OtusRunTest [main] Очищение инпута
+2020-07-28 22:41:59,277 INFO c.OtusRunTest [main] Ввод второго производителя
+2020-07-28 22:42:00,155 INFO c.OtusRunTest [main] Выбран производитель realme
+2020-07-28 22:42:00,367 INFO c.OtusRunTest [main] Выполнение сортировки по цене
+2020-07-28 22:42:01,906 INFO c.OtusRunTest [main] Первый смартфон realme найден
+2020-07-28 22:42:07,486 INFO c.OtusRunTest [main] Драйвер off
+2020-07-28 22:44:15,129 INFO c.OtusRunTest [main] Драйвер up
+2020-07-28 22:44:16,314 INFO c.OtusRunTest [main] Сайт YA открыт
+2020-07-28 22:44:16,650 INFO c.OtusRunTest [main] Открыт раздел Электроника
+2020-07-28 22:44:18,326 INFO c.OtusRunTest [main] Открыт раздел Мобильные телефоны
+2020-07-28 22:44:20,051 INFO c.OtusRunTest [main] Раскрыть список 'Показать все'
+2020-07-28 22:44:20,478 INFO c.OtusRunTest [main] Ввод первого производителя
+2020-07-28 22:44:21,292 INFO c.OtusRunTest [main] Выбран производитель Xiaomi
+2020-07-28 22:44:21,363 INFO c.OtusRunTest [main] Очищение инпута
+2020-07-28 22:44:21,459 INFO c.OtusRunTest [main] Ввод второго производителя
+2020-07-28 22:44:22,375 INFO c.OtusRunTest [main] Выбран производитель realme
+2020-07-28 22:44:22,608 INFO c.OtusRunTest [main] Выполнение сортировки по цене
+2020-07-28 22:44:23,952 INFO c.OtusRunTest [main] Первый смартфон realme найден
+2020-07-28 22:44:29,105 INFO c.OtusRunTest [main] Драйвер off
+2020-07-28 22:47:18,920 INFO c.OtusRunTest [main] Драйвер up
+2020-07-28 22:47:19,809 INFO c.OtusRunTest [main] Сайт YA открыт
+2020-07-28 22:47:21,845 INFO c.OtusRunTest [main] Открыт раздел Электроника
+2020-07-28 22:47:23,888 INFO c.OtusRunTest [main] Открыт раздел Мобильные телефоны
+2020-07-28 22:47:25,482 INFO c.OtusRunTest [main] Раскрыть список 'Показать все'
+2020-07-28 22:47:25,917 INFO c.OtusRunTest [main] Ввод первого производителя
+2020-07-28 22:47:26,720 INFO c.OtusRunTest [main] Выбран производитель Xiaomi
+2020-07-28 22:47:26,776 INFO c.OtusRunTest [main] Очищение инпута
+2020-07-28 22:47:26,887 INFO c.OtusRunTest [main] Ввод второго производителя
+2020-07-28 22:47:27,779 INFO c.OtusRunTest [main] Выбран производитель realme
+2020-07-28 22:47:27,989 INFO c.OtusRunTest [main] Выполнение сортировки по цене
+2020-07-28 22:47:29,462 INFO c.OtusRunTest [main] Первый смартфон realme найден
+2020-07-28 22:47:29,997 INFO c.OtusRunTest [main] Драйвер off
+2020-07-28 22:49:02,028 INFO c.OtusRunTest [main] Драйвер up
+2020-07-28 22:49:03,592 INFO c.OtusRunTest [main] Сайт YA открыт
+2020-07-28 22:49:03,880 INFO c.OtusRunTest [main] Открыт раздел Электроника
+2020-07-28 22:49:05,719 INFO c.OtusRunTest [main] Открыт раздел Мобильные телефоны
+2020-07-28 22:49:07,412 INFO c.OtusRunTest [main] Раскрыть список 'Показать все'
+2020-07-28 22:49:07,914 INFO c.OtusRunTest [main] Ввод первого производителя
+2020-07-28 22:49:08,698 INFO c.OtusRunTest [main] Выбран производитель Xiaomi
+2020-07-28 22:49:08,766 INFO c.OtusRunTest [main] Очищение инпута
+2020-07-28 22:49:08,862 INFO c.OtusRunTest [main] Ввод второго производителя
+2020-07-28 22:49:09,760 INFO c.OtusRunTest [main] Выбран производитель realme
+2020-07-28 22:49:09,969 INFO c.OtusRunTest [main] Выполнение сортировки по цене
+2020-07-28 22:49:11,264 INFO c.OtusRunTest [main] Первый смартфон realme найден
+2020-07-28 22:49:16,446 INFO c.OtusRunTest [main] Драйвер off
+2020-07-28 23:01:10,850 INFO c.OtusRunTest [main] Драйвер up
+2020-07-28 23:01:12,277 INFO c.OtusRunTest [main] Сайт YA открыт
+2020-07-28 23:01:12,840 INFO c.OtusRunTest [main] Открыт раздел Электроника
+2020-07-28 23:01:14,307 INFO c.OtusRunTest [main] Открыт раздел Мобильные телефоны
+2020-07-28 23:01:16,032 INFO c.OtusRunTest [main] Раскрыть список 'Показать все'
+2020-07-28 23:01:16,425 INFO c.OtusRunTest [main] Ввод первого производителя
+2020-07-28 23:01:17,219 INFO c.OtusRunTest [main] Выбран производитель Xiaomi
+2020-07-28 23:01:17,291 INFO c.OtusRunTest [main] Очищение инпута
+2020-07-28 23:01:17,380 INFO c.OtusRunTest [main] Ввод второго производителя
+2020-07-28 23:01:18,281 INFO c.OtusRunTest [main] Выбран производитель realme
+2020-07-28 23:01:18,524 INFO c.OtusRunTest [main] Выполнение сортировки по цене
+2020-07-28 23:01:19,986 INFO c.OtusRunTest [main] Драйвер off
+2020-07-28 23:01:30,610 INFO c.OtusRunTest [main] Драйвер up
+2020-07-28 23:01:31,798 INFO c.OtusRunTest [main] Сайт YA открыт
+2020-07-28 23:01:32,222 INFO c.OtusRunTest [main] Открыт раздел Электроника
+2020-07-28 23:01:33,761 INFO c.OtusRunTest [main] Открыт раздел Мобильные телефоны
+2020-07-28 23:01:35,551 INFO c.OtusRunTest [main] Раскрыть список 'Показать все'
+2020-07-28 23:01:35,988 INFO c.OtusRunTest [main] Ввод первого производителя
+2020-07-28 23:01:36,784 INFO c.OtusRunTest [main] Выбран производитель Xiaomi
+2020-07-28 23:01:36,867 INFO c.OtusRunTest [main] Очищение инпута
+2020-07-28 23:01:36,965 INFO c.OtusRunTest [main] Ввод второго производителя
+2020-07-28 23:01:37,895 INFO c.OtusRunTest [main] Выбран производитель realme
+2020-07-28 23:01:38,108 INFO c.OtusRunTest [main] Выполнение сортировки по цене
+2020-07-28 23:01:39,441 INFO c.OtusRunTest [main] Драйвер off
+2020-07-28 23:02:10,257 INFO c.OtusRunTest [main] Драйвер up
+2020-07-28 23:02:11,164 INFO c.OtusRunTest [main] Сайт YA открыт
+2020-07-28 23:02:12,903 INFO c.OtusRunTest [main] Открыт раздел Электроника
+2020-07-28 23:02:13,748 INFO c.OtusRunTest [main] Открыт раздел Мобильные телефоны
+2020-07-28 23:02:42,419 INFO c.OtusRunTest [main] Драйвер up
+2020-07-28 23:02:43,847 INFO c.OtusRunTest [main] Сайт YA открыт
+2020-07-28 23:02:44,139 INFO c.OtusRunTest [main] Открыт раздел Электроника
+2020-07-28 23:02:45,465 INFO c.OtusRunTest [main] Открыт раздел Мобильные телефоны
+2020-07-28 23:02:47,157 INFO c.OtusRunTest [main] Раскрыть список 'Показать все'
+2020-07-28 23:02:47,550 INFO c.OtusRunTest [main] Ввод первого производителя
+2020-07-28 23:02:48,409 INFO c.OtusRunTest [main] Выбран производитель Xiaomi
+2020-07-28 23:02:48,550 INFO c.OtusRunTest [main] Очищение инпута
+2020-07-28 23:02:48,649 INFO c.OtusRunTest [main] Ввод второго производителя
+2020-07-28 23:02:49,465 INFO c.OtusRunTest [main] Выбран производитель realme
+2020-07-28 23:02:49,693 INFO c.OtusRunTest [main] Выполнение сортировки по цене
+2020-07-28 23:02:55,100 INFO c.OtusRunTest [main] Драйвер off
+2020-07-28 23:06:33,141 INFO c.OtusRunTest [main] Драйвер up
+2020-07-28 23:06:34,710 INFO c.OtusRunTest [main] Сайт YA открыт
+2020-07-28 23:06:35,160 INFO c.OtusRunTest [main] Открыт раздел Электроника
+2020-07-28 23:06:36,653 INFO c.OtusRunTest [main] Открыт раздел Мобильные телефоны
+2020-07-28 23:06:38,976 INFO c.OtusRunTest [main] Раскрыть список 'Показать все'
+2020-07-28 23:06:39,406 INFO c.OtusRunTest [main] Ввод первого производителя
+2020-07-28 23:06:40,211 INFO c.OtusRunTest [main] Выбран производитель Xiaomi
+2020-07-28 23:06:40,302 INFO c.OtusRunTest [main] Очищение инпута
+2020-07-28 23:06:40,438 INFO c.OtusRunTest [main] Ввод второго производителя
+2020-07-28 23:06:41,326 INFO c.OtusRunTest [main] Выбран производитель realme
+2020-07-28 23:06:41,639 INFO c.OtusRunTest [main] Выполнение сортировки по цене
+2020-07-28 23:06:43,580 INFO c.OtusRunTest [main] Первый смартфон realme найден и добавлен в избранное
+2020-07-28 23:06:48,790 INFO c.OtusRunTest [main] Драйвер off
+2020-07-28 23:08:42,293 INFO c.OtusRunTest [main] Драйвер up
+2020-07-28 23:08:43,787 INFO c.OtusRunTest [main] Сайт YA открыт
+2020-07-28 23:08:44,848 INFO c.OtusRunTest [main] Открыт раздел Электроника
+2020-07-28 23:08:48,189 INFO c.OtusRunTest [main] Открыт раздел Мобильные телефоны
+2020-07-28 23:08:48,358 INFO c.OtusRunTest [main] Раскрыть список 'Показать все'
+2020-07-28 23:08:48,760 INFO c.OtusRunTest [main] Ввод первого производителя
+2020-07-28 23:08:49,572 INFO c.OtusRunTest [main] Выбран производитель Xiaomi
+2020-07-28 23:08:49,650 INFO c.OtusRunTest [main] Очищение инпута
+2020-07-28 23:08:49,743 INFO c.OtusRunTest [main] Ввод второго производителя
+2020-07-28 23:08:50,678 INFO c.OtusRunTest [main] Выбран производитель realme
+2020-07-28 23:08:50,887 INFO c.OtusRunTest [main] Выполнение сортировки по цене
+2020-07-28 23:08:52,090 INFO c.OtusRunTest [main] Первый смартфон realme найден и добавлен в избранное
+2020-07-28 23:08:57,260 INFO c.OtusRunTest [main] Драйвер off
+2020-07-28 23:10:48,560 INFO c.OtusRunTest [main] Драйвер up
+2020-07-28 23:10:50,116 INFO c.OtusRunTest [main] Сайт YA открыт
+2020-07-28 23:10:50,309 INFO c.OtusRunTest [main] Открыт раздел Электроника
+2020-07-28 23:10:51,774 INFO c.OtusRunTest [main] Открыт раздел Мобильные телефоны
+2020-07-28 23:10:53,665 INFO c.OtusRunTest [main] Раскрыть список 'Показать все'
+2020-07-28 23:10:54,245 INFO c.OtusRunTest [main] Ввод первого производителя
+2020-07-28 23:10:55,151 INFO c.OtusRunTest [main] Выбран производитель Xiaomi
+2020-07-28 23:10:55,277 INFO c.OtusRunTest [main] Очищение инпута
+2020-07-28 23:10:55,399 INFO c.OtusRunTest [main] Ввод второго производителя
+2020-07-28 23:10:56,219 INFO c.OtusRunTest [main] Выбран производитель realme
+2020-07-28 23:10:56,458 INFO c.OtusRunTest [main] Выполнение сортировки по цене
+2020-07-28 23:10:57,770 INFO c.OtusRunTest [main] Первый смартфон realme найден и добавлен в избранное
+2020-07-28 23:11:03,027 INFO c.OtusRunTest [main] Драйвер off
+2020-07-28 23:14:18,711 INFO c.OtusRunTest [main] Драйвер up
+2020-07-28 23:14:20,101 INFO c.OtusRunTest [main] Сайт YA открыт
+2020-07-28 23:14:20,293 INFO c.OtusRunTest [main] Открыт раздел Электроника
+2020-07-28 23:14:20,516 INFO c.OtusRunTest [main] Открыт раздел Мобильные телефоны
+2020-07-28 23:14:23,908 INFO c.OtusRunTest [main] Раскрыть список 'Показать все'
+2020-07-28 23:14:24,502 INFO c.OtusRunTest [main] Ввод первого производителя
+2020-07-28 23:14:25,346 INFO c.OtusRunTest [main] Выбран производитель Xiaomi
+2020-07-28 23:14:25,416 INFO c.OtusRunTest [main] Очищение инпута
+2020-07-28 23:14:25,518 INFO c.OtusRunTest [main] Ввод второго производителя
+2020-07-28 23:14:26,421 INFO c.OtusRunTest [main] Выбран производитель realme
+2020-07-28 23:14:26,635 INFO c.OtusRunTest [main] Выполнение сортировки по цене
+2020-07-28 23:14:27,949 INFO c.OtusRunTest [main] Первый смартфон realme найден и добавлен в избранное
+2020-07-28 23:14:28,489 INFO c.OtusRunTest [main] Драйвер off
+2020-07-28 23:17:27,295 INFO c.OtusRunTest [main] Драйвер up
+2020-07-28 23:17:28,867 INFO c.OtusRunTest [main] Сайт YA открыт
+2020-07-28 23:17:29,965 INFO c.OtusRunTest [main] Открыт раздел Электроника
+2020-07-28 23:17:33,228 INFO c.OtusRunTest [main] Открыт раздел Мобильные телефоны
+2020-07-28 23:17:33,392 INFO c.OtusRunTest [main] Раскрыть список 'Показать все'
+2020-07-28 23:17:33,878 INFO c.OtusRunTest [main] Ввод первого производителя
+2020-07-28 23:17:34,665 INFO c.OtusRunTest [main] Выбран производитель Xiaomi
+2020-07-28 23:17:34,757 INFO c.OtusRunTest [main] Очищение инпута
+2020-07-28 23:17:34,881 INFO c.OtusRunTest [main] Ввод второго производителя
+2020-07-28 23:17:35,759 INFO c.OtusRunTest [main] Выбран производитель realme
+2020-07-28 23:17:35,998 INFO c.OtusRunTest [main] Выполнение сортировки по цене
+2020-07-28 23:17:37,421 INFO c.OtusRunTest [main] Первый смартфон realme найден и добавлен в избранное
+2020-07-28 23:17:37,873 INFO c.OtusRunTest [main] Первый смартфон Xiaomi
+2020-07-28 23:17:38,360 INFO c.OtusRunTest [main] Открыта вкладка со сравнением
+2020-07-28 23:17:43,528 INFO c.OtusRunTest [main] Драйвер off
+2020-07-29 00:01:58,227 INFO c.OtusRunTest [main] Драйвер up
+2020-07-29 00:01:59,513 INFO c.OtusRunTest [main] Сайт YA открыт
+2020-07-29 00:01:59,712 INFO c.OtusRunTest [main] Открыт раздел Электроника
+2020-07-29 00:02:01,791 INFO c.OtusRunTest [main] Открыт раздел Мобильные телефоны
+2020-07-29 00:02:03,685 INFO c.OtusRunTest [main] Раскрыть список 'Показать все'
+2020-07-29 00:02:04,378 INFO c.OtusRunTest [main] Ввод первого производителя
+2020-07-29 00:02:05,160 INFO c.OtusRunTest [main] Выбран производитель Xiaomi
+2020-07-29 00:02:05,229 INFO c.OtusRunTest [main] Очищение инпута
+2020-07-29 00:02:05,341 INFO c.OtusRunTest [main] Ввод второго производителя
+2020-07-29 00:02:06,241 INFO c.OtusRunTest [main] Выбран производитель realme
+2020-07-29 00:02:06,462 INFO c.OtusRunTest [main] Выполнение сортировки по цене
+2020-07-29 00:02:07,746 INFO c.OtusRunTest [main] Драйвер off
+2020-07-29 00:04:57,840 INFO c.OtusRunTest [main] Драйвер up
+2020-07-29 00:04:59,227 INFO c.OtusRunTest [main] Сайт YA открыт
+2020-07-29 00:04:59,620 INFO c.OtusRunTest [main] Открыт раздел Электроника
+2020-07-29 00:05:01,246 INFO c.OtusRunTest [main] Открыт раздел Мобильные телефоны
+2020-07-29 00:05:03,727 INFO c.OtusRunTest [main] Раскрыть список 'Показать все'
+2020-07-29 00:05:04,382 INFO c.OtusRunTest [main] Ввод первого производителя
+2020-07-29 00:05:05,217 INFO c.OtusRunTest [main] Выбран производитель Xiaomi
+2020-07-29 00:05:05,286 INFO c.OtusRunTest [main] Очищение инпута
+2020-07-29 00:05:05,378 INFO c.OtusRunTest [main] Ввод второго производителя
+2020-07-29 00:05:06,248 INFO c.OtusRunTest [main] Выбран производитель realme
+2020-07-29 00:05:06,453 INFO c.OtusRunTest [main] Выполнение сортировки по цене
+2020-07-29 00:05:07,886 INFO c.OtusRunTest [main] Драйвер off
+2020-07-29 00:08:59,197 INFO c.OtusRunTest [main] Драйвер up
+2020-07-29 00:08:59,977 INFO c.OtusRunTest [main] Сайт YA открыт
+2020-07-29 00:09:01,846 INFO c.OtusRunTest [main] Открыт раздел Электроника
+2020-07-29 00:09:04,726 INFO c.OtusRunTest [main] Открыт раздел Мобильные телефоны
+2020-07-29 00:09:04,979 INFO c.OtusRunTest [main] Раскрыть список 'Показать все'
+2020-07-29 00:09:05,411 INFO c.OtusRunTest [main] Ввод первого производителя
+2020-07-29 00:09:06,230 INFO c.OtusRunTest [main] Выбран производитель Xiaomi
+2020-07-29 00:09:06,288 INFO c.OtusRunTest [main] Очищение инпута
+2020-07-29 00:09:06,409 INFO c.OtusRunTest [main] Ввод второго производителя
+2020-07-29 00:09:07,274 INFO c.OtusRunTest [main] Выбран производитель realme
+2020-07-29 00:09:07,499 INFO c.OtusRunTest [main] Выполнение сортировки по цене
+2020-07-29 00:09:08,886 INFO c.OtusRunTest [main] Драйвер off
+2020-07-29 00:09:21,145 INFO c.OtusRunTest [main] Драйвер up
+2020-07-29 00:09:22,514 INFO c.OtusRunTest [main] Сайт YA открыт
+2020-07-29 00:09:22,742 INFO c.OtusRunTest [main] Открыт раздел Электроника
+2020-07-29 00:09:24,583 INFO c.OtusRunTest [main] Открыт раздел Мобильные телефоны
+2020-07-29 00:09:26,470 INFO c.OtusRunTest [main] Раскрыть список 'Показать все'
+2020-07-29 00:09:26,934 INFO c.OtusRunTest [main] Ввод первого производителя
+2020-07-29 00:09:27,755 INFO c.OtusRunTest [main] Выбран производитель Xiaomi
+2020-07-29 00:09:27,824 INFO c.OtusRunTest [main] Очищение инпута
+2020-07-29 00:09:27,918 INFO c.OtusRunTest [main] Ввод второго производителя
+2020-07-29 00:09:28,839 INFO c.OtusRunTest [main] Выбран производитель realme
+2020-07-29 00:09:29,056 INFO c.OtusRunTest [main] Выполнение сортировки по цене
+2020-07-29 00:09:30,395 INFO c.OtusRunTest [main] Драйвер off
+2020-07-29 00:12:22,125 INFO c.OtusRunTest [main] Драйвер up
+2020-07-29 00:12:23,493 INFO c.OtusRunTest [main] Сайт YA открыт
+2020-07-29 00:12:24,640 INFO c.OtusRunTest [main] Открыт раздел Электроника
+2020-07-29 00:12:27,673 INFO c.OtusRunTest [main] Открыт раздел Мобильные телефоны
+2020-07-29 00:12:27,783 INFO c.OtusRunTest [main] Раскрыть список 'Показать все'
+2020-07-29 00:12:28,184 INFO c.OtusRunTest [main] Ввод первого производителя
+2020-07-29 00:12:28,987 INFO c.OtusRunTest [main] Выбран производитель Xiaomi
+2020-07-29 00:12:29,062 INFO c.OtusRunTest [main] Очищение инпута
+2020-07-29 00:12:29,167 INFO c.OtusRunTest [main] Ввод второго производителя
+2020-07-29 00:12:30,093 INFO c.OtusRunTest [main] Выбран производитель realme
+2020-07-29 00:12:30,301 INFO c.OtusRunTest [main] Выполнение сортировки по цене
+2020-07-29 00:12:31,700 INFO c.OtusRunTest [main] Драйвер off
+2020-07-29 00:14:47,819 INFO c.OtusRunTest [main] Драйвер up
+2020-07-29 00:14:49,024 INFO c.OtusRunTest [main] Сайт YA открыт
+2020-07-29 00:14:49,370 INFO c.OtusRunTest [main] Открыт раздел Электроника
+2020-07-29 00:14:50,684 INFO c.OtusRunTest [main] Открыт раздел Мобильные телефоны
+2020-07-29 00:14:52,416 INFO c.OtusRunTest [main] Раскрыть список 'Показать все'
+2020-07-29 00:14:52,956 INFO c.OtusRunTest [main] Ввод первого производителя
+2020-07-29 00:14:53,765 INFO c.OtusRunTest [main] Выбран производитель Xiaomi
+2020-07-29 00:14:53,835 INFO c.OtusRunTest [main] Очищение инпута
+2020-07-29 00:14:53,921 INFO c.OtusRunTest [main] Ввод второго производителя
+2020-07-29 00:14:54,863 INFO c.OtusRunTest [main] Выбран производитель realme
+2020-07-29 00:14:55,066 INFO c.OtusRunTest [main] Выполнение сортировки по цене
+2020-07-29 00:14:55,292 INFO c.OtusRunTest [main] Первый смартфон realme найден и добавлен в избранное
+2020-07-29 00:15:00,474 INFO c.OtusRunTest [main] Драйвер off
+2020-07-29 00:16:16,016 INFO c.OtusRunTest [main] Драйвер up
+2020-07-29 00:16:17,302 INFO c.OtusRunTest [main] Сайт YA открыт
+2020-07-29 00:16:17,551 INFO c.OtusRunTest [main] Открыт раздел Электроника
+2020-07-29 00:16:18,976 INFO c.OtusRunTest [main] Открыт раздел Мобильные телефоны
+2020-07-29 00:16:20,632 INFO c.OtusRunTest [main] Раскрыть список 'Показать все'
+2020-07-29 00:16:21,120 INFO c.OtusRunTest [main] Ввод первого производителя
+2020-07-29 00:16:21,952 INFO c.OtusRunTest [main] Выбран производитель Xiaomi
+2020-07-29 00:16:22,031 INFO c.OtusRunTest [main] Очищение инпута
+2020-07-29 00:16:22,153 INFO c.OtusRunTest [main] Ввод второго производителя
+2020-07-29 00:16:23,047 INFO c.OtusRunTest [main] Выбран производитель realme
+2020-07-29 00:16:23,270 INFO c.OtusRunTest [main] Выполнение сортировки по цене
+2020-07-29 00:16:23,500 INFO c.OtusRunTest [main] Первый смартфон realme найден и добавлен в избранное
+2020-07-29 00:16:28,669 INFO c.OtusRunTest [main] Драйвер off
+2020-07-29 00:17:46,001 INFO c.OtusRunTest [main] Драйвер up
+2020-07-29 00:17:46,978 INFO c.OtusRunTest [main] Сайт YA открыт
+2020-07-29 00:17:48,696 INFO c.OtusRunTest [main] Открыт раздел Электроника
+2020-07-29 00:17:51,989 INFO c.OtusRunTest [main] Открыт раздел Мобильные телефоны
+2020-07-29 00:17:52,114 INFO c.OtusRunTest [main] Раскрыть список 'Показать все'
+2020-07-29 00:17:52,583 INFO c.OtusRunTest [main] Ввод первого производителя
+2020-07-29 00:17:53,395 INFO c.OtusRunTest [main] Выбран производитель Xiaomi
+2020-07-29 00:17:53,487 INFO c.OtusRunTest [main] Очищение инпута
+2020-07-29 00:17:53,600 INFO c.OtusRunTest [main] Ввод второго производителя
+2020-07-29 00:17:54,476 INFO c.OtusRunTest [main] Выбран производитель realme
+2020-07-29 00:17:54,709 INFO c.OtusRunTest [main] Выполнение сортировки по цене
+2020-07-29 00:17:54,897 INFO c.OtusRunTest [main] Первый смартфон realme найден и добавлен в избранное
+2020-07-29 00:18:00,021 INFO c.OtusRunTest [main] Драйвер off
+2020-07-29 00:19:02,928 INFO c.OtusRunTest [main] Драйвер up
+2020-07-29 00:19:04,354 INFO c.OtusRunTest [main] Сайт YA открыт
+2020-07-29 00:19:04,766 INFO c.OtusRunTest [main] Открыт раздел Электроника
+2020-07-29 00:19:07,057 INFO c.OtusRunTest [main] Открыт раздел Мобильные телефоны
+2020-07-29 00:19:08,916 INFO c.OtusRunTest [main] Раскрыть список 'Показать все'
+2020-07-29 00:19:09,320 INFO c.OtusRunTest [main] Ввод первого производителя
+2020-07-29 00:19:10,149 INFO c.OtusRunTest [main] Выбран производитель Xiaomi
+2020-07-29 00:19:10,227 INFO c.OtusRunTest [main] Очищение инпута
+2020-07-29 00:19:10,347 INFO c.OtusRunTest [main] Ввод второго производителя
+2020-07-29 00:19:11,227 INFO c.OtusRunTest [main] Выбран производитель realme
+2020-07-29 00:19:11,473 INFO c.OtusRunTest [main] Выполнение сортировки по цене
+2020-07-29 00:19:11,673 INFO c.OtusRunTest [main] Первый смартфон realme найден и добавлен в избранное
+2020-07-29 00:19:16,929 INFO c.OtusRunTest [main] Драйвер off
+2020-07-29 00:19:22,166 INFO c.OtusRunTest [main] Драйвер up
+2020-07-29 00:19:23,507 INFO c.OtusRunTest [main] Сайт YA открыт
+2020-07-29 00:19:24,723 INFO c.OtusRunTest [main] Открыт раздел Электроника
+2020-07-29 00:19:27,729 INFO c.OtusRunTest [main] Открыт раздел Мобильные телефоны
+2020-07-29 00:19:27,930 INFO c.OtusRunTest [main] Раскрыть список 'Показать все'
+2020-07-29 00:19:28,416 INFO c.OtusRunTest [main] Ввод первого производителя
+2020-07-29 00:19:29,251 INFO c.OtusRunTest [main] Выбран производитель Xiaomi
+2020-07-29 00:19:29,321 INFO c.OtusRunTest [main] Очищение инпута
+2020-07-29 00:19:29,415 INFO c.OtusRunTest [main] Ввод второго производителя
+2020-07-29 00:19:30,347 INFO c.OtusRunTest [main] Выбран производитель realme
+2020-07-29 00:19:30,568 INFO c.OtusRunTest [main] Выполнение сортировки по цене
+2020-07-29 00:19:30,772 INFO c.OtusRunTest [main] Первый смартфон realme найден и добавлен в избранное
+2020-07-29 00:19:35,919 INFO c.OtusRunTest [main] Драйвер off
+2020-07-29 00:20:40,349 INFO c.OtusRunTest [main] Драйвер up
+2020-07-29 00:20:41,651 INFO c.OtusRunTest [main] Сайт YA открыт
+2020-07-29 00:20:42,043 INFO c.OtusRunTest [main] Открыт раздел Электроника
+2020-07-29 00:20:43,498 INFO c.OtusRunTest [main] Открыт раздел Мобильные телефоны
+2020-07-29 00:20:45,286 INFO c.OtusRunTest [main] Раскрыть список 'Показать все'
+2020-07-29 00:20:45,656 INFO c.OtusRunTest [main] Ввод первого производителя
+2020-07-29 00:20:46,476 INFO c.OtusRunTest [main] Выбран производитель Xiaomi
+2020-07-29 00:20:46,552 INFO c.OtusRunTest [main] Очищение инпута
+2020-07-29 00:20:46,650 INFO c.OtusRunTest [main] Ввод второго производителя
+2020-07-29 00:20:47,566 INFO c.OtusRunTest [main] Выбран производитель realme
+2020-07-29 00:20:47,771 INFO c.OtusRunTest [main] Выполнение сортировки по цене
+2020-07-29 00:20:49,121 INFO c.OtusRunTest [main] Драйвер off
+2020-07-29 00:22:22,287 INFO c.OtusRunTest [main] Драйвер up
+2020-07-29 00:22:23,124 INFO c.OtusRunTest [main] Сайт YA открыт
+2020-07-29 00:22:24,760 INFO c.OtusRunTest [main] Открыт раздел Электроника
+2020-07-29 00:22:27,593 INFO c.OtusRunTest [main] Открыт раздел Мобильные телефоны
+2020-07-29 00:22:27,826 INFO c.OtusRunTest [main] Раскрыть список 'Показать все'
+2020-07-29 00:22:28,222 INFO c.OtusRunTest [main] Ввод первого производителя
+2020-07-29 00:22:29,032 INFO c.OtusRunTest [main] Выбран производитель Xiaomi
+2020-07-29 00:22:29,105 INFO c.OtusRunTest [main] Очищение инпута
+2020-07-29 00:22:29,203 INFO c.OtusRunTest [main] Ввод второго производителя
+2020-07-29 00:22:30,106 INFO c.OtusRunTest [main] Выбран производитель realme
+2020-07-29 00:22:30,324 INFO c.OtusRunTest [main] Выполнение сортировки по цене
+2020-07-29 00:22:31,768 INFO c.OtusRunTest [main] Драйвер off
+2020-07-29 00:40:19,748 INFO c.OtusRunTest [main] Драйвер up
+2020-07-29 00:40:21,098 INFO c.OtusRunTest [main] Сайт YA открыт
+2020-07-29 00:40:22,368 INFO c.OtusRunTest [main] Открыт раздел Электроника
+2020-07-29 00:40:25,353 INFO c.OtusRunTest [main] Открыт раздел Мобильные телефоны
+2020-07-29 00:40:25,528 INFO c.OtusRunTest [main] Раскрыть список 'Показать все'
+2020-07-29 00:40:25,899 INFO c.OtusRunTest [main] Ввод первого производителя
+2020-07-29 00:40:26,701 INFO c.OtusRunTest [main] Выбран производитель Xiaomi
+2020-07-29 00:40:26,768 INFO c.OtusRunTest [main] Очищение инпута
+2020-07-29 00:40:26,879 INFO c.OtusRunTest [main] Ввод второго производителя
+2020-07-29 00:40:27,767 INFO c.OtusRunTest [main] Выбран производитель realme
+2020-07-29 00:40:27,988 INFO c.OtusRunTest [main] Выполнение сортировки по цене
+2020-07-29 00:40:29,318 INFO c.OtusRunTest [main] Драйвер off
+2020-07-29 01:03:59,153 INFO c.OtusRunTest [main] Драйвер up
+2020-07-29 01:04:02,620 INFO c.OtusRunTest [main] Переход на страницу авторизации
+2020-07-29 01:04:03,235 INFO c.OtusRunTest [main] Драйвер off
+2020-07-29 01:04:03,857 INFO c.OtusRunTest [main] Драйвер up
+2020-07-29 01:04:05,268 INFO c.OtusRunTest [main] Сайт YA открыт
+2020-07-29 01:04:05,789 INFO c.OtusRunTest [main] Открыт раздел Электроника
+2020-07-29 01:04:07,504 INFO c.OtusRunTest [main] Открыт раздел Мобильные телефоны
+2020-07-29 01:04:10,000 INFO c.OtusRunTest [main] Раскрыть список 'Показать все'
+2020-07-29 01:04:10,445 INFO c.OtusRunTest [main] Ввод первого производителя
+2020-07-29 01:04:11,266 INFO c.OtusRunTest [main] Выбран производитель Xiaomi
+2020-07-29 01:04:11,382 INFO c.OtusRunTest [main] Очищение инпута
+2020-07-29 01:04:11,510 INFO c.OtusRunTest [main] Ввод второго производителя
+2020-07-29 01:04:12,386 INFO c.OtusRunTest [main] Выбран производитель realme
+2020-07-29 01:04:12,782 INFO c.OtusRunTest [main] Выполнение сортировки по цене
+2020-07-29 01:04:14,455 INFO c.OtusRunTest [main] Драйвер off
+2020-07-29 01:04:38,202 INFO c.OtusRunTest [main] Драйвер up
+2020-07-29 01:04:41,294 INFO c.OtusRunTest [main] Переход на страницу авторизации
+2020-07-29 01:04:42,349 INFO c.OtusRunTest [main] Драйвер off
+2020-07-29 01:08:22,579 INFO c.OtusRunTest [main] Драйвер up
+2020-07-29 01:08:25,864 INFO c.OtusRunTest [main] Переход на страницу авторизации
+2020-07-29 01:08:27,057 INFO c.OtusRunTest [main] Драйвер off
+2020-07-29 01:09:45,402 INFO c.OtusRunTest [main] Драйвер up
+2020-07-29 01:09:48,833 INFO c.OtusRunTest [main] Переход на страницу авторизации
+2020-07-29 01:09:54,917 INFO c.OtusRunTest [main] Драйвер off
+2020-07-29 01:11:15,166 INFO c.OtusRunTest [main] Драйвер up
+2020-07-29 01:11:18,617 INFO c.OtusRunTest [main] Переход на страницу авторизации
+2020-07-29 01:11:19,551 INFO c.OtusRunTest [main] Драйвер off
+2020-07-29 01:12:37,537 INFO c.OtusRunTest [main] Драйвер up
+2020-07-29 01:12:40,929 INFO c.OtusRunTest [main] Переход на страницу авторизации
+2020-07-29 01:12:46,991 INFO c.OtusRunTest [main] Драйвер off
+2020-07-29 01:14:08,607 INFO c.OtusRunTest [main] Драйвер up
+2020-07-29 01:14:12,368 INFO c.OtusRunTest [main] Переход на страницу авторизации
+2020-07-29 01:14:18,584 INFO c.OtusRunTest [main] Драйвер off
+2020-07-29 01:15:00,659 INFO c.OtusRunTest [main] Драйвер up
+2020-07-29 01:15:06,285 INFO c.OtusRunTest [main] Переход на страницу авторизации
+2020-07-29 01:15:12,389 INFO c.OtusRunTest [main] Драйвер off
+2020-07-29 01:15:30,295 INFO c.OtusRunTest [main] Драйвер up
+2020-07-29 01:15:33,813 INFO c.OtusRunTest [main] Переход на страницу авторизации
+2020-07-29 01:15:39,962 INFO c.OtusRunTest [main] Драйвер off
+2020-07-29 01:18:22,303 INFO c.OtusRunTest [main] Драйвер up
+2020-07-29 01:18:25,988 INFO c.OtusRunTest [main] Переход на страницу авторизации
+2020-07-29 01:18:31,317 INFO c.OtusRunTest [main] Драйвер off
+2020-07-29 01:18:43,613 INFO c.OtusRunTest [main] Драйвер up
+2020-07-29 01:18:47,433 INFO c.OtusRunTest [main] Переход на страницу авторизации
+2020-07-29 01:18:53,904 INFO c.OtusRunTest [main] Драйвер off
+2020-07-29 01:19:26,663 INFO c.OtusRunTest [main] Драйвер up
+2020-07-29 01:19:30,190 INFO c.OtusRunTest [main] Переход на страницу авторизации
+2020-07-29 01:19:36,594 INFO c.OtusRunTest [main] Драйвер off
+2020-07-29 01:21:05,532 INFO c.OtusRunTest [main] Драйвер up
+2020-07-29 01:21:09,256 INFO c.OtusRunTest [main] Переход на страницу авторизации
+2020-07-29 01:21:15,467 INFO c.OtusRunTest [main] Драйвер off
+2020-07-29 01:23:53,588 INFO c.OtusRunTest [main] Драйвер up
+2020-07-29 01:23:57,238 INFO c.OtusRunTest [main] Переход на страницу авторизации
+2020-07-29 01:23:58,344 INFO c.OtusRunTest [main] Драйвер off
+2020-07-29 01:24:17,632 INFO c.OtusRunTest [main] Драйвер up
+2020-07-29 01:24:21,632 INFO c.OtusRunTest [main] Переход на страницу авторизации
+2020-07-29 01:24:22,088 INFO c.OtusRunTest [main] Драйвер off
+2020-07-29 01:25:01,454 INFO c.OtusRunTest [main] Драйвер up
+2020-07-29 01:25:05,897 INFO c.OtusRunTest [main] Переход на страницу авторизации
+2020-07-29 01:25:11,313 INFO c.OtusRunTest [main] Драйвер off
+2020-07-29 01:25:47,209 INFO c.OtusRunTest [main] Драйвер up
+2020-07-29 01:25:51,192 INFO c.OtusRunTest [main] Переход на страницу авторизации
+2020-07-29 01:25:57,452 INFO c.OtusRunTest [main] Драйвер off
+2020-07-29 01:26:21,161 INFO c.OtusRunTest [main] Драйвер up
+2020-07-29 01:26:25,187 INFO c.OtusRunTest [main] Переход на страницу авторизации
+2020-07-29 01:26:46,352 INFO c.OtusRunTest [main] Драйвер off
+2020-07-29 01:30:18,498 INFO c.OtusRunTest [main] Драйвер up
+2020-07-29 01:30:21,982 INFO c.OtusRunTest [main] Переход на страницу авторизации
+2020-07-29 01:30:43,257 INFO c.OtusRunTest [main] Драйвер off
+2020-07-29 01:31:37,762 INFO c.OtusRunTest [main] Драйвер up
+2020-07-29 01:31:41,373 INFO c.OtusRunTest [main] Переход на страницу авторизации
+2020-07-29 01:31:47,517 INFO c.OtusRunTest [main] Драйвер off
+2020-07-29 01:44:39,584 INFO c.OtusRunTest [main] Драйвер up
+2020-07-29 01:44:42,365 INFO c.OtusRunTest [main] Переход на страницу авторизации
+2020-07-29 01:44:48,458 INFO c.OtusRunTest [main] Драйвер off
+2020-07-29 01:45:17,126 INFO c.OtusRunTest [main] Драйвер up
+2020-07-29 01:45:20,355 INFO c.OtusRunTest [main] Переход на страницу авторизации
+2020-07-29 01:45:21,323 INFO c.OtusRunTest [main] Логин в УЗ
+2020-07-29 01:46:12,066 INFO c.OtusRunTest [main] Драйвер up
+2020-07-29 01:46:14,850 INFO c.OtusRunTest [main] Переход на страницу авторизации
+2020-07-29 01:46:15,885 INFO c.OtusRunTest [main] Логин в УЗ
+2020-07-29 01:46:23,089 INFO c.OtusRunTest [main] Драйвер off
+2020-07-29 01:48:57,550 INFO c.OtusRunTest [main] Драйвер up
+2020-07-29 01:49:00,342 INFO c.OtusRunTest [main] Переход на страницу авторизации
+2020-07-29 01:49:01,398 INFO c.OtusRunTest [main] Логин в УЗ
+2020-07-29 01:49:08,429 INFO c.OtusRunTest [main] Драйвер off
+2020-07-29 01:50:16,579 INFO c.OtusRunTest [main] Драйвер up
+2020-07-29 01:50:19,325 INFO c.OtusRunTest [main] Переход на страницу авторизации
+2020-07-29 01:50:20,459 INFO c.OtusRunTest [main] Логин в УЗ
+2020-07-29 01:50:27,216 INFO c.OtusRunTest [main] Драйвер off
+2020-07-29 01:51:40,415 INFO c.OtusRunTest [main] Драйвер up
+2020-07-29 01:51:43,114 INFO c.OtusRunTest [main] Переход на страницу авторизации
+2020-07-29 01:51:44,077 INFO c.OtusRunTest [main] Логин в УЗ
+2020-07-29 01:51:51,228 INFO c.OtusRunTest [main] Драйвер off
+2020-07-29 01:56:32,788 INFO c.OtusRunTest [main] Драйвер up
+2020-07-29 01:56:35,378 INFO c.OtusRunTest [main] Переход на страницу авторизации
+2020-07-29 01:56:36,491 INFO c.OtusRunTest [main] Логин в УЗ
+2020-07-29 01:56:43,311 INFO c.OtusRunTest [main] Драйвер off
+2020-07-29 01:58:30,752 INFO c.OtusRunTest [main] Драйвер up
+2020-07-29 01:58:33,385 INFO c.OtusRunTest [main] Переход на страницу авторизации
+2020-07-29 01:58:34,310 INFO c.OtusRunTest [main] Логин в УЗ
+2020-07-29 01:58:36,036 INFO c.OtusRunTest [main] Драйвер off
+2020-07-29 02:02:06,876 INFO c.OtusRunTest [main] Драйвер up
+2020-07-29 02:02:09,657 INFO c.OtusRunTest [main] Переход на страницу авторизации
+2020-07-29 02:02:10,617 INFO c.OtusRunTest [main] Логин в УЗ
+2020-07-29 02:02:17,384 INFO c.OtusRunTest [main] Драйвер off
+2020-07-29 02:03:22,030 INFO c.OtusRunTest [main] Драйвер up
+2020-07-29 02:03:24,628 INFO c.OtusRunTest [main] Переход на страницу авторизации
+2020-07-29 02:03:25,672 INFO c.OtusRunTest [main] Логин в УЗ
+2020-07-29 02:03:27,758 INFO c.OtusRunTest [main] Драйвер off
+2020-07-29 02:04:12,136 INFO c.OtusRunTest [main] Драйвер up
+2020-07-29 02:04:15,254 INFO c.OtusRunTest [main] Переход на страницу авторизации
+2020-07-29 02:04:16,284 INFO c.OtusRunTest [main] Логин в УЗ
+2020-07-29 02:04:18,188 INFO c.OtusRunTest [main] Переход в ЛК
+2020-07-29 02:04:21,600 INFO c.OtusRunTest [main] Драйвер off
+2020-07-29 02:05:34,617 INFO c.OtusRunTest [main] Драйвер up
+2020-07-29 02:05:37,787 INFO c.OtusRunTest [main] Переход на страницу авторизации
+2020-07-29 02:05:38,750 INFO c.OtusRunTest [main] Логин в УЗ
+2020-07-29 02:05:41,330 INFO c.OtusRunTest [main] Переход в ЛК
+2020-07-29 02:05:45,043 INFO c.OtusRunTest [main] Драйвер off
+2020-07-29 02:28:41,819 INFO c.OtusRunTest [main] Драйвер up
+2020-07-29 02:28:45,568 INFO c.OtusRunTest [main] Переход на страницу авторизации
+2020-07-29 02:28:46,757 INFO c.OtusRunTest [main] Логин в УЗ
+2020-07-29 02:28:49,036 INFO c.OtusRunTest [main] Переход в ЛК
+2020-07-29 02:28:58,166 INFO c.OtusRunTest [main] Драйвер off
+2020-07-29 02:39:24,884 INFO c.OtusRunTest [main] Драйвер up
+2020-07-29 02:39:27,997 INFO c.OtusRunTest [main] Переход на страницу авторизации
+2020-07-29 02:39:29,089 INFO c.OtusRunTest [main] Логин в УЗ
+2020-07-29 02:39:31,249 INFO c.OtusRunTest [main] Переход в ЛК
+2020-07-29 02:39:40,805 INFO c.OtusRunTest [main] Драйвер off
+2020-07-29 02:40:11,672 INFO c.OtusRunTest [main] Драйвер up
+2020-07-29 02:40:14,728 INFO c.OtusRunTest [main] Переход на страницу авторизации
+2020-07-29 02:40:15,871 INFO c.OtusRunTest [main] Логин в УЗ
+2020-07-29 02:40:18,063 INFO c.OtusRunTest [main] Переход в ЛК
+2020-07-29 02:40:26,843 INFO c.OtusRunTest [main] Драйвер off
+2020-07-29 02:40:45,278 INFO c.OtusRunTest [main] Драйвер up
+2020-07-29 02:40:48,246 INFO c.OtusRunTest [main] Переход на страницу авторизации
+2020-07-29 02:40:49,426 INFO c.OtusRunTest [main] Логин в УЗ
+2020-07-29 02:40:52,231 INFO c.OtusRunTest [main] Переход в ЛК
+2020-07-29 02:41:02,053 INFO c.OtusRunTest [main] Драйвер off
+2020-07-29 02:42:38,680 INFO c.OtusRunTest [main] Драйвер up
+2020-07-29 02:42:42,097 INFO c.OtusRunTest [main] Переход на страницу авторизации
+2020-07-29 02:42:42,870 INFO c.OtusRunTest [main] Логин в УЗ
+2020-07-29 02:42:44,867 INFO c.OtusRunTest [main] Переход в ЛК
+2020-07-29 02:42:53,709 INFO c.OtusRunTest [main] Драйвер off
+2020-07-29 02:54:05,038 INFO c.OtusRunTest [main] Драйвер up
+2020-07-29 02:54:08,325 INFO c.OtusRunTest [main] Переход на страницу авторизации
+2020-07-29 02:54:09,542 INFO c.OtusRunTest [main] Логин в УЗ
+2020-07-29 02:54:11,604 INFO c.OtusRunTest [main] Переход в ЛК
+2020-07-29 02:54:20,123 INFO c.OtusRunTest [main] Драйвер off
+2020-07-29 02:59:25,071 INFO c.OtusRunTest [main] Драйвер up
+2020-07-29 02:59:27,764 INFO c.OtusRunTest [main] Переход на страницу авторизации
+2020-07-29 02:59:28,745 INFO c.OtusRunTest [main] Логин в УЗ
+2020-07-29 02:59:30,607 INFO c.OtusRunTest [main] Переход в ЛК
+2020-07-29 02:59:36,354 INFO c.OtusRunTest [main] Заполнили все персональные данные / Сохранили
+2020-07-29 02:59:38,046 INFO c.OtusRunTest [main] Очистка кук, открытие нового окна браузера
+2020-07-29 03:04:52,716 INFO c.OtusRunTest [main] Драйвер up
+2020-07-29 03:04:56,020 INFO c.OtusRunTest [main] Переход на страницу авторизации
+2020-07-29 03:04:56,681 INFO c.OtusRunTest [main] Логин в УЗ
+2020-07-29 03:04:58,595 INFO c.OtusRunTest [main] Переход в ЛК
+2020-07-29 03:05:07,495 INFO c.OtusRunTest [main] Драйвер off
+2020-07-29 03:06:55,320 INFO c.OtusRunTest [main] Драйвер up
+2020-07-29 03:06:57,952 INFO c.OtusRunTest [main] Переход на страницу авторизации
+2020-07-29 03:06:58,956 INFO c.OtusRunTest [main] Логин в УЗ
+2020-07-29 03:07:00,928 INFO c.OtusRunTest [main] Переход в ЛК
+2020-07-29 03:07:05,090 INFO c.OtusRunTest [main] Заполнили все персональные данные / Сохранили
+2020-07-29 03:07:07,123 INFO c.OtusRunTest [main] Очистка кук, открытие нового окна браузера
+2020-07-29 03:10:49,662 INFO c.OtusRunTest [main] Драйвер up
+2020-07-29 03:10:52,379 INFO c.OtusRunTest [main] Переход на страницу авторизации
+2020-07-29 03:10:53,394 INFO c.OtusRunTest [main] Логин в УЗ
+2020-07-29 03:10:55,496 INFO c.OtusRunTest [main] Переход в ЛК
+2020-07-29 03:11:00,866 INFO c.OtusRunTest [main] Драйвер off
+2020-07-29 03:15:03,273 INFO c.OtusRunTest [main] Драйвер up
+2020-07-29 03:15:07,028 INFO c.OtusRunTest [main] Переход на страницу авторизации
+2020-07-29 03:15:08,007 INFO c.OtusRunTest [main] Логин в УЗ
+2020-07-29 03:15:10,081 INFO c.OtusRunTest [main] Переход в ЛК
+2020-07-29 03:15:19,520 INFO c.OtusRunTest [main] Драйвер off
+2020-07-29 03:16:20,540 INFO c.OtusRunTest [main] Драйвер up
+2020-07-29 03:16:23,345 INFO c.OtusRunTest [main] Переход на страницу авторизации
+2020-07-29 03:16:24,343 INFO c.OtusRunTest [main] Логин в УЗ
+2020-07-29 03:16:26,368 INFO c.OtusRunTest [main] Переход в ЛК
+2020-07-29 03:16:38,360 INFO c.OtusRunTest [main] Драйвер off
+2020-07-29 03:18:51,236 INFO c.OtusRunTest [main] Драйвер up
+2020-07-29 03:18:53,921 INFO c.OtusRunTest [main] Переход на страницу авторизации
+2020-07-29 03:18:54,907 INFO c.OtusRunTest [main] Логин в УЗ
+2020-07-29 03:18:56,989 INFO c.OtusRunTest [main] Переход в ЛК
+2020-07-29 03:19:02,379 INFO c.OtusRunTest [main] Драйвер off
+2020-07-29 03:19:16,860 INFO c.OtusRunTest [main] Драйвер up
+2020-07-29 03:19:19,572 INFO c.OtusRunTest [main] Переход на страницу авторизации
+2020-07-29 03:19:20,573 INFO c.OtusRunTest [main] Логин в УЗ
+2020-07-29 03:19:23,051 INFO c.OtusRunTest [main] Переход в ЛК
+2020-07-29 03:19:31,404 INFO c.OtusRunTest [main] Заполнили все персональные данные / Сохранили
+2020-07-29 03:19:32,749 INFO c.OtusRunTest [main] Очистка кук, открытие нового окна браузера
+2020-07-29 03:20:55,839 INFO c.OtusRunTest [main] Драйвер up
+2020-07-29 03:20:58,943 INFO c.OtusRunTest [main] Переход на страницу авторизации
+2020-07-29 03:21:00,099 INFO c.OtusRunTest [main] Логин в УЗ
+2020-07-29 03:21:02,027 INFO c.OtusRunTest [main] Переход в ЛК
+2020-07-29 03:21:12,571 INFO c.OtusRunTest [main] Драйвер off
+2020-07-29 03:23:57,530 INFO c.OtusRunTest [main] Драйвер up
+2020-07-29 03:24:00,213 INFO c.OtusRunTest [main] Переход на страницу авторизации
+2020-07-29 03:24:01,213 INFO c.OtusRunTest [main] Логин в УЗ
+2020-07-29 03:24:03,400 INFO c.OtusRunTest [main] Переход в ЛК
+2020-07-29 03:24:03,401 INFO c.OtusRunTest [main] открыт ЛК
+2020-07-29 03:24:04,918 INFO c.OtusRunTest [main] а теперь отрыто через aboutME
+2020-07-29 03:24:12,020 INFO c.OtusRunTest [main] Драйвер off
+2020-07-29 03:24:47,600 INFO c.OtusRunTest [main] Драйвер up
+2020-07-29 03:24:50,507 INFO c.OtusRunTest [main] Переход на страницу авторизации
+2020-07-29 03:24:51,488 INFO c.OtusRunTest [main] Логин в УЗ
+2020-07-29 03:24:51,489 INFO c.OtusRunTest [main] открыт ЛК
+2020-07-29 03:24:58,371 INFO c.OtusRunTest [main] Драйвер off
+2020-07-29 03:26:44,927 INFO c.OtusRunTest [main] Драйвер up
+2020-07-29 03:26:48,039 INFO c.OtusRunTest [main] Переход на страницу авторизации
+2020-07-29 03:26:49,066 INFO c.OtusRunTest [main] Логин в УЗ
+2020-07-29 03:26:51,203 INFO c.OtusRunTest [main] Переход в ЛК
+2020-07-29 03:26:56,559 INFO c.OtusRunTest [main] Драйвер off
+2020-07-29 03:34:45,891 INFO c.OtusRunTest [main] Драйвер up
+2020-07-29 03:34:48,561 INFO c.OtusRunTest [main] Переход на страницу авторизации
+2020-07-29 03:34:49,604 INFO c.OtusRunTest [main] Логин в УЗ
+2020-07-29 03:34:51,560 INFO c.OtusRunTest [main] Переход в ЛК
+2020-07-29 03:34:56,922 INFO c.OtusRunTest [main] Драйвер off
+2020-07-29 03:40:14,720 INFO c.OtusRunTest [main] Драйвер up
+2020-07-29 03:40:17,488 INFO c.OtusRunTest [main] Переход на страницу авторизации
+2020-07-29 03:40:18,558 INFO c.OtusRunTest [main] Логин в УЗ
+2020-07-29 03:40:22,106 INFO c.OtusRunTest [main] Переход в ЛК
+2020-07-29 03:40:30,606 INFO c.OtusRunTest [main] Драйвер off
+2020-07-29 03:41:42,641 INFO c.OtusRunTest [main] Драйвер up
+2020-07-29 03:41:45,747 INFO c.OtusRunTest [main] Переход на страницу авторизации
+2020-07-29 03:41:46,871 INFO c.OtusRunTest [main] Логин в УЗ
+2020-07-29 03:41:50,651 INFO c.OtusRunTest [main] Переход в ЛК
+2020-07-29 03:42:01,929 INFO c.OtusRunTest [main] Драйвер off
+2020-07-29 03:47:21,385 INFO c.OtusRunTest [main] Драйвер up
+2020-07-29 03:47:25,490 INFO c.OtusRunTest [main] Переход на страницу авторизации
+2020-07-29 03:47:26,713 INFO c.OtusRunTest [main] Логин в УЗ
+2020-07-29 03:47:30,066 INFO c.OtusRunTest [main] Переход в ЛК
+2020-07-29 03:47:42,440 INFO c.OtusRunTest [main] Драйвер off
+2020-07-29 03:51:54,419 INFO c.OtusRunTest [main] Драйвер up
+2020-07-29 03:51:57,495 INFO c.OtusRunTest [main] Переход на страницу авторизации
+2020-07-29 03:51:58,512 INFO c.OtusRunTest [main] Логин в УЗ
+2020-07-29 03:52:02,365 INFO c.OtusRunTest [main] Переход в ЛК
+2020-07-29 03:52:15,867 INFO c.OtusRunTest [main] Драйвер off
+2020-07-29 03:56:26,095 INFO c.OtusRunTest [main] Драйвер up
+2020-07-29 03:56:28,980 INFO c.OtusRunTest [main] Переход на страницу авторизации
+2020-07-29 03:56:30,024 INFO c.OtusRunTest [main] Логин в УЗ
+2020-07-29 03:56:33,277 INFO c.OtusRunTest [main] Переход в ЛК
+2020-07-29 03:56:43,998 INFO c.OtusRunTest [main] Драйвер off
+2020-07-29 04:00:14,054 INFO c.OtusRunTest [main] Драйвер up
+2020-07-29 04:00:16,868 INFO c.OtusRunTest [main] Переход на страницу авторизации
+2020-07-29 04:00:17,844 INFO c.OtusRunTest [main] Логин в УЗ
+2020-07-29 04:00:21,135 INFO c.OtusRunTest [main] Переход в ЛК
+2020-07-29 04:00:31,914 INFO c.OtusRunTest [main] Драйвер off
+2020-07-29 04:04:18,682 INFO c.OtusRunTest [main] Драйвер up
+2020-07-29 04:04:21,676 INFO c.OtusRunTest [main] Переход на страницу авторизации
+2020-07-29 04:04:22,711 INFO c.OtusRunTest [main] Логин в УЗ
+2020-07-29 04:04:26,085 INFO c.OtusRunTest [main] Переход в ЛК
+2020-07-29 04:04:37,023 INFO c.OtusRunTest [main] Драйвер off
+2020-07-29 04:05:13,790 INFO c.OtusRunTest [main] Драйвер up
+2020-07-29 04:05:17,027 INFO c.OtusRunTest [main] Переход на страницу авторизации
+2020-07-29 04:05:17,980 INFO c.OtusRunTest [main] Логин в УЗ
+2020-07-29 04:05:21,328 INFO c.OtusRunTest [main] Переход в ЛК
+2020-07-29 04:05:29,354 INFO c.OtusRunTest [main] Драйвер off
+2020-07-29 04:05:54,621 INFO c.OtusRunTest [main] Драйвер up
+2020-07-29 04:05:57,416 INFO c.OtusRunTest [main] Переход на страницу авторизации
+2020-07-29 04:05:58,400 INFO c.OtusRunTest [main] Логин в УЗ
+2020-07-29 04:06:03,137 INFO c.OtusRunTest [main] Переход в ЛК
+2020-07-29 04:06:14,309 INFO c.OtusRunTest [main] Драйвер off
+2020-07-29 04:08:51,807 INFO c.OtusRunTest [main] Драйвер up
+2020-07-29 04:08:56,116 INFO c.OtusRunTest [main] Переход на страницу авторизации
+2020-07-29 04:08:57,136 INFO c.OtusRunTest [main] Логин в УЗ
+2020-07-29 04:09:00,455 INFO c.OtusRunTest [main] Переход в ЛК
+2020-07-29 04:09:14,197 INFO c.OtusRunTest [main] Драйвер off
+2020-07-29 04:18:22,862 INFO c.OtusRunTest [main] Драйвер up
+2020-07-29 04:18:26,445 INFO c.OtusRunTest [main] Переход на страницу авторизации
+2020-07-29 04:18:27,440 INFO c.OtusRunTest [main] Логин в УЗ
+2020-07-29 04:18:30,829 INFO c.OtusRunTest [main] Переход в ЛК
+2020-07-29 04:18:40,803 INFO c.OtusRunTest [main] Заполнили все персональные данные / Сохранили
+2020-07-29 04:18:42,312 INFO c.OtusRunTest [main] Очистка кук, открытие нового окна браузера
+2020-07-29 04:33:51,987 INFO c.OtusRunTest [main] Драйвер up
+2020-07-29 04:33:54,485 INFO c.OtusRunTest [main] Переход на страницу авторизации
+2020-07-29 04:33:55,487 INFO c.OtusRunTest [main] Логин в УЗ
+2020-07-29 04:33:58,600 INFO c.OtusRunTest [main] Переход в ЛК
+2020-07-29 04:34:07,796 INFO c.OtusRunTest [main] Заполнили все персональные данные / Сохранили
+2020-07-29 04:34:09,263 INFO c.OtusRunTest [main] Очистка кук, открытие нового окна браузера
+2020-07-29 04:35:32,955 INFO c.OtusRunTest [main] Драйвер up
+2020-07-29 04:35:35,825 INFO c.OtusRunTest [main] Переход на страницу авторизации
+2020-07-29 04:35:36,849 INFO c.OtusRunTest [main] Логин в УЗ
+2020-07-29 04:35:39,878 INFO c.OtusRunTest [main] Переход в ЛК
+2020-07-29 04:35:49,150 INFO c.OtusRunTest [main] Заполнили все персональные данные / Сохранили
+2020-07-29 04:35:50,608 INFO c.OtusRunTest [main] Очистка кук, открытие нового окна браузера
+2020-07-29 04:36:00,402 INFO c.OtusRunTest [main] Драйвер off
+2020-07-29 04:37:00,424 INFO c.OtusRunTest [main] Драйвер up
+2020-07-29 04:37:03,248 INFO c.OtusRunTest [main] Переход на страницу авторизации
+2020-07-29 04:37:04,238 INFO c.OtusRunTest [main] Логин в УЗ
+2020-07-29 04:37:07,930 INFO c.OtusRunTest [main] Переход в ЛК
+2020-07-29 04:37:12,323 INFO c.OtusRunTest [main] Заполнили все персональные данные / Сохранили
+2020-07-29 04:37:14,853 INFO c.OtusRunTest [main] Очистка кук, открытие нового окна браузера
+2020-07-29 04:37:21,758 INFO c.OtusRunTest [main] Переход в ЛК раздел О себе
+2020-07-29 04:37:22,815 INFO c.OtusRunTest [main] Драйвер off
+2020-07-29 04:52:01,219 INFO c.OtusRunTest [main] Драйвер up
+2020-07-29 04:52:04,098 INFO c.OtusRunTest [main] Переход на страницу авторизации
+2020-07-29 04:52:05,114 INFO c.OtusRunTest [main] Логин в УЗ
+2020-07-29 04:52:08,525 INFO c.OtusRunTest [main] Переход в ЛК
+2020-07-29 04:52:13,583 INFO c.OtusRunTest [main] Заполнили все персональные данные / Сохранили
+2020-07-29 04:52:14,901 INFO c.OtusRunTest [main] Очистка кук, открытие нового окна браузера
+2020-07-29 04:52:21,194 INFO c.OtusRunTest [main] Переход в ЛК раздел О себе
+2020-07-29 04:52:22,113 INFO c.OtusRunTest [main] Имя == Имя
+2020-07-29 04:52:22,148 INFO c.OtusRunTest [main] Name == Name
+2020-07-29 04:52:22,167 INFO c.OtusRunTest [main] Фамилия == Фамилия
+2020-07-29 04:52:22,490 INFO c.OtusRunTest [main] Драйвер off
+2020-07-29 04:53:34,551 INFO c.OtusRunTest [main] Драйвер up
+2020-07-29 04:53:37,111 INFO c.OtusRunTest [main] Переход на страницу авторизации
+2020-07-29 04:53:38,209 INFO c.OtusRunTest [main] Логин в УЗ
+2020-07-29 04:53:41,382 INFO c.OtusRunTest [main] Переход в ЛК
+2020-07-29 04:53:46,212 INFO c.OtusRunTest [main] Заполнили все персональные данные / Сохранили
+2020-07-29 04:53:47,737 INFO c.OtusRunTest [main] Очистка кук, открытие нового окна браузера
+2020-07-29 04:53:54,148 INFO c.OtusRunTest [main] Переход в ЛК раздел О себе
+2020-07-29 04:53:55,023 INFO c.OtusRunTest [main] Имя == Имя
+2020-07-29 04:53:55,051 INFO c.OtusRunTest [main] Name == Name
+2020-07-29 04:53:55,078 INFO c.OtusRunTest [main] Фамилия == Фамилия
+2020-07-29 04:53:55,164 INFO c.OtusRunTest [main] Family == Family
+2020-07-29 04:53:55,186 INFO c.OtusRunTest [main] Example blog name == Example blog name
+2020-07-29 04:53:55,206 INFO c.OtusRunTest [main] 01.11.1993 == 01.11.1993
+2020-07-29 04:53:55,318 INFO c.OtusRunTest [main] Драйвер off
+2020-07-29 04:55:35,402 INFO c.OtusRunTest [main] Драйвер up
+2020-07-29 04:55:37,939 INFO c.OtusRunTest [main] Переход на страницу авторизации
+2020-07-29 04:55:38,935 INFO c.OtusRunTest [main] Логин в УЗ
+2020-07-29 04:55:42,115 INFO c.OtusRunTest [main] Переход в ЛК
+2020-07-29 04:55:46,117 INFO c.OtusRunTest [main] Заполнили все персональные данные / Сохранили
+2020-07-29 04:55:48,947 INFO c.OtusRunTest [main] Очистка кук, открытие нового окна браузера
+2020-07-29 04:55:55,282 INFO c.OtusRunTest [main] Переход в ЛК раздел О себе
+2020-07-29 04:55:56,040 INFO c.OtusRunTest [main] Имя == Имя
+2020-07-29 04:55:56,074 INFO c.OtusRunTest [main] Name == Name
+2020-07-29 04:55:56,097 INFO c.OtusRunTest [main] Фамилия == Фамилия
+2020-07-29 04:55:56,205 INFO c.OtusRunTest [main] Family == Family
+2020-07-29 04:55:56,227 INFO c.OtusRunTest [main] Example blog name == Example blog name
+2020-07-29 04:55:56,335 INFO c.OtusRunTest [main] 01.11.1993 == 01.11.1993
+2020-07-29 04:55:56,361 INFO c.OtusRunTest [main] telegram == telegram
+2020-07-29 04:55:56,381 INFO c.OtusRunTest [main] vk == vk
+2020-07-29 04:55:56,590 INFO c.OtusRunTest [main] Драйвер off
