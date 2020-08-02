@@ -14,7 +14,7 @@ import static org.hamcrest.MatcherAssert.assertThat;
 
 public class OtusPOTest extends OtusRunTest {
 
-    @Test
+    //@Test
     public void poTest () {
         HomePage homePage = new HomePage(driver);
             homePage.openPage();

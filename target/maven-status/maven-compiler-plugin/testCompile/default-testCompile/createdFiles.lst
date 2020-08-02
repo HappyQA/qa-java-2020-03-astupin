@@ -3,9 +3,8 @@ cases/OtusRunTest.class
 pages/HomePage.class
 pages/AbstractPage.class
 pages/PersonalPage.class
-pages/PersonalPageHabr.class
 cases/OtusPOTest.class
 cases/BaseTest.class
-pages/AutorizationPageHabr.class
+cases/OtusHabrTest.class
 cases/YandexTest.class
 pages/HomePageHabr.class
