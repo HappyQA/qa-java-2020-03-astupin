@@ -1,5 +1,6 @@
 package cases;
 
+import org.junit.Before;
 import org.junit.Test;
 import org.openqa.selenium.By;
 import org.openqa.selenium.Keys;
@@ -14,14 +15,22 @@ import static org.hamcrest.MatcherAssert.assertThat;
 
 public class OtusPOTest extends OtusRunTest {
 
+    HomePage homePage;
+    PersonalPage personalPage;
+    AutorizationPage authPage;
+
+    @Before
+    public void setUpMethod () {
+        homePage = new HomePage(driver);
+        personalPage = new PersonalPage(driver);
+        authPage = new AutorizationPage(driver);
+    }
+
     //@Test
     public void poTest () {
-        HomePage homePage = new HomePage(driver);
             homePage.openPage();
             homePage.buttonLogin();
         logger.info("Переход на страницу авторизации");
-        driver.manage().timeouts().implicitlyWait(5, TimeUnit.SECONDS);
-        AutorizationPage authPage = new AutorizationPage(driver);
             authPage.emailInput("test@mail.ru");
             authPage.passwordInput("test");
             authPage.buttonEnter();
@@ -29,7 +38,6 @@ public class OtusPOTest extends OtusRunTest {
             homePage.openMyProfile();
             homePage.openLK();
         logger.info("Переход в ЛК");
-        PersonalPage personalPage = new PersonalPage(driver);
             personalPage.openAboutMe();
             personalPage.enterName("Имя");
             personalPage.enterNameLatin("Name");

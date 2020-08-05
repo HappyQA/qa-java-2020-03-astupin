@@ -1,149 +1,161 @@
 package cases;
 
-import org.junit.Test;
-import org.openqa.selenium.By;
-import pages.HomePageHabr;
+import org.junit.Before;
 
-import java.util.concurrent.TimeUnit;
+import org.junit.Test;
+import org.junit.jupiter.api.DisplayName;
+import pages.HomePageHabr;
 
 public class OtusHabrTest extends OtusRunTest {
 
+    HomePageHabr homePage;
+
+    @Before
+    public void setUpMethod () {
+        homePage = new HomePageHabr(driver);
+    }
+
+    //@Feature("Главная страница")
     @Test
+    @DisplayName("Отрытие сайта habr.com с проверкой тайтла")
     public void availableHabr () {
-        HomePageHabr homePage = new HomePageHabr(driver);
-        homePage.openPageHabr();
-        driver.findElement(By.xpath("//title[contains(text(), 'Лучшие публикации за сутки / Хабр')]"));
+        homePage.openHabr();
+        homePage.checkTitleName("Лучшие публикации за сутки / Хабр");
         logger.info("Тест кейс 1 выполнен");
     }
+    //@Feature("Главная страница")
     @Test
+    @DisplayName("Нажатие на кнопку 'Все потоки' с проверкой отображения наименования треда")
     public void checkTopPage () {
-        HomePageHabr homePage = new HomePageHabr(driver);
-        homePage.openPageHabr();
-        homePage.topPage();
-        driver.manage().timeouts().implicitlyWait(3, TimeUnit.SECONDS);
-        driver.findElement(By.xpath("//div[contains(text(), 'Все потоки')]"));
+        homePage.openHabr();
+        homePage.clickOnTopPageButton();
+        homePage.checkThreadName("Все потоки");
         logger.info("Тест кейс 2 выполнен");
     }
+    //@Feature("Главная страница")
     @Test
+    @DisplayName("Нажатие на кнопку 'Разработка' с проверкой отображения наименования треда")
     public void checkDevelopmentPage () {
-        HomePageHabr homePage = new HomePageHabr(driver);
-        homePage.openPageHabr();
-        homePage.developmentPage();
-        driver.manage().timeouts().implicitlyWait(3, TimeUnit.SECONDS);
-        driver.findElement(By.xpath("//div[contains(text(), 'Разработка')]"));
+        homePage.openHabr();
+        homePage.clickOnDevelopmentPageButton();
+        homePage.checkThreadName("Разработка");
         logger.info("Тест кейс 3 выполнен");
     }
+    //@Feature("Главная страница")
     @Test
+    @DisplayName("Нажатие на кнопку 'Администрирование' с проверкой отображения наименования треда")
     public void checkAdminPage () {
-        HomePageHabr homePage = new HomePageHabr(driver);
-        homePage.openPageHabr();
-        homePage.adminPage();
-        driver.manage().timeouts().implicitlyWait(3, TimeUnit.SECONDS);
-        driver.findElement(By.xpath("//div[contains(text(), 'Администрирование')]"));
+        homePage.openHabr();
+        homePage.clickOnAdminPageButton();
+        homePage.checkThreadName("Администрирование");
         logger.info("Тест кейс 4 выполнен");
     }
+    //@Feature("Главная страница")
     @Test
+    @DisplayName("Нажатие на кнопку 'Дизайн' с проверкой отображения наименования треда")
     public void checkDesignPage () {
-        HomePageHabr homePage = new HomePageHabr(driver);
-        homePage.openPageHabr();
-        homePage.designPage();
-        driver.manage().timeouts().implicitlyWait(3, TimeUnit.SECONDS);
-        driver.findElement(By.xpath("//div[contains(text(), 'Дизайн')]"));
+        homePage.openHabr();
+        homePage.clickOnDesignPageButton();
+        homePage.checkThreadName("Дизайн");
         logger.info("Тест кейс 5 выполнен");
     }
+    //@Feature("Главная страница")
     @Test
+    @DisplayName("Нажатие на кнопку 'Менеджмент' с проверкой отображения наименования треда")
     public void checkManagementPage () {
-        HomePageHabr homePage = new HomePageHabr(driver);
-        homePage.openPageHabr();
-        homePage.managementPage();
-        driver.manage().timeouts().implicitlyWait(3, TimeUnit.SECONDS);
-        driver.findElement(By.xpath("//div[contains(text(), 'Менеджмент')]"));
+        homePage.openHabr();
+        homePage.clickOnManagementPageButton();
+        homePage.checkThreadName("Менеджмент");
         logger.info("Тест кейс 6 выполнен");
     }
+    //@Feature("Главная страница")
     @Test
+    @DisplayName("Нажатие на кнопку 'Маркетинг' с проверкой отображения наименования треда")
     public void checkMarketingPage () {
-        HomePageHabr homePage = new HomePageHabr(driver);
-        homePage.openPageHabr();
-        homePage.marketingPage();
-        driver.manage().timeouts().implicitlyWait(3, TimeUnit.SECONDS);
-        driver.findElement(By.xpath("//div[contains(text(), 'Маркетинг')]"));
+        homePage.openHabr();
+        homePage.clickOnMarketingPageButton();
+        homePage.checkThreadName("Маркетинг");
         logger.info("Тест кейс 7 выполнен");
     }
+    //@Feature("Главная страница")
     @Test
+    @DisplayName("Нажатие на кнопку 'Научпоп' с проверкой отображения наименования треда")
     public void checkPopsciPage () {
-        HomePageHabr homePage = new HomePageHabr(driver);
-        homePage.openPageHabr();
-        homePage.popsciPage();
-        driver.manage().timeouts().implicitlyWait(3, TimeUnit.SECONDS);
-        driver.findElement(By.xpath("//div[contains(text(), 'Научпоп')]"));
+        homePage.openHabr();
+        homePage.clickOnPopSciPageButton();
+        homePage.checkThreadName("Научпоп");
         logger.info("Тест кейс 8 выполнен");
     }
+    //@Feature("Изменения языка")
     @Test
+    @DisplayName("Изменение языка на Английский с проверкой отображения наименования треда")
     public void changeLanguage () {
-        HomePageHabr homePage = new HomePageHabr(driver);
-        homePage.openPageHabr();
-        homePage.changeLanguage();
-        driver.manage().timeouts().implicitlyWait(3, TimeUnit.SECONDS);
-        homePage.setEngLanguage();
-        homePage.saveLanguageSettings();
-        driver.findElement(By.xpath("//a[contains(text(), 'All streams')]"));
+        homePage.openHabr();
+        homePage.clickOnLanguageButton();
+        homePage.clickOnButtonEngLanguage();
+        homePage.clickOnSaveLanguageButton();
+        homePage.checkThreadName("All streams");
         logger.info("Тест кейс 9 выполнен");
     }
+    //@Feature("Изменения языка")
     @Test
+    @DisplayName("Изменение языка отображения постов на Английский с проверкой топ-1 топика")
     public void changeTopicsLanguage () {
-        HomePageHabr homePage = new HomePageHabr(driver);
-        homePage.openPageHabr();
-        homePage.changeLanguage();
-        driver.manage().timeouts().implicitlyWait(3, TimeUnit.SECONDS);
-        homePage.changeTopicsRu();
-        homePage.changeTopicsEng();
-        homePage.saveLanguageSettings();
-        homePage.bestTopics();
-        homePage.bestPerYear();
-        driver.findElement(By.xpath("//a[@class='post__title_link' and starts-with(text(), 'Nginx')]"));
+        homePage.openHabr();
+        homePage.clickOnLanguageButton();
+        homePage.clickOnButtonChangeTopicsLanguageRu();
+        homePage.clickOnButtonChangeTopicsLanguageEng();
+        homePage.clickOnSaveLanguageButton();
+        homePage.clickOnButtonBestTopics();
+        homePage.clickOnButtonBestPerYearTopics();
+        homePage.checkTopicsAvailableText("Nginx");
         logger.info("Тест кейс 10 выполнен");
     }
+    //@Feature("Поиск")
     @Test
+    @DisplayName("Поиск компании с проверкой результата поиска")
     public void searchCompany () {
-        HomePageHabr homePage = new HomePageHabr(driver);
-        homePage.openPageHabr();
-        homePage.buttonSearch();
-        homePage.searchInput("OTUS");
-        driver.manage().timeouts().implicitlyWait(3, TimeUnit.SECONDS);
-        homePage.hubsAndComapny();
-        driver.findElement(By.xpath("//div[starts-with(@class, 'table-grid__item')]//em[contains(text(), 'OTUS')]"));
+        homePage.openHabr();
+        homePage.clickOnSearchButton();
+        homePage.sendDataToSearchInput("OTUS");
+        homePage.clickOnButtonHubsAndComapny();
+        homePage.checkResultSearch("OTUS");
         logger.info("Тест кейс 11 выполнен");
     }
+    //@Feature("Главная страница")
     @Test
+    @DisplayName("Нажатие на кнопку 'О нас' с проверкой наименования тайтла ")
     public void openAboutUs () {
-        HomePageHabr homePage = new HomePageHabr(driver);
-        homePage.openPageHabr();
-        homePage.aboutHabr();
-        driver.findElement(By.xpath("//title[contains(text(), 'Хабр')]"));
+        homePage.openHabr();
+        homePage.clickButtonAboutHabr();
+        homePage.checkTitleName("Хабр");
         logger.info("Тест кейс 12 выполнен");
     }
+    //@Feature("Главная страница")
     @Test
+    @DisplayName("Нажатие на кнопку 'Обратная связь' с проверкой наименования тайтла")
     public void openFeedbackPage () {
-        HomePageHabr homePage = new HomePageHabr(driver);
-        homePage.openPageHabr();
-        homePage.feedBack();
-        driver.findElement(By.xpath("//title[contains(text(), 'Обратная связь')]"));
+        homePage.openHabr();
+        homePage.clickButtonFeedBack();
+        homePage.checkTitleName("Обратная связь");
         logger.info("Тест кейс 13 выполнен");
     }
+    //@Feature("Главная страница")
     @Test
+    @DisplayName("Нажатие на кнопку 'Мобильня версия' с проверкой наименования тайтла")
     public void openMobileVersion () {
-        HomePageHabr homePage = new HomePageHabr(driver);
-        homePage.openPageHabr();
-        homePage.mobileVersion();
-        driver.findElement(By.xpath("//title[contains(text(), 'Все публикации подряд')]"));
+        homePage.openHabr();
+        homePage.clickButtonMobileVersion();
+        homePage.checkTitleName("Все публикации подряд");
         logger.info("Тест кейс 14 выполнен");
     }
+    //@Feature("Главная страница")
     @Test
+    @DisplayName("Нажатие на кнопку 'Главной страницы habr' с проверкой наименования тайтла")
     public void openAboutHabr () {
-        HomePageHabr homePage = new HomePageHabr(driver);
-        homePage.openPageHabr();
-        homePage.aboutCompanyHabr();
-        driver.findElement(By.xpath("//title[contains(text(), 'Хабр — о компании')]"));
+        homePage.openHabr();
+        homePage.clickButtonAboutCompanyHabr();
+        homePage.checkTitleName("Хабр — о компании");
         logger.info("Тест кейс 15 выполнен");
     }
 }

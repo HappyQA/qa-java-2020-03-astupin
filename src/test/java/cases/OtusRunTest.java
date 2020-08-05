@@ -9,6 +9,8 @@ import org.openqa.selenium.WebDriver;
 import config.ConfigFile;
 import utils.BrowserFactory;
 
+import java.util.concurrent.TimeUnit;
+
 public class OtusRunTest {
 
     WebDriver driver;
@@ -20,6 +22,8 @@ public class OtusRunTest {
         String BrowserType = System.getProperty("browser");
         driver = BrowserFactory.getDriver(BrowserType);
         logger.info("Драйвер up");
+
+        driver.manage().timeouts().implicitlyWait(5, TimeUnit.SECONDS);
     }
     @After
     public void tearsDown () {

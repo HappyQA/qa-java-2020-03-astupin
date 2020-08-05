@@ -1,6 +1,6 @@
-package springTests;
-
-public interface MyInterface {
-
-    String getNameOfClass ();
-}
+//package springTests;
+//
+//public interface MyInterface {
+//
+//    String getNameOfClass ();
+//}
