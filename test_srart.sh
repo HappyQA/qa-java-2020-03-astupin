@@ -25,7 +25,7 @@ echo "Проверка двух контейнеров"
 docker ps
 echo "Переключение в директорию тестов"
 cd $testdirectory
-echo "Выполнение тестов в Хроме на порту $portSelenoid"
+echo "Выполнение тестов на порту $portSelenoid"
 mvn test -Dremote=http://localhost:$portSelenoid/wd/hub/
-echo "Тесты выполнены"
+echo "Прогон тестов завершен"
 

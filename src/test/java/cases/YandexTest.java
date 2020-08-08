@@ -1,5 +1,8 @@
 package cases;
 
+import com.sun.org.glassfish.gmbal.Description;
+import io.qameta.allure.Epic;
+import io.qameta.allure.Feature;
 import org.junit.Test;
 import org.openqa.selenium.By;
 import org.openqa.selenium.WebElement;
@@ -7,9 +10,12 @@ import org.openqa.selenium.interactions.Actions;
 import org.openqa.selenium.support.ui.ExpectedConditions;
 import java.util.concurrent.TimeUnit;
 
+@Epic("Тестирование Яндекса")
+@Description("Домашнее задание №3")
 public class YandexTest extends OtusRunTest {
 
-    //@Test
+    @Feature("Сравнение двух позиций в списке желаемого")
+    @Test
     public void openYandexTest () {
 
         driver.navigate().to(cfg.URLL());

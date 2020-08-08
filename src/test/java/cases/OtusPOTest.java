@@ -1,6 +1,8 @@
 package cases;
 
-
+import com.sun.org.glassfish.gmbal.Description;
+import io.qameta.allure.Epic;
+import io.qameta.allure.Feature;
 import org.junit.Before;
 import org.junit.Test;
 import org.openqa.selenium.By;
@@ -12,6 +14,8 @@ import pages.PersonalPage;
 import static org.hamcrest.CoreMatchers.is;
 import static org.hamcrest.MatcherAssert.assertThat;
 
+@Epic("Тесты OTUS.RU")
+@Description("Домашнее задание №5")
 public class OtusPOTest extends OtusRunTest {
 
     HomePage homePage;
@@ -25,7 +29,8 @@ public class OtusPOTest extends OtusRunTest {
         authPage = new AutorizationPage(driver);
     }
 
-    //@Test
+    @Feature("Заполнение данных в ЛК с последующей проверкой")
+    @Test
     public void poTest () {
             homePage.openPage();
             homePage.buttonLogin();

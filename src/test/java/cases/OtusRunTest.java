@@ -1,5 +1,6 @@
 package cases;
 
+import com.sun.org.glassfish.gmbal.Description;
 import org.aeonbits.owner.ConfigFactory;
 import org.apache.logging.log4j.LogManager;
 import org.apache.logging.log4j.Logger;
@@ -9,12 +10,14 @@ import org.openqa.selenium.WebDriver;
 import config.ConfigFile;
 import org.openqa.selenium.remote.DesiredCapabilities;
 import org.openqa.selenium.remote.RemoteWebDriver;
+import utils.BrowserFactory;
 
 import java.net.MalformedURLException;
 import java.net.URL;
 import java.util.concurrent.TimeUnit;
 
-public class OtusRunTest {
+@Description("Домашнее задание №2")
+public class OtusRunTest  {
 
     WebDriver driver;
     Logger logger = LogManager.getLogger(OtusRunTest.class);
@@ -22,6 +25,9 @@ public class OtusRunTest {
 
     @Before
     public void setUp () throws MalformedURLException {
+        /**
+         * Запуск тестов в Selenoid
+         */
         DesiredCapabilities capabilities = new DesiredCapabilities();
         capabilities.setBrowserName("chrome");
         capabilities.setVersion("83.0");
@@ -34,7 +40,9 @@ public class OtusRunTest {
                 capabilities
         );
         logger.info("Remote Дайвер up");
-        //Локальный запуск тестов
+        /**
+         * Локальный запуск тестов
+         */
 //        String BrowserType = System.getProperty("browser");
 //        driver = BrowserFactory.getDriver(BrowserType);
 //        logger.info("Драйвер up");
