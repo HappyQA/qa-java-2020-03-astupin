@@ -2549,3 +2549,645 @@
 2020-08-06 02:27:36,193 INFO c.OtusRunTest [main] Драйвер up
 2020-08-06 02:27:48,884 INFO c.OtusRunTest [main] Тест кейс 14 выполнен
 2020-08-06 02:27:48,954 INFO c.OtusRunTest [main] Драйвер off
+2020-08-08 03:55:11,041 INFO c.OtusRunTest [main] Драйвер up
+2020-08-08 03:55:16,765 INFO c.OtusRunTest [main] Драйвер up
+2020-08-08 03:55:25,658 INFO c.OtusRunTest [main] Драйвер up
+2020-08-08 03:55:35,043 INFO c.OtusRunTest [main] Драйвер up
+2020-08-08 03:55:43,017 INFO c.OtusRunTest [main] Драйвер up
+2020-08-08 03:56:14,174 INFO c.OtusRunTest [main] Драйвер up
+2020-08-08 03:56:22,068 INFO c.OtusRunTest [main] Драйвер up
+2020-08-08 03:56:32,377 INFO c.OtusRunTest [main] Драйвер up
+2020-08-08 03:56:40,976 INFO c.OtusRunTest [main] Драйвер up
+2020-08-08 03:56:50,656 INFO c.OtusRunTest [main] Драйвер up
+2020-08-08 03:57:19,815 INFO c.OtusRunTest [main] Драйвер up
+2020-08-08 03:57:29,804 INFO c.OtusRunTest [main] Драйвер up
+2020-08-08 03:57:38,514 INFO c.OtusRunTest [main] Драйвер up
+2020-08-08 03:57:48,304 INFO c.OtusRunTest [main] Драйвер up
+2020-08-08 03:57:57,050 INFO c.OtusRunTest [main] Драйвер up
+2020-08-08 04:01:07,147 INFO c.OtusRunTest [main] Драйвер up
+2020-08-08 04:01:10,755 INFO c.OtusRunTest [main] Переход на страницу авторизации
+2020-08-08 04:01:11,502 INFO c.OtusRunTest [main] Логин в УЗ
+2020-08-08 04:01:20,958 INFO c.OtusRunTest [main] Драйвер up
+2020-08-08 04:01:30,545 INFO c.OtusRunTest [main] Тест кейс 11 выполнен
+2020-08-08 04:01:30,705 INFO c.OtusRunTest [main] Драйвер off
+2020-08-08 04:01:35,108 INFO c.OtusRunTest [main] Драйвер up
+2020-08-08 04:01:41,604 INFO c.OtusRunTest [main] Тест кейс 9 выполнен
+2020-08-08 04:01:41,675 INFO c.OtusRunTest [main] Драйвер off
+2020-08-08 04:01:45,864 INFO c.OtusRunTest [main] Драйвер up
+2020-08-08 04:01:49,685 INFO c.OtusRunTest [main] Тест кейс 3 выполнен
+2020-08-08 04:01:49,843 INFO c.OtusRunTest [main] Драйвер off
+2020-08-08 04:01:54,644 INFO c.OtusRunTest [main] Драйвер up
+2020-08-08 04:01:58,953 INFO c.OtusRunTest [main] Тест кейс 15 выполнен
+2020-08-08 04:01:59,177 INFO c.OtusRunTest [main] Драйвер off
+2020-08-08 04:02:12,231 INFO c.OtusRunTest [main] Драйвер up
+2020-08-08 04:02:20,143 INFO c.OtusRunTest [main] Тест кейс 12 выполнен
+2020-08-08 04:02:20,210 INFO c.OtusRunTest [main] Драйвер off
+2020-08-08 04:02:26,756 INFO c.OtusRunTest [main] Драйвер up
+2020-08-08 04:02:40,160 INFO c.OtusRunTest [main] Драйвер up
+2020-08-08 04:02:52,660 INFO c.OtusRunTest [main] Драйвер up
+2020-08-08 04:02:58,244 INFO c.OtusRunTest [main] Тест кейс 7 выполнен
+2020-08-08 04:02:58,311 INFO c.OtusRunTest [main] Драйвер off
+2020-08-08 04:03:02,093 INFO c.OtusRunTest [main] Драйвер up
+2020-08-08 04:03:10,699 INFO c.OtusRunTest [main] Тест кейс 10 выполнен
+2020-08-08 04:03:10,856 INFO c.OtusRunTest [main] Драйвер off
+2020-08-08 04:03:16,998 INFO c.OtusRunTest [main] Драйвер up
+2020-08-08 04:03:21,665 INFO c.OtusRunTest [main] Тест кейс 5 выполнен
+2020-08-08 04:03:21,826 INFO c.OtusRunTest [main] Драйвер off
+2020-08-08 04:03:31,618 INFO c.OtusRunTest [main] Драйвер up
+2020-08-08 04:03:45,814 INFO c.OtusRunTest [main] Драйвер up
+2020-08-08 04:03:58,806 INFO c.OtusRunTest [main] Драйвер up
+2020-08-08 04:04:07,454 INFO c.OtusRunTest [main] Драйвер up
+2020-08-08 04:04:22,365 INFO c.OtusRunTest [main] Драйвер up
+2020-08-08 04:04:25,957 INFO c.OtusRunTest [main] Тест кейс 14 выполнен
+2020-08-08 04:04:26,024 INFO c.OtusRunTest [main] Драйвер off
+2020-08-08 04:06:11,381 INFO c.OtusRunTest [main] Тест кейс 11 выполнен
+2020-08-08 04:06:11,541 INFO c.OtusRunTest [main] Драйвер off
+2020-08-08 04:06:21,023 INFO c.OtusRunTest [main] Тест кейс 9 выполнен
+2020-08-08 04:06:21,098 INFO c.OtusRunTest [main] Драйвер off
+2020-08-08 04:06:30,579 INFO c.OtusRunTest [main] Тест кейс 3 выполнен
+2020-08-08 04:06:30,645 INFO c.OtusRunTest [main] Драйвер off
+2020-08-08 04:06:40,313 INFO c.OtusRunTest [main] Тест кейс 15 выполнен
+2020-08-08 04:06:40,380 INFO c.OtusRunTest [main] Драйвер off
+2020-08-08 04:06:48,322 INFO c.OtusRunTest [main] Тест кейс 12 выполнен
+2020-08-08 04:06:48,394 INFO c.OtusRunTest [main] Драйвер off
+2020-08-08 04:07:21,126 INFO c.OtusRunTest [main] Тест кейс 6 выполнен
+2020-08-08 04:07:21,194 INFO c.OtusRunTest [main] Драйвер off
+2020-08-08 04:07:31,720 INFO c.OtusRunTest [main] Тест кейс 2 выполнен
+2020-08-08 04:07:31,783 INFO c.OtusRunTest [main] Драйвер off
+2020-08-08 04:07:41,249 INFO c.OtusRunTest [main] Тест кейс 7 выполнен
+2020-08-08 04:07:41,561 INFO c.OtusRunTest [main] Драйвер off
+2020-08-08 04:07:51,661 INFO c.OtusRunTest [main] Тест кейс 10 выполнен
+2020-08-08 04:07:51,822 INFO c.OtusRunTest [main] Драйвер off
+2020-08-08 04:08:04,721 INFO c.OtusRunTest [main] Тест кейс 5 выполнен
+2020-08-08 04:08:04,879 INFO c.OtusRunTest [main] Драйвер off
+2020-08-08 04:08:34,630 INFO c.OtusRunTest [main] Тест кейс 8 выполнен
+2020-08-08 04:08:34,900 INFO c.OtusRunTest [main] Драйвер off
+2020-08-08 04:08:42,301 INFO c.OtusRunTest [main] Тест кейс 13 выполнен
+2020-08-08 04:08:42,767 INFO c.OtusRunTest [main] Драйвер off
+2020-08-08 04:08:56,201 INFO c.OtusRunTest [main] Тест кейс 4 выполнен
+2020-08-08 04:08:56,411 INFO c.OtusRunTest [main] Драйвер off
+2020-08-08 04:09:02,972 INFO c.OtusRunTest [main] Тест кейс 1 выполнен
+2020-08-08 04:09:03,039 INFO c.OtusRunTest [main] Драйвер off
+2020-08-08 04:09:18,633 INFO c.OtusRunTest [main] Тест кейс 14 выполнен
+2020-08-08 04:09:18,701 INFO c.OtusRunTest [main] Драйвер off
+2020-08-08 04:14:58,062 INFO c.OtusRunTest [main] Переход на страницу авторизации
+2020-08-08 04:14:58,911 INFO c.OtusRunTest [main] Логин в УЗ
+2020-08-08 04:15:04,133 INFO c.OtusRunTest [main] Драйвер off
+2020-08-08 04:15:16,754 INFO c.OtusRunTest [main] Тест кейс 11 выполнен
+2020-08-08 04:15:16,913 INFO c.OtusRunTest [main] Драйвер off
+2020-08-08 04:15:28,357 INFO c.OtusRunTest [main] Тест кейс 9 выполнен
+2020-08-08 04:15:28,524 INFO c.OtusRunTest [main] Драйвер off
+2020-08-08 04:15:40,660 INFO c.OtusRunTest [main] Тест кейс 3 выполнен
+2020-08-08 04:15:40,818 INFO c.OtusRunTest [main] Драйвер off
+2020-08-08 04:15:51,524 INFO c.OtusRunTest [main] Тест кейс 15 выполнен
+2020-08-08 04:15:51,601 INFO c.OtusRunTest [main] Драйвер off
+2020-08-08 04:16:14,869 INFO c.OtusRunTest [main] Тест кейс 12 выполнен
+2020-08-08 04:16:14,942 INFO c.OtusRunTest [main] Драйвер off
+2020-08-08 04:16:32,730 INFO c.OtusRunTest [main] Тест кейс 6 выполнен
+2020-08-08 04:16:32,898 INFO c.OtusRunTest [main] Драйвер off
+2020-08-08 04:16:44,327 INFO c.OtusRunTest [main] Тест кейс 2 выполнен
+2020-08-08 04:16:44,489 INFO c.OtusRunTest [main] Драйвер off
+2020-08-08 04:16:54,798 INFO c.OtusRunTest [main] Тест кейс 7 выполнен
+2020-08-08 04:16:54,958 INFO c.OtusRunTest [main] Драйвер off
+2020-08-08 04:17:07,888 INFO c.OtusRunTest [main] Тест кейс 10 выполнен
+2020-08-08 04:17:08,098 INFO c.OtusRunTest [main] Драйвер off
+2020-08-08 04:17:29,054 INFO c.OtusRunTest [main] Тест кейс 5 выполнен
+2020-08-08 04:17:29,221 INFO c.OtusRunTest [main] Драйвер off
+2020-08-08 04:17:41,542 INFO c.OtusRunTest [main] Тест кейс 8 выполнен
+2020-08-08 04:17:41,606 INFO c.OtusRunTest [main] Драйвер off
+2020-08-08 04:17:53,451 INFO c.OtusRunTest [main] Тест кейс 13 выполнен
+2020-08-08 04:17:53,521 INFO c.OtusRunTest [main] Драйвер off
+2020-08-08 04:18:05,381 INFO c.OtusRunTest [main] Тест кейс 4 выполнен
+2020-08-08 04:18:05,541 INFO c.OtusRunTest [main] Драйвер off
+2020-08-08 04:18:17,474 INFO c.OtusRunTest [main] Тест кейс 1 выполнен
+2020-08-08 04:18:17,539 INFO c.OtusRunTest [main] Драйвер off
+2020-08-08 04:18:40,720 INFO c.OtusRunTest [main] Тест кейс 14 выполнен
+2020-08-08 04:18:40,783 INFO c.OtusRunTest [main] Драйвер off
+2020-08-08 04:21:16,880 INFO c.OtusRunTest [main] Сайт YA открыт
+2020-08-08 04:21:17,719 INFO c.OtusRunTest [main] Открыт раздел Электроника
+2020-08-08 04:21:19,498 INFO c.OtusRunTest [main] Открыт раздел Мобильные телефоны
+2020-08-08 04:21:21,769 INFO c.OtusRunTest [main] Раскрыть список 'Показать все'
+2020-08-08 04:21:22,353 INFO c.OtusRunTest [main] Ввод первого производителя
+2020-08-08 04:21:23,099 INFO c.OtusRunTest [main] Выбран производитель Xiaomi
+2020-08-08 04:21:23,182 INFO c.OtusRunTest [main] Очищение инпута
+2020-08-08 04:21:23,382 INFO c.OtusRunTest [main] Ввод второго производителя
+2020-08-08 04:21:24,155 INFO c.OtusRunTest [main] Выбран производитель realme
+2020-08-08 04:21:25,366 INFO c.OtusRunTest [main] Драйвер off
+2020-08-08 04:21:50,224 INFO c.OtusRunTest [main] Сайт YA открыт
+2020-08-08 04:21:51,144 INFO c.OtusRunTest [main] Открыт раздел Электроника
+2020-08-08 04:21:53,440 INFO c.OtusRunTest [main] Открыт раздел Мобильные телефоны
+2020-08-08 04:21:54,200 INFO c.OtusRunTest [main] Раскрыть список 'Показать все'
+2020-08-08 04:21:59,459 INFO c.OtusRunTest [main] Драйвер off
+2020-08-08 04:22:11,169 INFO c.OtusRunTest [main] Сайт YA открыт
+2020-08-08 04:22:11,385 INFO c.OtusRunTest [main] Открыт раздел Электроника
+2020-08-08 04:22:13,088 INFO c.OtusRunTest [main] Открыт раздел Мобильные телефоны
+2020-08-08 04:22:15,471 INFO c.OtusRunTest [main] Раскрыть список 'Показать все'
+2020-08-08 04:22:16,338 INFO c.OtusRunTest [main] Ввод первого производителя
+2020-08-08 04:22:17,092 INFO c.OtusRunTest [main] Выбран производитель Xiaomi
+2020-08-08 04:22:17,146 INFO c.OtusRunTest [main] Очищение инпута
+2020-08-08 04:22:17,334 INFO c.OtusRunTest [main] Ввод второго производителя
+2020-08-08 04:22:18,172 INFO c.OtusRunTest [main] Выбран производитель realme
+2020-08-08 04:22:19,340 INFO c.OtusRunTest [main] Драйвер off
+2020-08-08 04:26:25,531 INFO c.OtusRunTest [main] Драйвер up
+2020-08-08 04:26:29,626 INFO c.OtusRunTest [main] Переход на страницу авторизации
+2020-08-08 04:26:30,367 INFO c.OtusRunTest [main] Логин в УЗ
+2020-08-08 04:26:35,594 INFO c.OtusRunTest [main] Драйвер off
+2020-08-08 04:30:15,742 INFO c.OtusRunTest [main] Драйвер up
+2020-08-08 04:30:15,812 INFO c.OtusRunTest [main] Драйвер off
+2020-08-08 04:30:19,148 INFO c.OtusRunTest [main] Драйвер up
+2020-08-08 04:30:19,266 INFO c.OtusRunTest [main] Драйвер off
+2020-08-08 04:30:22,886 INFO c.OtusRunTest [main] Драйвер up
+2020-08-08 04:30:23,002 INFO c.OtusRunTest [main] Драйвер off
+2020-08-08 04:30:27,085 INFO c.OtusRunTest [main] Драйвер up
+2020-08-08 04:30:27,202 INFO c.OtusRunTest [main] Драйвер off
+2020-08-08 04:30:43,495 INFO c.OtusRunTest [main] Драйвер up
+2020-08-08 04:30:43,625 INFO c.OtusRunTest [main] Драйвер off
+2020-08-08 04:31:22,483 INFO c.OtusRunTest [main] Драйвер up
+2020-08-08 04:31:22,717 INFO c.OtusRunTest [main] Драйвер off
+2020-08-08 04:31:28,433 INFO c.OtusRunTest [main] Драйвер up
+2020-08-08 04:31:28,667 INFO c.OtusRunTest [main] Драйвер off
+2020-08-08 04:31:36,346 INFO c.OtusRunTest [main] Драйвер up
+2020-08-08 04:31:36,462 INFO c.OtusRunTest [main] Драйвер off
+2020-08-08 04:31:38,548 INFO c.OtusRunTest [main] Драйвер up
+2020-08-08 04:31:38,615 INFO c.OtusRunTest [main] Драйвер off
+2020-08-08 04:31:48,866 INFO c.OtusRunTest [main] Драйвер up
+2020-08-08 04:31:48,985 INFO c.OtusRunTest [main] Драйвер off
+2020-08-08 04:32:27,178 INFO c.OtusRunTest [main] Драйвер up
+2020-08-08 04:32:27,295 INFO c.OtusRunTest [main] Драйвер off
+2020-08-08 04:32:33,322 INFO c.OtusRunTest [main] Драйвер up
+2020-08-08 04:32:33,440 INFO c.OtusRunTest [main] Драйвер off
+2020-08-08 04:32:44,343 INFO c.OtusRunTest [main] Драйвер up
+2020-08-08 04:32:44,507 INFO c.OtusRunTest [main] Драйвер off
+2020-08-08 04:32:45,877 INFO c.OtusRunTest [main] Драйвер up
+2020-08-08 04:32:45,994 INFO c.OtusRunTest [main] Драйвер off
+2020-08-08 04:32:53,694 INFO c.OtusRunTest [main] Драйвер up
+2020-08-08 04:32:53,811 INFO c.OtusRunTest [main] Драйвер off
+2020-08-08 04:33:32,051 INFO c.OtusRunTest [main] Драйвер up
+2020-08-08 04:33:32,222 INFO c.OtusRunTest [main] Драйвер off
+2020-08-08 04:33:38,074 INFO c.OtusRunTest [main] Драйвер up
+2020-08-08 04:33:38,187 INFO c.OtusRunTest [main] Драйвер off
+2020-08-08 04:33:52,535 INFO c.OtusRunTest [main] Драйвер up
+2020-08-08 04:33:52,653 INFO c.OtusRunTest [main] Драйвер off
+2020-08-08 04:33:52,762 INFO c.OtusRunTest [main] Драйвер up
+2020-08-08 04:33:52,879 INFO c.OtusRunTest [main] Драйвер off
+2020-08-08 04:33:58,775 INFO c.OtusRunTest [main] Драйвер up
+2020-08-08 04:33:58,892 INFO c.OtusRunTest [main] Драйвер off
+2020-08-08 04:34:37,304 INFO c.OtusRunTest [main] Драйвер up
+2020-08-08 04:34:37,371 INFO c.OtusRunTest [main] Драйвер off
+2020-08-08 04:34:43,182 INFO c.OtusRunTest [main] Драйвер up
+2020-08-08 04:34:43,301 INFO c.OtusRunTest [main] Драйвер off
+2020-08-08 04:35:02,247 INFO c.OtusRunTest [main] Драйвер up
+2020-08-08 04:35:02,284 INFO c.OtusRunTest [main] Драйвер up
+2020-08-08 04:35:02,465 INFO c.OtusRunTest [main] Драйвер off
+2020-08-08 04:35:02,500 INFO c.OtusRunTest [main] Драйвер off
+2020-08-08 04:35:05,113 INFO c.OtusRunTest [main] Драйвер up
+2020-08-08 04:35:05,230 INFO c.OtusRunTest [main] Драйвер off
+2020-08-08 04:35:42,289 INFO c.OtusRunTest [main] Драйвер up
+2020-08-08 04:35:42,409 INFO c.OtusRunTest [main] Драйвер off
+2020-08-08 04:35:48,188 INFO c.OtusRunTest [main] Драйвер up
+2020-08-08 04:35:48,305 INFO c.OtusRunTest [main] Драйвер off
+2020-08-08 04:36:13,231 INFO c.OtusRunTest [main] Драйвер up
+2020-08-08 04:36:13,500 INFO c.OtusRunTest [main] Драйвер off
+2020-08-08 04:36:13,670 INFO c.OtusRunTest [main] Драйвер up
+2020-08-08 04:36:13,987 INFO c.OtusRunTest [main] Драйвер off
+2020-08-08 04:36:14,759 INFO c.OtusRunTest [main] Драйвер up
+2020-08-08 04:36:14,877 INFO c.OtusRunTest [main] Драйвер off
+2020-08-08 04:36:48,254 INFO c.OtusRunTest [main] Драйвер up
+2020-08-08 04:36:48,570 INFO c.OtusRunTest [main] Драйвер off
+2020-08-08 04:36:54,170 INFO c.OtusRunTest [main] Драйвер up
+2020-08-08 04:36:54,286 INFO c.OtusRunTest [main] Драйвер off
+2020-08-08 04:37:23,329 INFO c.OtusRunTest [main] Драйвер up
+2020-08-08 04:37:23,331 INFO c.OtusRunTest [main] Драйвер up
+2020-08-08 04:37:23,500 INFO c.OtusRunTest [main] Драйвер off
+2020-08-08 04:37:23,510 INFO c.OtusRunTest [main] Драйвер off
+2020-08-08 04:37:24,403 INFO c.OtusRunTest [main] Драйвер up
+2020-08-08 04:37:24,520 INFO c.OtusRunTest [main] Драйвер off
+2020-08-08 04:37:52,701 INFO c.OtusRunTest [main] Драйвер up
+2020-08-08 04:37:52,817 INFO c.OtusRunTest [main] Драйвер off
+2020-08-08 04:37:59,334 INFO c.OtusRunTest [main] Драйвер up
+2020-08-08 04:37:59,451 INFO c.OtusRunTest [main] Драйвер off
+2020-08-08 04:38:34,215 INFO c.OtusRunTest [main] Драйвер up
+2020-08-08 04:38:34,378 INFO c.OtusRunTest [main] Драйвер off
+2020-08-08 04:38:34,781 INFO c.OtusRunTest [main] Драйвер up
+2020-08-08 04:38:34,786 INFO c.OtusRunTest [main] Драйвер up
+2020-08-08 04:38:34,850 INFO c.OtusRunTest [main] Драйвер off
+2020-08-08 04:38:34,908 INFO c.OtusRunTest [main] Драйвер off
+2020-08-08 04:38:57,954 INFO c.OtusRunTest [main] Драйвер up
+2020-08-08 04:38:58,026 INFO c.OtusRunTest [main] Драйвер off
+2020-08-08 04:56:38,205 INFO c.OtusRunTest [main] Тест кейс 11 выполнен
+2020-08-08 04:56:38,279 INFO c.OtusRunTest [main] Драйвер off
+2020-08-08 04:56:50,257 INFO c.OtusRunTest [main] Тест кейс 9 выполнен
+2020-08-08 04:56:50,466 INFO c.OtusRunTest [main] Драйвер off
+2020-08-08 04:56:59,924 INFO c.OtusRunTest [main] Тест кейс 3 выполнен
+2020-08-08 04:57:00,083 INFO c.OtusRunTest [main] Драйвер off
+2020-08-08 04:57:09,633 INFO c.OtusRunTest [main] Тест кейс 15 выполнен
+2020-08-08 04:57:09,795 INFO c.OtusRunTest [main] Драйвер off
+2020-08-08 04:57:17,615 INFO c.OtusRunTest [main] Тест кейс 12 выполнен
+2020-08-08 04:57:17,781 INFO c.OtusRunTest [main] Драйвер off
+2020-08-08 04:57:52,674 INFO c.OtusRunTest [main] Тест кейс 6 выполнен
+2020-08-08 04:57:52,935 INFO c.OtusRunTest [main] Драйвер off
+2020-08-08 04:58:03,533 INFO c.OtusRunTest [main] Тест кейс 2 выполнен
+2020-08-08 04:58:03,743 INFO c.OtusRunTest [main] Драйвер off
+2020-08-08 04:58:20,767 INFO c.OtusRunTest [main] Тест кейс 7 выполнен
+2020-08-08 04:58:20,928 INFO c.OtusRunTest [main] Драйвер off
+2020-08-08 04:58:30,514 INFO c.OtusRunTest [main] Тест кейс 10 выполнен
+2020-08-08 04:58:30,672 INFO c.OtusRunTest [main] Драйвер off
+2020-08-08 04:58:38,389 INFO c.OtusRunTest [main] Тест кейс 5 выполнен
+2020-08-08 04:58:38,464 INFO c.OtusRunTest [main] Драйвер off
+2020-08-08 04:59:06,473 INFO c.OtusRunTest [main] Тест кейс 8 выполнен
+2020-08-08 04:59:06,682 INFO c.OtusRunTest [main] Драйвер off
+2020-08-08 04:59:14,544 INFO c.OtusRunTest [main] Тест кейс 13 выполнен
+2020-08-08 04:59:14,660 INFO c.OtusRunTest [main] Драйвер off
+2020-08-08 04:59:34,572 INFO c.OtusRunTest [main] Тест кейс 4 выполнен
+2020-08-08 04:59:34,731 INFO c.OtusRunTest [main] Драйвер off
+2020-08-08 04:59:41,414 INFO c.OtusRunTest [main] Тест кейс 1 выполнен
+2020-08-08 04:59:41,480 INFO c.OtusRunTest [main] Драйвер off
+2020-08-08 04:59:55,495 INFO c.OtusRunTest [main] Тест кейс 14 выполнен
+2020-08-08 04:59:55,560 INFO c.OtusRunTest [main] Драйвер off
+2020-08-08 05:01:19,687 INFO c.OtusRunTest [main] Remote Дайвер up
+2020-08-08 05:01:27,907 INFO c.OtusRunTest [main] Тест кейс 11 выполнен
+2020-08-08 05:01:28,116 INFO c.OtusRunTest [main] Драйвер off
+2020-08-08 05:01:31,476 INFO c.OtusRunTest [main] Remote Дайвер up
+2020-08-08 05:01:37,849 INFO c.OtusRunTest [main] Тест кейс 9 выполнен
+2020-08-08 05:01:37,918 INFO c.OtusRunTest [main] Драйвер off
+2020-08-08 05:01:41,714 INFO c.OtusRunTest [main] Remote Дайвер up
+2020-08-08 05:01:46,652 INFO c.OtusRunTest [main] Тест кейс 3 выполнен
+2020-08-08 05:01:46,712 INFO c.OtusRunTest [main] Драйвер off
+2020-08-08 05:01:50,469 INFO c.OtusRunTest [main] Remote Дайвер up
+2020-08-08 05:02:04,600 INFO c.OtusRunTest [main] Тест кейс 15 выполнен
+2020-08-08 05:02:04,658 INFO c.OtusRunTest [main] Драйвер off
+2020-08-08 05:02:08,356 INFO c.OtusRunTest [main] Remote Дайвер up
+2020-08-08 05:02:16,869 INFO c.OtusRunTest [main] Тест кейс 12 выполнен
+2020-08-08 05:02:16,989 INFO c.OtusRunTest [main] Драйвер off
+2020-08-08 05:02:33,146 INFO c.OtusRunTest [main] Remote Дайвер up
+2020-08-08 05:02:40,569 INFO c.OtusRunTest [main] Тест кейс 6 выполнен
+2020-08-08 05:02:40,777 INFO c.OtusRunTest [main] Драйвер off
+2020-08-08 05:02:44,181 INFO c.OtusRunTest [main] Remote Дайвер up
+2020-08-08 05:02:51,411 INFO c.OtusRunTest [main] Тест кейс 2 выполнен
+2020-08-08 05:02:51,570 INFO c.OtusRunTest [main] Драйвер off
+2020-08-08 05:02:55,150 INFO c.OtusRunTest [main] Remote Дайвер up
+2020-08-08 05:02:58,545 INFO c.OtusRunTest [main] Тест кейс 7 выполнен
+2020-08-08 05:02:58,609 INFO c.OtusRunTest [main] Драйвер off
+2020-08-08 05:03:09,168 INFO c.OtusRunTest [main] Remote Дайвер up
+2020-08-08 05:03:23,274 INFO c.OtusRunTest [main] Тест кейс 10 выполнен
+2020-08-08 05:03:23,437 INFO c.OtusRunTest [main] Драйвер off
+2020-08-08 05:03:27,091 INFO c.OtusRunTest [main] Remote Дайвер up
+2020-08-08 05:03:34,213 INFO c.OtusRunTest [main] Тест кейс 5 выполнен
+2020-08-08 05:03:34,423 INFO c.OtusRunTest [main] Драйвер off
+2020-08-08 05:03:45,534 INFO c.OtusRunTest [main] Remote Дайвер up
+2020-08-08 05:03:53,416 INFO c.OtusRunTest [main] Тест кейс 8 выполнен
+2020-08-08 05:03:53,573 INFO c.OtusRunTest [main] Драйвер off
+2020-08-08 05:03:57,116 INFO c.OtusRunTest [main] Remote Дайвер up
+2020-08-08 05:04:01,300 INFO c.OtusRunTest [main] Тест кейс 13 выполнен
+2020-08-08 05:04:01,462 INFO c.OtusRunTest [main] Драйвер off
+2020-08-08 05:04:04,882 INFO c.OtusRunTest [main] Remote Дайвер up
+2020-08-08 05:04:18,025 INFO c.OtusRunTest [main] Тест кейс 4 выполнен
+2020-08-08 05:04:18,116 INFO c.OtusRunTest [main] Драйвер off
+2020-08-08 05:04:27,982 INFO c.OtusRunTest [main] Remote Дайвер up
+2020-08-08 05:04:32,671 INFO c.OtusRunTest [main] Тест кейс 1 выполнен
+2020-08-08 05:04:32,748 INFO c.OtusRunTest [main] Драйвер off
+2020-08-08 05:04:39,319 INFO c.OtusRunTest [main] Remote Дайвер up
+2020-08-08 05:04:45,751 INFO c.OtusRunTest [main] Тест кейс 14 выполнен
+2020-08-08 05:04:45,824 INFO c.OtusRunTest [main] Драйвер off
+2020-08-08 05:17:37,261 INFO c.OtusRunTest [main] Remote Дайвер up
+2020-08-08 05:17:41,443 INFO c.OtusRunTest [main] Тест кейс 11 выполнен
+2020-08-08 05:17:41,553 INFO c.OtusRunTest [main] Драйвер off
+2020-08-08 05:17:45,490 INFO c.OtusRunTest [main] Remote Дайвер up
+2020-08-08 05:17:50,469 INFO c.OtusRunTest [main] Тест кейс 9 выполнен
+2020-08-08 05:17:50,544 INFO c.OtusRunTest [main] Драйвер off
+2020-08-08 05:17:54,625 INFO c.OtusRunTest [main] Remote Дайвер up
+2020-08-08 05:18:04,229 INFO c.OtusRunTest [main] Тест кейс 3 выполнен
+2020-08-08 05:18:04,297 INFO c.OtusRunTest [main] Драйвер off
+2020-08-08 05:18:08,240 INFO c.OtusRunTest [main] Remote Дайвер up
+2020-08-08 05:19:29,702 INFO c.OtusRunTest [main] Remote Дайвер up
+2020-08-08 05:20:39,633 INFO c.OtusRunTest [main] Remote Дайвер up
+2020-08-08 05:20:47,442 INFO c.OtusRunTest [main] Тест кейс 11 выполнен
+2020-08-08 05:20:47,574 INFO c.OtusRunTest [main] Драйвер off
+2020-08-08 05:20:52,800 INFO c.OtusRunTest [main] Remote Дайвер up
+2020-08-08 05:20:56,758 INFO c.OtusRunTest [main] Тест кейс 9 выполнен
+2020-08-08 05:20:56,825 INFO c.OtusRunTest [main] Драйвер off
+2020-08-08 05:21:02,415 INFO c.OtusRunTest [main] Remote Дайвер up
+2020-08-08 05:26:13,135 INFO c.OtusRunTest [main] Remote Дайвер up
+2020-08-08 05:26:16,731 INFO c.OtusRunTest [main] Тест кейс 11 выполнен
+2020-08-08 05:26:16,890 INFO c.OtusRunTest [main] Драйвер off
+2020-08-08 05:26:20,676 INFO c.OtusRunTest [main] Remote Дайвер up
+2020-08-08 05:26:37,219 INFO c.OtusRunTest [main] Тест кейс 9 выполнен
+2020-08-08 05:26:37,430 INFO c.OtusRunTest [main] Драйвер off
+2020-08-08 05:26:41,850 INFO c.OtusRunTest [main] Remote Дайвер up
+2020-08-08 05:26:48,567 INFO c.OtusRunTest [main] Тест кейс 3 выполнен
+2020-08-08 05:26:48,641 INFO c.OtusRunTest [main] Драйвер off
+2020-08-08 05:26:52,030 INFO c.OtusRunTest [main] Remote Дайвер up
+2020-08-08 05:27:00,773 INFO c.OtusRunTest [main] Тест кейс 15 выполнен
+2020-08-08 05:27:00,893 INFO c.OtusRunTest [main] Драйвер off
+2020-08-08 05:27:04,389 INFO c.OtusRunTest [main] Remote Дайвер up
+2020-08-08 05:27:08,809 INFO c.OtusRunTest [main] Тест кейс 12 выполнен
+2020-08-08 05:27:08,968 INFO c.OtusRunTest [main] Драйвер off
+2020-08-08 05:27:21,578 INFO c.OtusRunTest [main] Remote Дайвер up
+2020-08-08 05:27:31,635 INFO c.OtusRunTest [main] Тест кейс 6 выполнен
+2020-08-08 05:27:31,795 INFO c.OtusRunTest [main] Драйвер off
+2020-08-08 05:27:41,970 INFO c.OtusRunTest [main] Remote Дайвер up
+2020-08-08 05:27:50,495 INFO c.OtusRunTest [main] Тест кейс 2 выполнен
+2020-08-08 05:27:50,867 INFO c.OtusRunTest [main] Драйвер off
+2020-08-08 05:27:54,548 INFO c.OtusRunTest [main] Remote Дайвер up
+2020-08-08 05:27:58,312 INFO c.OtusRunTest [main] Тест кейс 7 выполнен
+2020-08-08 05:27:58,475 INFO c.OtusRunTest [main] Драйвер off
+2020-08-08 05:28:05,833 INFO c.OtusRunTest [main] Remote Дайвер up
+2020-08-08 05:28:27,085 INFO c.OtusRunTest [main] Драйвер off
+2020-08-08 05:28:30,342 INFO c.OtusRunTest [main] Remote Дайвер up
+2020-08-08 05:28:38,174 INFO c.OtusRunTest [main] Тест кейс 5 выполнен
+2020-08-08 05:28:38,286 INFO c.OtusRunTest [main] Драйвер off
+2020-08-08 05:28:41,787 INFO c.OtusRunTest [main] Remote Дайвер up
+2020-08-08 05:28:47,737 INFO c.OtusRunTest [main] Тест кейс 8 выполнен
+2020-08-08 05:28:47,807 INFO c.OtusRunTest [main] Драйвер off
+2020-08-08 05:28:55,413 INFO c.OtusRunTest [main] Remote Дайвер up
+2020-08-08 05:29:01,537 INFO c.OtusRunTest [main] Тест кейс 13 выполнен
+2020-08-08 05:29:01,601 INFO c.OtusRunTest [main] Драйвер off
+2020-08-08 05:29:05,068 INFO c.OtusRunTest [main] Remote Дайвер up
+2020-08-08 05:29:17,750 INFO c.OtusRunTest [main] Тест кейс 4 выполнен
+2020-08-08 05:29:17,911 INFO c.OtusRunTest [main] Драйвер off
+2020-08-08 05:29:30,926 INFO c.OtusRunTest [main] Remote Дайвер up
+2020-08-08 05:29:34,550 INFO c.OtusRunTest [main] Тест кейс 1 выполнен
+2020-08-08 05:29:34,620 INFO c.OtusRunTest [main] Драйвер off
+2020-08-08 05:29:42,851 INFO c.OtusRunTest [main] Remote Дайвер up
+2020-08-08 05:29:48,524 INFO c.OtusRunTest [main] Тест кейс 14 выполнен
+2020-08-08 05:29:48,618 INFO c.OtusRunTest [main] Драйвер off
+2020-08-08 05:47:45,937 INFO c.OtusRunTest [main] Remote Дайвер up
+2020-08-08 05:47:54,141 INFO c.OtusRunTest [main] Тест кейс 11 выполнен
+2020-08-08 05:47:54,277 INFO c.OtusRunTest [main] Драйвер off
+2020-08-08 05:47:58,634 INFO c.OtusRunTest [main] Remote Дайвер up
+2020-08-08 05:48:03,559 INFO c.OtusRunTest [main] Тест кейс 9 выполнен
+2020-08-08 05:48:03,719 INFO c.OtusRunTest [main] Драйвер off
+2020-08-08 05:48:07,773 INFO c.OtusRunTest [main] Remote Дайвер up
+2020-08-08 05:48:13,200 INFO c.OtusRunTest [main] Тест кейс 3 выполнен
+2020-08-08 05:48:13,267 INFO c.OtusRunTest [main] Драйвер off
+2020-08-08 05:48:16,958 INFO c.OtusRunTest [main] Remote Дайвер up
+2020-08-08 05:48:25,248 INFO c.OtusRunTest [main] Тест кейс 15 выполнен
+2020-08-08 05:48:25,415 INFO c.OtusRunTest [main] Драйвер off
+2020-08-08 05:48:29,099 INFO c.OtusRunTest [main] Remote Дайвер up
+2020-08-08 05:48:34,360 INFO c.OtusRunTest [main] Тест кейс 12 выполнен
+2020-08-08 05:48:34,423 INFO c.OtusRunTest [main] Драйвер off
+2020-08-08 05:48:58,587 INFO c.OtusRunTest [main] Remote Дайвер up
+2020-08-08 05:56:19,818 INFO c.OtusRunTest [main] Remote Дайвер up
+2020-08-08 05:56:27,204 INFO c.OtusRunTest [main] Тест кейс 11 выполнен
+2020-08-08 05:56:27,278 INFO c.OtusRunTest [main] Драйвер off
+2020-08-08 05:56:31,146 INFO c.OtusRunTest [main] Remote Дайвер up
+2020-08-08 05:56:39,009 INFO c.OtusRunTest [main] Тест кейс 9 выполнен
+2020-08-08 05:56:39,126 INFO c.OtusRunTest [main] Драйвер off
+2020-08-08 05:56:42,817 INFO c.OtusRunTest [main] Remote Дайвер up
+2020-08-08 05:56:45,722 INFO c.OtusRunTest [main] Тест кейс 3 выполнен
+2020-08-08 05:56:45,881 INFO c.OtusRunTest [main] Драйвер off
+2020-08-08 05:56:49,405 INFO c.OtusRunTest [main] Remote Дайвер up
+2020-08-08 05:56:56,261 INFO c.OtusRunTest [main] Тест кейс 15 выполнен
+2020-08-08 05:56:56,378 INFO c.OtusRunTest [main] Драйвер off
+2020-08-08 05:56:59,862 INFO c.OtusRunTest [main] Remote Дайвер up
+2020-08-08 05:57:02,910 INFO c.OtusRunTest [main] Тест кейс 12 выполнен
+2020-08-08 05:57:03,029 INFO c.OtusRunTest [main] Драйвер off
+2020-08-08 05:57:31,879 INFO c.OtusRunTest [main] Remote Дайвер up
+2020-08-08 05:57:40,754 INFO c.OtusRunTest [main] Тест кейс 6 выполнен
+2020-08-08 05:57:40,963 INFO c.OtusRunTest [main] Драйвер off
+2020-08-08 05:57:44,486 INFO c.OtusRunTest [main] Remote Дайвер up
+2020-08-08 05:57:51,393 INFO c.OtusRunTest [main] Тест кейс 2 выполнен
+2020-08-08 05:57:51,602 INFO c.OtusRunTest [main] Драйвер off
+2020-08-08 05:57:55,112 INFO c.OtusRunTest [main] Remote Дайвер up
+2020-08-08 05:57:58,911 INFO c.OtusRunTest [main] Тест кейс 7 выполнен
+2020-08-08 05:57:59,027 INFO c.OtusRunTest [main] Драйвер off
+2020-08-08 05:58:02,639 INFO c.OtusRunTest [main] Remote Дайвер up
+2020-08-08 05:58:20,570 INFO c.OtusRunTest [main] Тест кейс 10 выполнен
+2020-08-08 05:58:20,829 INFO c.OtusRunTest [main] Драйвер off
+2020-08-08 05:58:24,690 INFO c.OtusRunTest [main] Remote Дайвер up
+2020-08-08 05:58:31,993 INFO c.OtusRunTest [main] Тест кейс 5 выполнен
+2020-08-08 05:58:32,151 INFO c.OtusRunTest [main] Драйвер off
+2020-08-08 05:58:46,418 INFO c.OtusRunTest [main] Remote Дайвер up
+2020-08-08 05:58:49,638 INFO c.OtusRunTest [main] Тест кейс 8 выполнен
+2020-08-08 05:58:49,814 INFO c.OtusRunTest [main] Драйвер off
+2020-08-08 05:58:57,674 INFO c.OtusRunTest [main] Remote Дайвер up
+2020-08-08 05:59:03,330 INFO c.OtusRunTest [main] Тест кейс 13 выполнен
+2020-08-08 05:59:03,396 INFO c.OtusRunTest [main] Драйвер off
+2020-08-08 05:59:07,953 INFO c.OtusRunTest [main] Remote Дайвер up
+2020-08-08 05:59:18,930 INFO c.OtusRunTest [main] Тест кейс 4 выполнен
+2020-08-08 05:59:19,088 INFO c.OtusRunTest [main] Драйвер off
+2020-08-08 05:59:25,757 INFO c.OtusRunTest [main] Remote Дайвер up
+2020-08-08 05:59:28,414 INFO c.OtusRunTest [main] Тест кейс 1 выполнен
+2020-08-08 05:59:28,489 INFO c.OtusRunTest [main] Драйвер off
+2020-08-08 05:59:38,234 INFO c.OtusRunTest [main] Remote Дайвер up
+2020-08-08 05:59:45,386 INFO c.OtusRunTest [main] Тест кейс 14 выполнен
+2020-08-08 05:59:45,547 INFO c.OtusRunTest [main] Драйвер off
+2020-08-08 06:08:31,640 INFO c.OtusRunTest [main] Remote Дайвер up
+2020-08-08 06:08:40,423 INFO c.OtusRunTest [main] Тест кейс 11 выполнен
+2020-08-08 06:08:40,509 INFO c.OtusRunTest [main] Драйвер off
+2020-08-08 06:08:45,906 INFO c.OtusRunTest [main] Remote Дайвер up
+2020-08-08 06:08:54,414 INFO c.OtusRunTest [main] Тест кейс 9 выполнен
+2020-08-08 06:08:54,638 INFO c.OtusRunTest [main] Драйвер off
+2020-08-08 06:08:58,811 INFO c.OtusRunTest [main] Remote Дайвер up
+2020-08-08 06:09:02,467 INFO c.OtusRunTest [main] Тест кейс 3 выполнен
+2020-08-08 06:09:02,677 INFO c.OtusRunTest [main] Драйвер off
+2020-08-08 06:09:06,461 INFO c.OtusRunTest [main] Remote Дайвер up
+2020-08-08 06:09:15,851 INFO c.OtusRunTest [main] Тест кейс 15 выполнен
+2020-08-08 06:09:16,014 INFO c.OtusRunTest [main] Драйвер off
+2020-08-08 06:09:20,624 INFO c.OtusRunTest [main] Remote Дайвер up
+2020-08-08 06:09:24,470 INFO c.OtusRunTest [main] Тест кейс 12 выполнен
+2020-08-08 06:09:24,591 INFO c.OtusRunTest [main] Драйвер off
+2020-08-08 06:09:46,141 INFO c.OtusRunTest [main] Remote Дайвер up
+2020-08-08 06:09:50,370 INFO c.OtusRunTest [main] Тест кейс 6 выполнен
+2020-08-08 06:09:50,530 INFO c.OtusRunTest [main] Драйвер off
+2020-08-08 06:10:00,615 INFO c.OtusRunTest [main] Remote Дайвер up
+2020-08-08 06:10:18,502 INFO c.OtusRunTest [main] Тест кейс 2 выполнен
+2020-08-08 06:10:18,680 INFO c.OtusRunTest [main] Драйвер off
+2020-08-08 06:10:22,843 INFO c.OtusRunTest [main] Remote Дайвер up
+2020-08-08 06:10:30,610 INFO c.OtusRunTest [main] Тест кейс 7 выполнен
+2020-08-08 06:10:30,871 INFO c.OtusRunTest [main] Драйвер off
+2020-08-08 06:10:34,728 INFO c.OtusRunTest [main] Remote Дайвер up
+2020-08-08 06:10:43,191 INFO c.OtusRunTest [main] Тест кейс 10 выполнен
+2020-08-08 06:10:43,402 INFO c.OtusRunTest [main] Драйвер off
+2020-08-08 06:10:47,455 INFO c.OtusRunTest [main] Remote Дайвер up
+2020-08-08 06:10:55,982 INFO c.OtusRunTest [main] Тест кейс 5 выполнен
+2020-08-08 06:10:56,252 INFO c.OtusRunTest [main] Драйвер off
+2020-08-08 06:11:00,293 INFO c.OtusRunTest [main] Remote Дайвер up
+2020-08-08 06:11:05,852 INFO c.OtusRunTest [main] Тест кейс 8 выполнен
+2020-08-08 06:11:06,016 INFO c.OtusRunTest [main] Драйвер off
+2020-08-08 06:11:24,183 INFO c.OtusRunTest [main] Remote Дайвер up
+2020-08-08 06:11:28,116 INFO c.OtusRunTest [main] Тест кейс 13 выполнен
+2020-08-08 06:11:28,277 INFO c.OtusRunTest [main] Драйвер off
+2020-08-08 06:11:35,638 INFO c.OtusRunTest [main] Remote Дайвер up
+2020-08-08 06:11:42,415 INFO c.OtusRunTest [main] Тест кейс 4 выполнен
+2020-08-08 06:11:42,576 INFO c.OtusRunTest [main] Драйвер off
+2020-08-08 06:11:48,927 INFO c.OtusRunTest [main] Remote Дайвер up
+2020-08-08 06:11:52,672 INFO c.OtusRunTest [main] Тест кейс 1 выполнен
+2020-08-08 06:11:52,739 INFO c.OtusRunTest [main] Драйвер off
+2020-08-08 06:12:01,400 INFO c.OtusRunTest [main] Remote Дайвер up
+2020-08-08 06:12:05,628 INFO c.OtusRunTest [main] Тест кейс 14 выполнен
+2020-08-08 06:12:05,770 INFO c.OtusRunTest [main] Драйвер off
+2020-08-08 18:16:29,596 INFO c.OtusRunTest [main] Remote Дайвер up
+2020-08-08 18:16:40,311 INFO c.OtusRunTest [main] Тест кейс 11 выполнен
+2020-08-08 18:16:40,572 INFO c.OtusRunTest [main] Драйвер off
+2020-08-08 18:16:44,495 INFO c.OtusRunTest [main] Remote Дайвер up
+2020-08-08 18:16:51,992 INFO c.OtusRunTest [main] Тест кейс 9 выполнен
+2020-08-08 18:16:52,171 INFO c.OtusRunTest [main] Драйвер off
+2020-08-08 18:16:55,636 INFO c.OtusRunTest [main] Remote Дайвер up
+2020-08-08 18:17:05,464 INFO c.OtusRunTest [main] Тест кейс 3 выполнен
+2020-08-08 18:17:05,675 INFO c.OtusRunTest [main] Драйвер off
+2020-08-08 18:17:09,480 INFO c.OtusRunTest [main] Remote Дайвер up
+2020-08-08 18:17:18,876 INFO c.OtusRunTest [main] Тест кейс 15 выполнен
+2020-08-08 18:17:18,939 INFO c.OtusRunTest [main] Драйвер off
+2020-08-08 18:17:23,183 INFO c.OtusRunTest [main] Remote Дайвер up
+2020-08-08 18:17:31,478 INFO c.OtusRunTest [main] Тест кейс 12 выполнен
+2020-08-08 18:17:31,545 INFO c.OtusRunTest [main] Драйвер off
+2020-08-08 18:17:46,526 INFO c.OtusRunTest [main] Remote Дайвер up
+2020-08-08 18:17:55,166 INFO c.OtusRunTest [main] Тест кейс 6 выполнен
+2020-08-08 18:17:55,374 INFO c.OtusRunTest [main] Драйвер off
+2020-08-08 18:17:59,075 INFO c.OtusRunTest [main] Remote Дайвер up
+2020-08-08 18:18:07,740 INFO c.OtusRunTest [main] Тест кейс 2 выполнен
+2020-08-08 18:18:08,108 INFO c.OtusRunTest [main] Драйвер off
+2020-08-08 18:18:12,165 INFO c.OtusRunTest [main] Remote Дайвер up
+2020-08-08 18:18:22,304 INFO c.OtusRunTest [main] Тест кейс 7 выполнен
+2020-08-08 18:18:22,464 INFO c.OtusRunTest [main] Драйвер off
+2020-08-08 18:18:25,842 INFO c.OtusRunTest [main] Remote Дайвер up
+2020-08-08 18:18:35,817 INFO c.OtusRunTest [main] Драйвер off
+2020-08-08 18:18:39,014 INFO c.OtusRunTest [main] Remote Дайвер up
+2020-08-08 18:18:47,002 INFO c.OtusRunTest [main] Тест кейс 5 выполнен
+2020-08-08 18:18:47,213 INFO c.OtusRunTest [main] Драйвер off
+2020-08-08 18:18:59,945 INFO c.OtusRunTest [main] Remote Дайвер up
+2020-08-08 18:19:12,359 INFO c.OtusRunTest [main] Тест кейс 8 выполнен
+2020-08-08 18:19:12,576 INFO c.OtusRunTest [main] Драйвер off
+2020-08-08 18:19:15,805 INFO c.OtusRunTest [main] Remote Дайвер up
+2020-08-08 18:19:27,255 INFO c.OtusRunTest [main] Тест кейс 13 выполнен
+2020-08-08 18:19:27,318 INFO c.OtusRunTest [main] Драйвер off
+2020-08-08 18:19:30,586 INFO c.OtusRunTest [main] Remote Дайвер up
+2020-08-08 18:19:41,305 INFO c.OtusRunTest [main] Тест кейс 4 выполнен
+2020-08-08 18:19:41,387 INFO c.OtusRunTest [main] Драйвер off
+2020-08-08 18:19:44,503 INFO c.OtusRunTest [main] Remote Дайвер up
+2020-08-08 18:19:48,353 INFO c.OtusRunTest [main] Тест кейс 1 выполнен
+2020-08-08 18:19:48,452 INFO c.OtusRunTest [main] Драйвер off
+2020-08-08 18:19:52,508 INFO c.OtusRunTest [main] Remote Дайвер up
+2020-08-08 18:20:02,035 INFO c.OtusRunTest [main] Тест кейс 14 выполнен
+2020-08-08 18:20:02,161 INFO c.OtusRunTest [main] Драйвер off
+2020-08-08 18:39:27,457 INFO c.OtusRunTest [main] Remote Дайвер up
+2020-08-08 18:39:47,851 INFO c.OtusRunTest [main] Тест кейс 11 выполнен
+2020-08-08 18:39:47,964 INFO c.OtusRunTest [main] Драйвер off
+2020-08-08 18:39:51,473 INFO c.OtusRunTest [main] Remote Дайвер up
+2020-08-08 18:40:08,023 INFO c.OtusRunTest [main] Тест кейс 9 выполнен
+2020-08-08 18:40:08,093 INFO c.OtusRunTest [main] Драйвер off
+2020-08-08 18:41:03,248 INFO c.OtusRunTest [main] Remote Дайвер up
+2020-08-08 18:45:56,061 INFO c.OtusRunTest [main] Remote Дайвер up
+2020-08-08 18:46:08,383 INFO c.OtusRunTest [main] Тест кейс 11 выполнен
+2020-08-08 18:46:08,450 INFO c.OtusRunTest [main] Драйвер off
+2020-08-08 18:46:11,881 INFO c.OtusRunTest [main] Remote Дайвер up
+2020-08-08 18:46:18,837 INFO c.OtusRunTest [main] Тест кейс 9 выполнен
+2020-08-08 18:46:18,999 INFO c.OtusRunTest [main] Драйвер off
+2020-08-08 18:46:22,118 INFO c.OtusRunTest [main] Remote Дайвер up
+2020-08-08 18:46:33,958 INFO c.OtusRunTest [main] Тест кейс 3 выполнен
+2020-08-08 18:46:34,075 INFO c.OtusRunTest [main] Драйвер off
+2020-08-08 18:46:37,820 INFO c.OtusRunTest [main] Remote Дайвер up
+2020-08-08 18:46:41,338 INFO c.OtusRunTest [main] Тест кейс 15 выполнен
+2020-08-08 18:46:41,407 INFO c.OtusRunTest [main] Драйвер off
+2020-08-08 18:46:44,442 INFO c.OtusRunTest [main] Remote Дайвер up
+2020-08-08 18:46:56,822 INFO c.OtusRunTest [main] Тест кейс 12 выполнен
+2020-08-08 18:46:56,933 INFO c.OtusRunTest [main] Драйвер off
+2020-08-08 18:47:13,205 INFO c.OtusRunTest [main] Remote Дайвер up
+2020-08-08 18:47:27,646 INFO c.OtusRunTest [main] Тест кейс 6 выполнен
+2020-08-08 18:47:27,804 INFO c.OtusRunTest [main] Драйвер off
+2020-08-08 18:47:31,216 INFO c.OtusRunTest [main] Remote Дайвер up
+2020-08-08 18:47:41,558 INFO c.OtusRunTest [main] Тест кейс 2 выполнен
+2020-08-08 18:47:41,697 INFO c.OtusRunTest [main] Драйвер off
+2020-08-08 18:47:45,780 INFO c.OtusRunTest [main] Remote Дайвер up
+2020-08-08 18:47:58,684 INFO c.OtusRunTest [main] Тест кейс 7 выполнен
+2020-08-08 18:47:58,895 INFO c.OtusRunTest [main] Драйвер off
+2020-08-08 18:48:02,252 INFO c.OtusRunTest [main] Remote Дайвер up
+2020-08-08 18:48:11,748 INFO c.OtusRunTest [main] Тест кейс 10 выполнен
+2020-08-08 18:48:11,961 INFO c.OtusRunTest [main] Драйвер off
+2020-08-08 18:48:15,272 INFO c.OtusRunTest [main] Remote Дайвер up
+2020-08-08 18:48:26,337 INFO c.OtusRunTest [main] Тест кейс 5 выполнен
+2020-08-08 18:48:26,548 INFO c.OtusRunTest [main] Драйвер off
+2020-08-08 18:48:32,587 INFO c.OtusRunTest [main] Remote Дайвер up
+2020-08-08 18:48:47,780 INFO c.OtusRunTest [main] Тест кейс 8 выполнен
+2020-08-08 18:48:47,941 INFO c.OtusRunTest [main] Драйвер off
+2020-08-08 18:48:51,151 INFO c.OtusRunTest [main] Remote Дайвер up
+2020-08-08 18:49:02,966 INFO c.OtusRunTest [main] Тест кейс 13 выполнен
+2020-08-08 18:49:03,177 INFO c.OtusRunTest [main] Драйвер off
+2020-08-08 18:49:06,497 INFO c.OtusRunTest [main] Remote Дайвер up
+2020-08-08 18:49:24,636 INFO c.OtusRunTest [main] Тест кейс 4 выполнен
+2020-08-08 18:49:24,727 INFO c.OtusRunTest [main] Драйвер off
+2020-08-08 18:49:29,581 INFO c.OtusRunTest [main] Remote Дайвер up
+2020-08-08 18:49:32,982 INFO c.OtusRunTest [main] Тест кейс 1 выполнен
+2020-08-08 18:49:33,140 INFO c.OtusRunTest [main] Драйвер off
+2020-08-08 18:49:36,437 INFO c.OtusRunTest [main] Remote Дайвер up
+2020-08-08 18:49:42,879 INFO c.OtusRunTest [main] Тест кейс 14 выполнен
+2020-08-08 18:49:42,946 INFO c.OtusRunTest [main] Драйвер off
+2020-08-08 18:53:31,485 INFO c.OtusRunTest [main] Remote Дайвер up
+2020-08-08 18:53:31,490 INFO c.OtusRunTest [main] Remote Дайвер up
+2020-08-08 18:53:31,491 INFO c.OtusRunTest [main] Remote Дайвер up
+2020-08-08 18:53:31,493 INFO c.OtusRunTest [main] Remote Дайвер up
+2020-08-08 18:53:31,495 INFO c.OtusRunTest [main] Remote Дайвер up
+2020-08-08 18:53:31,496 INFO c.OtusRunTest [main] Remote Дайвер up
+2020-08-08 18:53:31,498 INFO c.OtusRunTest [main] Remote Дайвер up
+2020-08-08 18:53:31,499 INFO c.OtusRunTest [main] Remote Дайвер up
+2020-08-08 18:53:31,500 INFO c.OtusRunTest [main] Remote Дайвер up
+2020-08-08 18:53:31,501 INFO c.OtusRunTest [main] Remote Дайвер up
+2020-08-08 18:53:31,502 INFO c.OtusRunTest [main] Remote Дайвер up
+2020-08-08 18:53:31,504 INFO c.OtusRunTest [main] Remote Дайвер up
+2020-08-08 18:53:31,505 INFO c.OtusRunTest [main] Remote Дайвер up
+2020-08-08 18:53:31,507 INFO c.OtusRunTest [main] Remote Дайвер up
+2020-08-08 18:53:31,508 INFO c.OtusRunTest [main] Remote Дайвер up
+2020-08-08 18:53:57,755 INFO c.OtusRunTest [main] Remote Дайвер up
+2020-08-08 18:53:57,759 INFO c.OtusRunTest [main] Remote Дайвер up
+2020-08-08 18:53:57,761 INFO c.OtusRunTest [main] Remote Дайвер up
+2020-08-08 18:53:57,762 INFO c.OtusRunTest [main] Remote Дайвер up
+2020-08-08 18:53:57,763 INFO c.OtusRunTest [main] Remote Дайвер up
+2020-08-08 18:53:57,765 INFO c.OtusRunTest [main] Remote Дайвер up
+2020-08-08 18:53:57,766 INFO c.OtusRunTest [main] Remote Дайвер up
+2020-08-08 18:53:57,767 INFO c.OtusRunTest [main] Remote Дайвер up
+2020-08-08 18:53:57,768 INFO c.OtusRunTest [main] Remote Дайвер up
+2020-08-08 18:53:57,770 INFO c.OtusRunTest [main] Remote Дайвер up
+2020-08-08 18:53:57,771 INFO c.OtusRunTest [main] Remote Дайвер up
+2020-08-08 18:53:57,773 INFO c.OtusRunTest [main] Remote Дайвер up
+2020-08-08 18:53:57,775 INFO c.OtusRunTest [main] Remote Дайвер up
+2020-08-08 18:53:57,776 INFO c.OtusRunTest [main] Remote Дайвер up
+2020-08-08 18:53:57,777 INFO c.OtusRunTest [main] Remote Дайвер up
+2020-08-08 18:56:35,967 INFO c.OtusRunTest [main] Remote Дайвер up
+2020-08-08 18:56:55,709 INFO c.OtusRunTest [main] Тест кейс 11 выполнен
+2020-08-08 18:56:55,781 INFO c.OtusRunTest [main] Драйвер off
+2020-08-08 18:56:59,177 INFO c.OtusRunTest [main] Remote Дайвер up
+2020-08-08 18:57:09,181 INFO c.OtusRunTest [main] Тест кейс 9 выполнен
+2020-08-08 18:57:09,339 INFO c.OtusRunTest [main] Драйвер off
+2020-08-08 18:57:12,573 INFO c.OtusRunTest [main] Remote Дайвер up
+2020-08-08 18:57:17,508 INFO c.OtusRunTest [main] Тест кейс 3 выполнен
+2020-08-08 18:57:17,716 INFO c.OtusRunTest [main] Драйвер off
+2020-08-08 18:57:20,929 INFO c.OtusRunTest [main] Remote Дайвер up
+2020-08-08 18:57:30,338 INFO c.OtusRunTest [main] Тест кейс 15 выполнен
+2020-08-08 18:57:30,404 INFO c.OtusRunTest [main] Драйвер off
+2020-08-08 18:57:33,764 INFO c.OtusRunTest [main] Remote Дайвер up
+2020-08-08 18:57:43,097 INFO c.OtusRunTest [main] Тест кейс 12 выполнен
+2020-08-08 18:57:43,161 INFO c.OtusRunTest [main] Драйвер off
+2020-08-08 18:58:00,059 INFO c.OtusRunTest [main] Remote Дайвер up
+2020-08-08 18:58:11,198 INFO c.OtusRunTest [main] Тест кейс 6 выполнен
+2020-08-08 18:58:11,713 INFO c.OtusRunTest [main] Драйвер off
+2020-08-08 18:58:15,568 INFO c.OtusRunTest [main] Remote Дайвер up
+2020-08-08 18:58:26,036 INFO c.OtusRunTest [main] Тест кейс 2 выполнен
+2020-08-08 18:58:26,194 INFO c.OtusRunTest [main] Драйвер off
+2020-08-08 18:58:29,595 INFO c.OtusRunTest [main] Remote Дайвер up
+2020-08-08 18:58:45,526 INFO c.OtusRunTest [main] Тест кейс 7 выполнен
+2020-08-08 18:58:45,736 INFO c.OtusRunTest [main] Драйвер off
+2020-08-08 18:58:49,246 INFO c.OtusRunTest [main] Remote Дайвер up
+2020-08-08 18:59:00,966 INFO c.OtusRunTest [main] Тест кейс 10 выполнен
+2020-08-08 18:59:01,173 INFO c.OtusRunTest [main] Драйвер off
+2020-08-08 18:59:04,428 INFO c.OtusRunTest [main] Remote Дайвер up
+2020-08-08 18:59:10,902 INFO c.OtusRunTest [main] Тест кейс 5 выполнен
+2020-08-08 18:59:11,060 INFO c.OtusRunTest [main] Драйвер off
+2020-08-08 18:59:16,045 INFO c.OtusRunTest [main] Remote Дайвер up
+2020-08-08 18:59:23,383 INFO c.OtusRunTest [main] Тест кейс 8 выполнен
+2020-08-08 18:59:23,494 INFO c.OtusRunTest [main] Драйвер off
+2020-08-08 18:59:30,699 INFO c.OtusRunTest [main] Remote Дайвер up
+2020-08-08 18:59:40,779 INFO c.OtusRunTest [main] Тест кейс 13 выполнен
+2020-08-08 18:59:40,940 INFO c.OtusRunTest [main] Драйвер off
+2020-08-08 18:59:50,173 INFO c.OtusRunTest [main] Remote Дайвер up
+2020-08-08 18:59:59,078 INFO c.OtusRunTest [main] Тест кейс 4 выполнен
+2020-08-08 18:59:59,289 INFO c.OtusRunTest [main] Драйвер off
+2020-08-08 19:00:05,817 INFO c.OtusRunTest [main] Remote Дайвер up
+2020-08-08 19:00:18,514 INFO c.OtusRunTest [main] Тест кейс 1 выполнен
+2020-08-08 19:00:18,674 INFO c.OtusRunTest [main] Драйвер off
+2020-08-08 19:00:21,874 INFO c.OtusRunTest [main] Remote Дайвер up
+2020-08-08 19:00:34,955 INFO c.OtusRunTest [main] Тест кейс 14 выполнен
+2020-08-08 19:00:35,113 INFO c.OtusRunTest [main] Драйвер off
+2020-08-08 21:07:54,556 INFO c.OtusRunTest [main] Remote Дайвер up
+2020-08-08 21:08:07,813 INFO c.OtusRunTest [main] Тест кейс 11 выполнен
+2020-08-08 21:08:07,940 INFO c.OtusRunTest [main] Драйвер off

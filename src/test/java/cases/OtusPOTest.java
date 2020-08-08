@@ -1,5 +1,6 @@
 package cases;
 
+
 import org.junit.Before;
 import org.junit.Test;
 import org.openqa.selenium.By;
@@ -7,8 +8,6 @@ import org.openqa.selenium.Keys;
 import pages.AutorizationPage;
 import pages.HomePage;
 import pages.PersonalPage;
-
-import java.util.concurrent.TimeUnit;
 
 import static org.hamcrest.CoreMatchers.is;
 import static org.hamcrest.MatcherAssert.assertThat;
