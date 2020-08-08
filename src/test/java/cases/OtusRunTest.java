@@ -1,6 +1,7 @@
 package cases;
 
-import com.sun.org.glassfish.gmbal.Description;
+import io.qameta.allure.Description;
+import io.qameta.allure.Epic;
 import org.aeonbits.owner.ConfigFactory;
 import org.apache.logging.log4j.LogManager;
 import org.apache.logging.log4j.Logger;
@@ -16,13 +17,15 @@ import java.net.MalformedURLException;
 import java.net.URL;
 import java.util.concurrent.TimeUnit;
 
-@Description("Домашнее задание №2")
+@Epic("Инициализация base test")
+
 public class OtusRunTest  {
 
     WebDriver driver;
     Logger logger = LogManager.getLogger(OtusRunTest.class);
     ConfigFile cfg = ConfigFactory.create(ConfigFile.class);
 
+    @Description("Домашнее задание №2")
     @Before
     public void setUp () throws MalformedURLException {
         /**

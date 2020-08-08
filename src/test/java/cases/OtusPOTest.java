@@ -1,6 +1,6 @@
 package cases;
 
-import com.sun.org.glassfish.gmbal.Description;
+import io.qameta.allure.Description;
 import io.qameta.allure.Epic;
 import io.qameta.allure.Feature;
 import org.junit.Before;
@@ -15,13 +15,13 @@ import static org.hamcrest.CoreMatchers.is;
 import static org.hamcrest.MatcherAssert.assertThat;
 
 @Epic("Тесты OTUS.RU")
-@Description("Домашнее задание №5")
 public class OtusPOTest extends OtusRunTest {
 
     HomePage homePage;
     PersonalPage personalPage;
     AutorizationPage authPage;
 
+    @Description("Домашнее задание №5")
     @Before
     public void setUpMethod () {
         homePage = new HomePage(driver);
@@ -30,7 +30,7 @@ public class OtusPOTest extends OtusRunTest {
     }
 
     @Feature("Заполнение данных в ЛК с последующей проверкой")
-    @Test
+    //@Test
     public void poTest () {
             homePage.openPage();
             homePage.buttonLogin();

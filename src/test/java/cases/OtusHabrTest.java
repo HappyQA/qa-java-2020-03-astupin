@@ -1,6 +1,6 @@
 package cases;
 
-import com.sun.org.glassfish.gmbal.Description;
+import io.qameta.allure.Description;
 import io.qameta.allure.Epic;
 import io.qameta.allure.Feature;
 import org.junit.Before;
@@ -9,11 +9,12 @@ import org.junit.jupiter.api.DisplayName;
 import pages.HomePageHabr;
 
 @Epic("Тестирование HABR.RU")
-@Description("Домашнее задание №6")
+
 public class OtusHabrTest extends OtusRunTest {
 
     HomePageHabr homePage;
 
+    @Description("Домашнее задание №6")
     @Before
     public void setUpMethod () {
         homePage = new HomePageHabr(driver);
