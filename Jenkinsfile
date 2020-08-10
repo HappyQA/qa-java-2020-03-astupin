@@ -1,9 +1,9 @@
 pipeline {
     agent any
-
+    
     tools {
         maven 'Maven3.6.0'
-        jdk 'Java8'
+        jdk 'java8'
     }
 
     stages {
@@ -19,14 +19,14 @@ pipeline {
             steps {
                 echo "Чистим target"
                 sh "mvn clean"
-            }
         }
-
+        }
+                                
         stage('Run test') {
             steps {
                 script {
                     echo "Запускаем тесты"
-                    sh "mvn test -Dremote=http://localhost:4444/wd/hub"
+                    //sh "mvn test -Dremote=http://localhost:4444/wd/hub"
                 }
             }
         }
@@ -37,7 +37,13 @@ pipeline {
             script {
                 emailext to: 'a.stupin@tetra-soft.ru',
                 subject: "Test example [Homework 10-11]",
-                body: """Чек-чек""",
+                body: """
+                <br>Номер сборки: <b>${BUILD_NUMBER}</b>
+                <br>Статус сборки: <b></b>  
+                <br>Ветка репозитария: <b>${NODE_NAME}</b>
+                <br>Количество тестов: <b></b>
+                <br>Общее время выполнения job'ы: <b></b>
+                """,
                 mimeType: 'text/html'
             }
         }
