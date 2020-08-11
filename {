@@ -1,0 +1,94 @@
+Script started on 2020-08-11 06:53:56+0300
+                def getLastBuild = getResultOfLastBuild()
+                def getDuration = getDurationResult()
+                emailext to: 'a.stupin@tetra-soft.ru',
+                subject: "Test example [Homework 10-11]",
+                body: """
+                <br>Номер сборки: <b>${BUILD_NUMBER}</b>
+                <br>Статус сборки: <b>$getLastBuild</b>  
+                <br>Ветка репозитария: <b>${NODE_NAME}</b>
+                <br>Количество тестов: <b></b>
+                <br>Общее время выполнения job'ы: <b>$getDuration - Unix time</b>""",
+                mimeType: 'text/html'
+            }
+        }
+    }
+}
+
+def getResultOfLastBuild () {
+    return !sh(script: "curl -u ${LOGIN}:${PASSWORD} --silent ${BUILD_URL}/api/json | jq -r '.result'")
+}
+
+def getDurationResult() {
+    return !sh(script: "curl -u ${LOGIN}:${PASSWORD} --silent ${BUILD_URL}/api/json | jq -r '.duration'")
+}[1m[7m%[27m[1m[0m                                                                                                                                                                                                                                        [0m[27m[24m[Jhappyqa% [K[?1h=[?2004h                 def getLastBuild = getResultOfLastBuild()[?1l>[?2004l
+[0m[27m[24m[Jfunction> [K[?1h=[?2004h                 def getDuration = getDurationResult()[?1l>[?2004l
+[0m[27m[24m[Jfunction function> [K[?1h=[?2004h                 emailext to: 'a.stupin@tetra-soft.ru',[?1l>[?2004l
+[1m[7m%[27m[1m[0m                                                                                                                                                                                                                                        [0m[27m[24m[Jhappyqa% [K[?1h=[?2004h                 subject: "Test example [Homework 10-11]",[?1l>[?2004l
+zsh: command not found: subject:
+[1m[7m%[27m[1m[0m                                                                                                                                                                                                                                        [0m[27m[24m[Jhappyqa% [K[?1h=[?2004h                 body: """[?1l>[?2004l
+[0m[27m[24m[Jdquote> [K[?1h=[?2004h                 <br>Номер сборки: <b>${BUILD_NUMBER}</b>[?1l>[?2004l
+[0m[27m[24m[Jdquote> [K[?1h=[?2004h                 <br>Статус сборки: <b>$getLastBuild</b>  [?1l>[?2004l
+[0m[27m[24m[Jdquote> [K[?1h=[?2004h                 <br>Ветка репозитария: <b>${NODE_NAME}</b>[?1l>[?2004l
+[0m[27m[24m[Jdquote> [K[?1h=[?2004h                 <br>Количество тестов: <b></b>[?1l>[?2004l
+[0m[27m[24m[Jdquote> [K[?1h=[?2004h                 <br>Общее время выполнения job'ы: <b>$getDuration - Unix time</b>""",[?1l>[?2004l
+zsh: command not found: body:
+[1m[7m%[27m[1m[0m                                                                                                                                                                                                                                        [0m[27m[24m[Jhappyqa% [K[?1h=[?2004h                 mimeType: 'text/html'[?1l>[?2004l
+zsh: command not found: mimeType:
+[1m[7m%[27m[1m[0m                                                                                                                                                                                                                                        [0m[27m[24m[Jhappyqa% [K[?1h=[?2004h             }[?1l>[?2004l
+zsh: parse error near `}'
+[1m[7m%[27m[1m[0m                                                                                                                                                                                                                                        [0m[27m[24m[Jhappyqa% [K[?1h=[?2004h         }[?1l>[?2004l
+zsh: parse error near `}'
+[1m[7m%[27m[1m[0m                                                                                                                                                                                                                                        [0m[27m[24m[Jhappyqa% [K[?1h=[?2004h     }[?1l>[?2004l
+zsh: parse error near `}'
+[1m[7m%[27m[1m[0m                                                                                                                                                                                                                                        [0m[27m[24m[Jhappyqa% [K[?1h=[?2004h}[?1l>[?2004l
+zsh: parse error near `}'
+[1m[7m%[27m[1m[0m                                                                                                                                                                                                                                        [0m[27m[24m[Jhappyqa% [K[?1h=[?2004h[?1l>[?2004l
+[1m[7m%[27m[1m[0m                                                                                                                                                                                                                                        [0m[27m[24m[Jhappyqa% [K[?1h=[?2004hddef getResultOfLastBuild () {[?1l>[?2004l
+[0m[27m[24m[Jfunction> [K[?1h=[?2004h     return !sh(script: "curl -u ${LOGIN}:${PASSWORD} --silent ${BUILD_URL}/api/json | jq -r '.result'")[?1l>[?2004l
+zsh: event not found: sh(script
+[1m[7m%[27m[1m[0m                                                                                                                                                                                                                                        [0m[27m[24m[Jhappyqa% [K[?1h=[?2004h}[?1l>[?2004l
+zsh: parse error near `}'
+[1m[7m%[27m[1m[0m                                                                                                                                                                                                                                        [0m[27m[24m[Jhappyqa% [K[?1h=[?2004h[?1l>[?2004l
+[1m[7m%[27m[1m[0m                                                                                                                                                                                                                                        [0m[27m[24m[Jhappyqa% [K[?1h=[?2004hddef getDurationResult() {[?1l>[?2004l
+[0m[27m[24m[Jfunction> [K[?1h=[?2004h     return !sh(script: "curl -u ${LOGIN}:${PASSWORD} --silent ${BUILD_URL}/api/json | jq -r '.duration'")[?1l>[?2004l
+zsh: event not found: sh(script
+[1m[7m%[27m[1m[0m                                                                                                                                                                                                                                        [0m[27m[24m[Jhappyqa% [K[?1h=[?2004h}[?1l>[?2004l
+zsh: parse error near `}'
+[1m[7m%[27m[1m[0m                                                                                                                                                                                                                                        [0m[27m[24m[Jhappyqa% [K[?1h=[?2004h[?1l>[?2004l
+[1m[7m%[27m[1m[0m                                                                                                                                                                                                                                        [0m[27m[24m[Jhappyqa% [K[?1h=[?2004h[?1l>[?2004l
+[1m[7m%[27m[1m[0m                                                                                                                                                                                                                                        [0m[27m[24m[Jhappyqa% [K[?1h=[?2004h[?1l>[?2004l
+[1m[7m%[27m[1m[0m                                                                                                                                                                                                                                        [0m[27m[24m[Jhappyqa% [K[?1h=[?2004h[?1l>[?2004l
+[1m[7m%[27m[1m[0m                                                                                                                                                                                                                                        [0m[27m[24m[Jhappyqa% [K[?1h=[?2004h[?2004l
+[1m[7m%[27m[1m[0m                                                                                                                                                                                                                                        [0m[27m[24m[Jhappyqa% [K[?1h=[?2004h[?2004l
+[1m[7m%[27m[1m[0m                                                                                                                                                                                                                                        [0m[27m[24m[Jhappyqa% [K[?1h=[?2004h[?2004l
+[1m[7m%[27m[1m[0m                                                                                                                                                                                                                                        [0m[27m[24m[Jhappyqa% [K[?1h=[?2004hуучше[?1l>[?2004l
+zsh: command not found: учше
+[1m[7m%[27m[1m[0m                                                                                                                                                                                                                                        [0m[27m[24m[Jhappyqa% [K[?1h=[?2004heexit[?1l>[?2004l
+
+Script done on 2020-08-11 06:55:37+0300
+                                                                                                                                           [0m[27m[24m[Jhappyqa% [K[?1h=[?2004hddef getResultOfLastBuild () {[?1l>[?2004l
+[0m[27m[24m[Jfunction> [K[?1h=[?2004h     return !sh(script: "curl -u ${LOGIN}:${PASSWORD} --silent ${BUILD_URL}/api/json | jq -r '.result'")[?1l>[?2004l
+zsh: event not found: sh(script
+[1m[7m%[27m[1m[0m                                                                                                                                                                                                                                        [0m[27m[24m[Jhappyqa% [K[?1h=[?2004h}[?1l>[?2004l
+zsh: parse error near `}'
+[1m[7m%[27m[1m[0m                                                                                                                                                                                                                                        [0m[27m[24m[Jhappyqa% [K[?1h=[?2004h[?1l>[?2004l
+[1m[7m%[27m[1m[0m                                                                                                                                                                                                                                        [0m[27m[24m[Jhappyqa% [K[?1h=[?2004hddef getDurationResult() {[?1l>[?2004l
+[0m[27m[24m[Jfunction> [K[?1h=[?2004h     return !sh(script: "curl -u ${LOGIN}:${PASSWORD} --silent ${BUILD_URL}/api/json | jq -r '.duration'")[?1l>[?2004l
+zsh: event not found: sh(script
+[1m[7m%[27m[1m[0m                                                                                                                                                                                                                                        [0m[27m[24m[Jhappyqa% [K[?1h=[?2004h}[?1l>[?2004l
+zsh: parse error near `}'
+[1m[7m%[27m[1m[0m                                                                                                                                                                                                                                        [0m[27m[24m[Jhappyqa% [K[?1h=[?2004h[?1l>[?2004l
+[1m[7m%[27m[1m[0m                                                                                                                                                                                                                                        [0m[27m[24m[Jhappyqa% [K[?1h=[?2004h[?1l>[?2004l
+[1m[7m%[27m[1m[0m                                                                                                                                                                                                                                        [0m[27m[24m[Jhappyqa% [K[?1h=[?2004h[?1l>[?2004l
+[1m[7m%[27m[1m[0m                                                                                                                                                                                                                                        [0m[27m[24m[Jhappyqa% [K[?1h=[?2004h[?1l>[?2004l
+[1m[7m%[27m[1m[0m                                                                                                                                                                                                                                        [0m[27m[24m[Jhappyqa% [K[?1h=[?2004h[?2004l
+[1m[7m%[27m[1m[0m                                                                                                                                                                                                                                        [0m[27m[24m[Jhappyqa% [K[?1h=[?2004h[?2004l
+[1m[7m%[27m[1m[0m                                                                                                                                                                                                                                        [0m[27m[24m[Jhappyqa% [K[?1h=[?2004h[?2004l
+[1m[7m%[27m[1m[0m                                                                                                                                                                                                                                        [0m[27m[24m[Jhappyqa% [K[?1h=[?2004hуучше[?1l>[?2004l
+zsh: command not found: учше
+[1m[7m%[27m[1m[0m                                                                                                                                                                                                                                        [0m[27m[24m[Jhappyqa% [K[?1h=[?2004heexit[?1l>[?2004l
+Script done, file is {
+[1m[7m%[27m[1m[0m                                                                                                                                                                                                                                        [0m[27m[24m[Jhappyqa% [K[?1h=[?2004heexit[?1l>[?2004l
+
+Script done on 2020-08-11 06:55:38+0300
