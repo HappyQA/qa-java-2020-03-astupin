@@ -44,9 +44,9 @@ pipeline {
             steps {
                 script {
                     echo "Делаем бэкап джобы"
-                    sh "cd /var/lib/jenkins/workspace/a.stupintestjob && sudo tar -cf backupJob.tar a.stupintestjob"
+                    sh "cd /var/lib/jenkins/workspace/ && sudo tar -cf backupJob.tar a.stupintestjob"
                     echo "Перемещаем в фолдер backup"
-                    sh "mv /var/lib/jenkins/workspace/a.stupintestjob/backupJob.tar /home/ts/backup"
+                    sh "mv /var/lib/jenkins/workspace/backupJob.tar /home/ts/backup"
                 }
             }
         }
