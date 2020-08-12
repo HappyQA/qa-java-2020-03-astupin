@@ -39,6 +39,15 @@ pipeline {
                 }
             }
         }
+
+        stage('Run allure reports') {
+            steps {
+                script {
+                    echo "Запускаем тесты"
+                    //sh "allure:serve"
+                }
+            }
+        }
     }
 
     post {
@@ -47,14 +56,14 @@ pipeline {
                 def getLastBuild = getResultOfLastBuild()
                 def getDuration = getDurationResult()
                 emailext to: 'a.stupin@tetra-soft.ru',
-                        subject: "Test example [Homework 10-11]",
-                        body: """
+                subject: "Test example [Homework 10-11]",
+                body: """
                 <br>Номер сборки: <b>${BUILD_NUMBER}</b>
                 <br>Статус сборки: <b>$getLastBuild</b>  
                 <br>Ветка репозитария: <b>${NODE_NAME}</b>
                 <br>Количество тестов: <b></b>
                 <br>Общее время выполнения job'ы: <b>$getDuration - Unix time</b>""",
-                        mimeType: 'text/html'
+                mimeType: 'text/html'
             }
         }
     }
