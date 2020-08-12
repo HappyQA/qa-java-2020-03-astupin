@@ -15,7 +15,6 @@ pipeline {
     }
 
     stages {
-
         stage('Run test') {
             steps {
                 script {
@@ -29,7 +28,7 @@ pipeline {
         stage('Run allure reports') {
             steps {
                 script {
-                    echo "Запускаем отчеты"
+                    echo "Генерируем отчеты"
                     sh "allure:serve"
                 }
             }
@@ -40,49 +39,60 @@ pipeline {
                 }
             }
         }
-    }
 
-    post {
-        success {
-            script {
-                def getLastBuild = getResultOfLastBuild()
-                def getDuration = getDurationResult()
-                emailext to: 'a.stupin@tetra-soft.ru',
-                        subject: "Test example [Homework 10-11]",
-                        body: """
+        stage ('Backup project') {
+            steps {
+                script {
+                    echo "Делаем бэкап джобы"
+                    sh "cd /var/lib/jenkins/workspace/a.stupintestjob && sudo tar -cf backupJob.tar a.stupintestjob"
+                    echo "Перемещаем в фолдер backup"
+                    sh "mv /var/lib/jenkins/workspace/a.stupintestjob/backupJob.tar /home/ts/backup"
+                }
+            }
+        }
+
+        post {
+            success {
+                script {
+                    def getLastBuild = getResultOfLastBuild()
+                    def getDuration = getDurationResult()
+                    emailext to: 'a.stupin@tetra-soft.ru',
+                            subject: "Test example [Homework 10-11]",
+                            body: """
                 <br>Номер сборки: <b>${BUILD_NUMBER}</b>
                 <br>Статус сборки: <b>$getLastBuild</b>  
                 <br>Ветка репозитария: <b>${NODE_NAME}</b>
                 <br>Количество тестов: <b></b>
                 <br>Общее время выполнения job'ы: <b>$getDuration - Unix time</b>""",
-                        mimeType: 'text/html'
+                            mimeType: 'text/html'
+                }
             }
-        }
-        always {
-            script {
-                sendRC(currentBuild.currentResult, "Rigspace", "rigspace")
+            always {
+                script {
+                    sendRC(currentBuild.currentResult, "Rigspace", "rigspace")
+                }
             }
         }
     }
-}
 
-def getResultOfLastBuild () {
-    return !sh(script: "curl -u ${LOGIN}:${PASSWORD} --silent ${BUILD_URL}/api/json | jq -r '.result'")
-}
-
-def getDurationResult() {
-    return !sh(script: "curl -u ${LOGIN}:${PASSWORD} --silent ${BUILD_URL}/api/json | jq -r '.duration'")
-}
-
-def sendRC(String buildResult, String projectName, String channel) {
-    def tokensByChannel = [
-            rigspace: 'CM2GTRU0H',
-            qa: 'CLXFS4RRR'
-    ]
-    if  ( buildResult == "SUCCESS" ) {
-        slackSend color: "good", channel: tokensByChannel.get(channel), message: "Тесты пройдены"
+    def getResultOfLastBuild () {
+        return !sh(script: "curl -u ${LOGIN}:${PASSWORD} --silent ${BUILD_URL}/api/json | jq -r '.result'")
     }
-    else if ( buildResult == "FAILURE" ) {
-        slackSend color: "danger", channel: tokensByChannel.get(channel), message: "Тесты НЕ пройдены"
+
+    def getDurationResult() {
+        return !sh(script: "curl -u ${LOGIN}:${PASSWORD} --silent ${BUILD_URL}/api/json | jq -r '.duration'")
+    }
+
+    def sendRC(String buildResult, String projectName, String channel) {
+        def tokensByChannel = [
+                rigspace: 'CM2GTRU0H',
+                qa: 'CLXFS4RRR'
+        ]
+        if  ( buildResult == "SUCCESS" ) {
+            slackSend color: "good", channel: tokensByChannel.get(channel), message: "Тесты пройдены"
+        }
+        else if ( buildResult == "FAILURE" ) {
+            slackSend color: "danger", channel: tokensByChannel.get(channel), message: "Тесты НЕ пройдены"
+        }
     }
 }
