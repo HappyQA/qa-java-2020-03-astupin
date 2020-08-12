@@ -31,24 +31,24 @@ public class OtusRunTest  {
         /**
          * Запуск тестов в Selenoid
          */
-        DesiredCapabilities capabilities = new DesiredCapabilities();
-        capabilities.setBrowserName("chrome");
-        capabilities.setVersion("83.0");
-        capabilities.setCapability("enableVNC", true);
-        capabilities.setCapability("enableVideo", false);
-
-        String PortNumber = System.getProperty("remote");
-        driver = new RemoteWebDriver(
-                new URL(PortNumber),
-                capabilities
-        );
+//        DesiredCapabilities capabilities = new DesiredCapabilities();
+//        capabilities.setBrowserName("chrome");
+//        capabilities.setVersion("83.0");
+//        capabilities.setCapability("enableVNC", true);
+//        capabilities.setCapability("enableVideo", false);
+//
+//        String PortNumber = System.getProperty("remote");
+//        driver = new RemoteWebDriver(
+//                new URL(PortNumber),
+//                capabilities
+//        );
         logger.info("Remote Дайвер up");
         /**
          * Локальный запуск тестов
          */
-//        String BrowserType = System.getProperty("browser");
-//        driver = BrowserFactory.getDriver(BrowserType);
-//        logger.info("Драйвер up");
+        String BrowserType = System.getProperty("browser");
+        driver = BrowserFactory.getDriver(BrowserType);
+        logger.info("Драйвер up");
 
         driver.manage().timeouts().implicitlyWait(5, TimeUnit.SECONDS);
     }

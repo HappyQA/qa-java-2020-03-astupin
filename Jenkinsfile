@@ -8,34 +8,20 @@ properties([[$class: 'RebuildSettings', autoRebuild: false, rebuildDisabled: fal
 ])
 
 pipeline {
-    agent any
-
-    tools {
-        maven 'Maven3.6.0'
-        jdk 'java8'
+    agent {
+        docker {
+            image 'csanchez/selenium-maven'
+        }
     }
 
     stages {
-
-        stage('Git pull') {
-            steps {
-                echo "Подпуливаемся из репозитария"
-                git 'https://github.com/HappyQA/qa-java-2020-03-astupin'
-            }
-        }
-
-        stage('Mvn clean') {
-            steps {
-                echo "Чистим target"
-                sh "mvn clean"
-            }
-        }
 
         stage('Run test') {
             steps {
                 script {
                     echo "Запускаем тесты"
-                    //sh "mvn test -Dremote=http://localhost:4444/wd/hub"
+                    sh "git clone https://github.com/HappyQA/qa-java-2020-03-astupin/"
+                    sh "mvn clean test"
                 }
             }
         }
@@ -43,8 +29,14 @@ pipeline {
         stage('Run allure reports') {
             steps {
                 script {
-                    echo "Запускаем тесты"
-                    //sh "allure:serve"
+                    echo "Запускаем отчеты"
+                    sh "allure:serve"
+                }
+            }
+            post {
+                always {
+                    junit '**/target/allure-results/TEST-*.xml'
+                    achriveArtifacts 'target/*.jar'
                 }
             }
         }
@@ -56,14 +48,19 @@ pipeline {
                 def getLastBuild = getResultOfLastBuild()
                 def getDuration = getDurationResult()
                 emailext to: 'a.stupin@tetra-soft.ru',
-                subject: "Test example [Homework 10-11]",
-                body: """
+                        subject: "Test example [Homework 10-11]",
+                        body: """
                 <br>Номер сборки: <b>${BUILD_NUMBER}</b>
                 <br>Статус сборки: <b>$getLastBuild</b>  
                 <br>Ветка репозитария: <b>${NODE_NAME}</b>
                 <br>Количество тестов: <b></b>
                 <br>Общее время выполнения job'ы: <b>$getDuration - Unix time</b>""",
-                mimeType: 'text/html'
+                        mimeType: 'text/html'
+            }
+        }
+        always {
+            script {
+                sendRC(currentBuild.currentResult, "Rigspace", "rigspace")
             }
         }
     }
@@ -75,4 +72,17 @@ def getResultOfLastBuild () {
 
 def getDurationResult() {
     return !sh(script: "curl -u ${LOGIN}:${PASSWORD} --silent ${BUILD_URL}/api/json | jq -r '.duration'")
+}
+
+def sendRC(String buildResult, String projectName, String channel) {
+    def tokensByChannel = [
+            rigspace: 'CM2GTRU0H',
+            qa: 'CLXFS4RRR'
+    ]
+    if  ( buildResult == "SUCCESS" ) {
+        slackSend color: "good", channel: tokensByChannel.get(channel), message: "Тесты пройдены"
+    }
+    else if ( buildResult == "FAILURE" ) {
+        slackSend color: "danger", channel: tokensByChannel.get(channel), message: "Тесты НЕ пройдены"
+    }
 }
