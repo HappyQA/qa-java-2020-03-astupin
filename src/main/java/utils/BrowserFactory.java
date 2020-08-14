@@ -8,10 +8,24 @@ import org.openqa.selenium.chrome.ChromeDriver;
 import org.openqa.selenium.chrome.ChromeOptions;
 import org.openqa.selenium.firefox.FirefoxDriver;
 import org.openqa.selenium.firefox.FirefoxOptions;
+import org.springframework.stereotype.Component;
+
 import static enums.BrowserName.CHROME;
 import static enums.BrowserName.FIREFOX;
 
+@Component
 public class BrowserFactory {
+
+//    public ChromeDriver getChrome() {
+//        WebDriverManager.chromedriver().setup();
+//        return new ChromeDriver();
+//    }
+
+    public FirefoxDriver getFirefox() {
+        WebDriverManager.firefoxdriver().setup();
+        return new FirefoxDriver();
+    }
+
 
     public static WebDriver getDriver(String browserName) {
         return getDriver(browserName, new MutableCapabilities());

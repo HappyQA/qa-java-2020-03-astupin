@@ -11,6 +11,9 @@ import org.openqa.selenium.WebDriver;
 import config.ConfigFile;
 import org.openqa.selenium.remote.DesiredCapabilities;
 import org.openqa.selenium.remote.RemoteWebDriver;
+import org.springframework.beans.factory.annotation.Autowired;
+import org.springframework.context.ApplicationContext;
+import org.springframework.context.annotation.AnnotationConfigApplicationContext;
 import utils.BrowserFactory;
 
 import java.net.MalformedURLException;
@@ -21,7 +24,9 @@ import java.util.concurrent.TimeUnit;
 
 public class OtusRunTest  {
 
-    WebDriver driver;
+    @Autowired
+    protected BrowserFactory browserFactory;
+    public WebDriver driver;
     Logger logger = LogManager.getLogger(OtusRunTest.class);
     ConfigFile cfg = ConfigFactory.create(ConfigFile.class);
 
@@ -42,13 +47,19 @@ public class OtusRunTest  {
 //                new URL(PortNumber),
 //                capabilities
 //        );
-        logger.info("Remote Дайвер up");
+//        logger.info("Remote Дайвер up");
         /**
          * Локальный запуск тестов
          */
-        String BrowserType = System.getProperty("browser");
-        driver = BrowserFactory.getDriver(BrowserType);
-        logger.info("Драйвер up");
+        String browserType = System.getProperty("browser");
+        ApplicationContext javaConfigContext =
+                new AnnotationConfigApplicationContext(BrowserFactory.class);
+        browserFactory = javaConfigContext.getBean(BrowserFactory.class);
+        if (browserType == null) driver = browserFactory.getDriver("chrome");
+        else driver = browserFactory.getDriver(browserType);
+
+//        driver = BrowserFactory.getDriver(BrowserType);
+        logger.info("Local Драйвер up");
 
         driver.manage().timeouts().implicitlyWait(5, TimeUnit.SECONDS);
     }
