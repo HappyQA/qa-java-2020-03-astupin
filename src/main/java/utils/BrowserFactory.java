@@ -16,17 +16,6 @@ import static enums.BrowserName.FIREFOX;
 @Component
 public class BrowserFactory {
 
-//    public ChromeDriver getChrome() {
-//        WebDriverManager.chromedriver().setup();
-//        return new ChromeDriver();
-//    }
-
-    public FirefoxDriver getFirefox() {
-        WebDriverManager.firefoxdriver().setup();
-        return new FirefoxDriver();
-    }
-
-
     public static WebDriver getDriver(String browserName) {
         return getDriver(browserName, new MutableCapabilities());
     }
