@@ -22,6 +22,7 @@ public class MainTsumTest extends OtusRunTest {
     public void sendEmailForSubscribe () {
         mainPage.openSite();
         mainPage.getInputEmailSubscription("test@mail.ru");
-        mainPage.getCheckSubscriptionTitle();
+        mainPage.clickOnButtonSubscription();
+        mainPage.сheckSubscriptionTitle();
     }
 }

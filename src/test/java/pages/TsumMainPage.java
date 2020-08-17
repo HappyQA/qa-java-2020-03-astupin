@@ -19,7 +19,7 @@ public class TsumMainPage extends AbstractPage {
                 .sendKeys(email);
     }
     @Step("Нажатие на кнопку отправить")
-    public void clickOnButtonSubscription (String email) {
+    public void clickOnButtonSubscription () {
         driver.findElement(By.xpath("//button[@type='submit']"))
                 .click();
     }
