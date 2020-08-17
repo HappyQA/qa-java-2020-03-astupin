@@ -21,7 +21,6 @@ import java.net.URL;
 import java.util.concurrent.TimeUnit;
 
 @Epic("Инициализация base test")
-
 public class OtusRunTest  {
 
     @Autowired

@@ -9,7 +9,7 @@ import steps.MainPageStep;
 
 @Epic("Тест сайта ЦУМ.РУ")
 public class MainTsumTest extends OtusRunTest {
-
+    
     private MainPageStep mainPageStep;
 
     @Before

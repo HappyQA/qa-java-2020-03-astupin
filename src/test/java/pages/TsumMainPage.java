@@ -1,6 +1,7 @@
 package pages;
 
 import io.qameta.allure.Description;
+import lombok.Getter;
 import org.openqa.selenium.By;
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.WebElement;
@@ -15,13 +16,12 @@ public class TsumMainPage extends AbstractPage {
 
     public TsumMainPage( WebDriver driver ) {
         super(driver);
-        this.driver = driver;
         PageFactory.initElements(driver, this);
     }
     //Получение инпута для ввода Email для подсписки
     public WebElement getInputEmailSubscription () {
-        return emailSubscribe
-                .findElement(By.xpath("//input[@name='name']"));
+        return emailSubscribe.
+                findElement(By.xpath("//input[@name='email']"));
     }
     //Получение кнопки "Отправить"
     public WebElement getButtonSubscription ()  {
@@ -34,3 +34,6 @@ public class TsumMainPage extends AbstractPage {
                 .findElement(By.xpath("//p[@class='message__text' and contains[text(), 'Вы успешно подписаны!']"));
     }
 }
+
+
+
