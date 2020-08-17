@@ -1,29 +1,27 @@
 package cases;
 
-import io.qameta.allure.Description;
 import io.qameta.allure.Epic;
 import io.qameta.allure.Feature;
+import org.junit.jupiter.api.DisplayName;
 import org.junit.Before;
 import org.junit.Test;
-import steps.MainPageStep;
+import pages.TsumMainPage;
 
 @Epic("Тест сайта ЦУМ.РУ")
 public class MainTsumTest extends OtusRunTest {
-    
-    private MainPageStep mainPageStep;
+
+    TsumMainPage mainPage;
 
     @Before
-    public void setUp () {
-        mainPageStep = new MainPageStep(driver);
+    public void setUpMethod () {
+        mainPage = new TsumMainPage(driver);
     }
     @Feature("Главная траница сайта")
-    @Description("Ввод email адреса на подписку новостей на главной странице")
     @Test
+    @DisplayName("Ввод email адреса на подписку новостей на главной странице")
     public void sendEmailForSubscribe () {
-        mainPageStep
-                .sendEmailInsideInputSubscription("test@mail.ru")
-                .clickOnButtonSubscrie()
-                .getMessageTextForSubscribe()
-        ;
+        mainPage.openSite();
+        mainPage.getInputEmailSubscription("test@mail.ru");
+        mainPage.getCheckSubscriptionTitle();
     }
 }

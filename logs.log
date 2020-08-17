@@ -3426,3 +3426,64 @@
 2020-08-14 03:01:52,413 INFO c.OtusRunTest [main] Local Драйвер up
 2020-08-14 03:04:05,117 INFO c.OtusRunTest [main] Local Драйвер up
 2020-08-14 03:04:07,170 INFO c.OtusRunTest [main] Local Драйвер up
+2020-08-18 01:10:08,982 INFO c.OtusRunTest [main] Local Драйвер up
+2020-08-18 01:10:15,396 INFO c.OtusRunTest [main] Тест кейс 11 выполнен
+2020-08-18 01:10:15,472 INFO c.OtusRunTest [main] Драйвер off
+2020-08-18 01:10:15,804 INFO c.OtusRunTest [main] Local Драйвер up
+2020-08-18 01:10:20,821 INFO c.OtusRunTest [main] Тест кейс 9 выполнен
+2020-08-18 01:10:20,929 INFO c.OtusRunTest [main] Драйвер off
+2020-08-18 01:10:21,207 INFO c.OtusRunTest [main] Local Драйвер up
+2020-08-18 01:10:24,690 INFO c.OtusRunTest [main] Тест кейс 3 выполнен
+2020-08-18 01:10:24,849 INFO c.OtusRunTest [main] Драйвер off
+2020-08-18 01:10:25,224 INFO c.OtusRunTest [main] Local Драйвер up
+2020-08-18 01:10:29,996 INFO c.OtusRunTest [main] Тест кейс 15 выполнен
+2020-08-18 01:10:30,132 INFO c.OtusRunTest [main] Драйвер off
+2020-08-18 01:10:30,517 INFO c.OtusRunTest [main] Local Драйвер up
+2020-08-18 01:10:35,620 INFO c.OtusRunTest [main] Тест кейс 12 выполнен
+2020-08-18 01:10:35,790 INFO c.OtusRunTest [main] Драйвер off
+2020-08-18 01:10:36,218 INFO c.OtusRunTest [main] Local Драйвер up
+2020-08-18 01:10:40,108 INFO c.OtusRunTest [main] Тест кейс 6 выполнен
+2020-08-18 01:10:40,268 INFO c.OtusRunTest [main] Драйвер off
+2020-08-18 01:10:40,667 INFO c.OtusRunTest [main] Local Драйвер up
+2020-08-18 01:10:44,960 INFO c.OtusRunTest [main] Тест кейс 2 выполнен
+2020-08-18 01:10:45,116 INFO c.OtusRunTest [main] Драйвер off
+2020-08-18 01:10:45,420 INFO c.OtusRunTest [main] Local Драйвер up
+2020-08-18 01:10:49,153 INFO c.OtusRunTest [main] Тест кейс 7 выполнен
+2020-08-18 01:10:49,374 INFO c.OtusRunTest [main] Драйвер off
+2020-08-18 01:10:49,771 INFO c.OtusRunTest [main] Local Драйвер up
+2020-08-18 01:10:54,198 INFO c.OtusRunTest [main] Тест кейс 10 выполнен
+2020-08-18 01:10:54,408 INFO c.OtusRunTest [main] Драйвер off
+2020-08-18 01:10:54,723 INFO c.OtusRunTest [main] Local Драйвер up
+2020-08-18 01:10:59,136 INFO c.OtusRunTest [main] Тест кейс 5 выполнен
+2020-08-18 01:10:59,347 INFO c.OtusRunTest [main] Драйвер off
+2020-08-18 01:10:59,700 INFO c.OtusRunTest [main] Local Драйвер up
+2020-08-18 01:11:02,862 INFO c.OtusRunTest [main] Тест кейс 8 выполнен
+2020-08-18 01:11:03,023 INFO c.OtusRunTest [main] Драйвер off
+2020-08-18 01:11:03,409 INFO c.OtusRunTest [main] Local Драйвер up
+2020-08-18 01:11:06,333 INFO c.OtusRunTest [main] Тест кейс 13 выполнен
+2020-08-18 01:11:06,401 INFO c.OtusRunTest [main] Драйвер off
+2020-08-18 01:11:06,662 INFO c.OtusRunTest [main] Local Драйвер up
+2020-08-18 01:11:12,287 INFO c.OtusRunTest [main] Тест кейс 4 выполнен
+2020-08-18 01:11:12,411 INFO c.OtusRunTest [main] Драйвер off
+2020-08-18 01:11:12,722 INFO c.OtusRunTest [main] Local Драйвер up
+2020-08-18 01:11:16,247 INFO c.OtusRunTest [main] Тест кейс 1 выполнен
+2020-08-18 01:11:16,333 INFO c.OtusRunTest [main] Драйвер off
+2020-08-18 01:11:16,673 INFO c.OtusRunTest [main] Local Драйвер up
+2020-08-18 01:11:18,980 INFO c.OtusRunTest [main] Тест кейс 14 выполнен
+2020-08-18 01:11:19,046 INFO c.OtusRunTest [main] Драйвер off
+2020-08-18 01:28:13,640 INFO c.OtusRunTest [main] Local Драйвер up
+2020-08-18 01:28:16,950 INFO c.OtusRunTest [main] Драйвер off
+2020-08-18 01:29:01,847 INFO c.OtusRunTest [main] Local Драйвер up
+2020-08-18 01:29:04,971 INFO c.OtusRunTest [main] Драйвер off
+2020-08-18 01:30:02,625 INFO c.OtusRunTest [main] Local Драйвер up
+2020-08-18 01:30:06,067 INFO c.OtusRunTest [main] Драйвер off
+2020-08-18 01:31:21,235 INFO c.OtusRunTest [main] Local Драйвер up
+2020-08-18 01:31:29,262 INFO c.OtusRunTest [main] Драйвер off
+2020-08-18 01:31:48,149 INFO c.OtusRunTest [main] Local Драйвер up
+2020-08-18 01:31:56,122 INFO c.OtusRunTest [main] Драйвер off
+2020-08-18 01:32:03,393 INFO c.OtusRunTest [main] Local Драйвер up
+2020-08-18 01:32:06,877 INFO c.OtusRunTest [main] Драйвер off
+2020-08-18 01:43:39,873 INFO c.OtusRunTest [main] Local Драйвер up
+2020-08-18 01:43:43,373 INFO c.OtusRunTest [main] Драйвер off
+2020-08-18 01:47:55,615 INFO c.OtusRunTest [main] Local Драйвер up
+2020-08-18 01:48:02,804 INFO c.OtusRunTest [main] Драйвер off

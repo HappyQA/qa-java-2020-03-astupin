@@ -1,37 +1,31 @@
 package pages;
 
-import io.qameta.allure.Description;
-import lombok.Getter;
+import io.qameta.allure.Step;
 import org.openqa.selenium.By;
 import org.openqa.selenium.WebDriver;
-import org.openqa.selenium.WebElement;
-import org.openqa.selenium.support.FindBy;
-import org.openqa.selenium.support.PageFactory;
 
 public class TsumMainPage extends AbstractPage {
 
-    //Email подписка в футере
-    @FindBy(xpath = "//footer-subscribe")
-    private WebElement emailSubscribe;
-
-    public TsumMainPage( WebDriver driver ) {
+    public TsumMainPage (WebDriver driver) {
         super(driver);
-        PageFactory.initElements(driver, this);
     }
-    //Получение инпута для ввода Email для подсписки
-    public WebElement getInputEmailSubscription () {
-        return emailSubscribe.
-                findElement(By.xpath("//input[@name='email']"));
+    @Step("Открытие сайта ЦУМ.РУ")
+    public void openSite () {
+        driver.get("https://www.tsum.ru/");
     }
-    //Получение кнопки "Отправить"
-    public WebElement getButtonSubscription ()  {
-        return emailSubscribe
-                .findElement(By.xpath("//button[@type='submit']"));
+    @Step("Получение инпута для ввода Email")
+    public void getInputEmailSubscription (String email) {
+        driver.findElement(By.xpath("//input[@name='email']"))
+                .sendKeys(email);
     }
-    //Сверяем результат подписки
-    public WebElement getCheckSubscriptionTitle () {
-        return emailSubscribe
-                .findElement(By.xpath("//p[@class='message__text' and contains[text(), 'Вы успешно подписаны!']"));
+    @Step("Нажатие на кнопку отправить")
+    public void clickOnButtonSubscription (String email) {
+        driver.findElement(By.xpath("//button[@type='submit']"))
+                .click();
+    }
+    @Step("Сверяем результат подписки")
+    public void сheckSubscriptionTitle () {
+        driver.findElement(By.xpath("//p[contains(text(), 'Вы успешно подписаны!')]"));
     }
 }
 
