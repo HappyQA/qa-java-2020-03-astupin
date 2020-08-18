@@ -103,7 +103,7 @@ public class MainTsumTest extends OtusRunTest {
     }
     @Test
     @DisplayName("Открытие ссылки Шопинг-сервисы")
-    public void openTermsPage () {
+    public void openAboutServicePage () {
         mainPage.openSite();
         mainPage.clickOnBottomSlider();
         mainPage.clickOnAboutService();
