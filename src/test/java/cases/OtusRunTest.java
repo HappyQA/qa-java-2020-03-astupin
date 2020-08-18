@@ -59,8 +59,9 @@ public class OtusRunTest  {
 
 //        driver = BrowserFactory.getDriver(BrowserType);
         logger.info("Local Драйвер up");
-
+//        driver.get("https://www.tsum.ru/");
         driver.manage().timeouts().implicitlyWait(5, TimeUnit.SECONDS);
+//        driver.manage().window().maximize();
     }
     @After
     public void tearsDown () {

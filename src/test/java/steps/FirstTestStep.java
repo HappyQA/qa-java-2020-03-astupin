@@ -7,7 +7,9 @@
 //import io.qameta.allure.Description;
 //import org.junit.Assert;
 //import org.junit.Before;
+//import org.openqa.selenium.By;
 //import org.openqa.selenium.WebDriver;
+//import org.openqa.selenium.WebElement;
 //import pages.AbstractPage;
 //import pages.ElementUse;
 //import pages.TsumMainPage;
@@ -21,19 +23,16 @@
 //        mainPage = new TsumMainPage(driver);
 //    }
 //    @Дано("^главная страница")
-//    public void главнаяCтраница() throws Throwable {
+//    public void главнаяСтраница() {
 //        mainPage.openSite();
-//        throw new PendingException();
 //    }
 //    @Когда("^пользователь вводит email и нажимает на кнопку подписатся")
-//    public void пользовательВводитEmailИНажимаетНаКнопкуПодписатся() throws Throwable {
+//    public void пользовательВводитEmailИНажимаетНаКнопкуПодписатся() {
 //        mainPage.getInputEmailSubscription("test@mail.ru");
 //        mainPage.clickOnButtonSubscription();
-//        throw new PendingException();
 //    }
 //    @Тогда("^приходит уведомление об успешной подписке")
-//    public void приходитУведомлениеОбУспешнойПодписке() throws Throwable {
+//    public void приходитУведомлениеОбУспешнойПодписке() {
 //        mainPage.сheckSubscriptionTitle();
-//        throw new PendingException();
 //    }
 //}
