@@ -9,6 +9,7 @@ public class AutorizationPage extends AbstractPage {
     public AutorizationPage(WebDriver driver) {
         super(driver);
     }
+
     @Step("Инпут ввода Email")
     public void emailInput (String email) {
         driver.findElement(By.xpath("//input[@placeholder='Электронная почта' and @type='text']"))
