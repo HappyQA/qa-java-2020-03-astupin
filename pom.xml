@@ -14,7 +14,7 @@
         <webdrivermanager.version>3.8.1</webdrivermanager.version>
         <log4j-api.version>2.13.1</log4j-api.version>
         <owner-java8.version>1.0.6</owner-java8.version>
-        <log4j-core.version>2.13.1</log4j-core.version>
+        <log4j-core.version>2.13.2</log4j-core.version>
         <junit.version>4.13</junit.version>
         <allure-junit.version>2.13.5</allure-junit.version>
         <allure-java-commons.version>2.13.5</allure-java-commons.version>
